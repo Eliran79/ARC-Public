@@ -1,0 +1,10 @@
+Model#,Filename,Date,Type,Size_KB,Description,Domain,File_Path
+1,trained_templates.bin,2026-01-14,Template Checkpoint,7.5,Main emergent embedding training checkpoint,Text Embedding,np-optima/trained_templates.bin
+2,trained_templates_v2.bin,2026-01-14,Template Checkpoint,4.8,Alternative version with different hyperparameters,Text Embedding,np-optima/trained_templates_v2.bin
+3,trained_templates_warpwoof.bin,2026-01-14,Template Checkpoint,4.8,Warp-woof variant for audio-text alignment,Text Embedding,np-optima/trained_templates_warpwoof.bin
+4,trained_extended_templates.bin,2026-01-14,Extended Template,14,Extended templates with larger vocabulary,Text Embedding,np-optima/trained_extended_templates.bin
+5,templates.bin,2026-01-13,Audio Template,4.8,Audio phoneme recognition templates,Audio/Speech,np-optima/data/audio/templates.bin
+6,libri_templates.bin,2026-01-13,Audio Template,4.8,LibriSpeech-trained phoneme templates,Audio/Speech,np-optima/data/audio/libri_templates.bin
+7,projection.bin,2026-01-13,Projection Matrix,2.3,Laplace domain projection matrix for audio,Audio/Speech,np-optima/data/audio/projection.bin
+8,projection_ls.bin,2026-01-13,Projection Matrix,2.3,Least squares projection variant,Audio/Speech,np-optima/data/audio/projection_ls.bin
+9,LibriSpeech/,2026-01-13,Audio Corpus,821000,LibriSpeech dev-clean corpus (FLAC audio + transcripts),Audio/Speech,np-optima/data/audio/LibriSpeech/

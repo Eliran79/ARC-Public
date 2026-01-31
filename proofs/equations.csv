@@ -1,0 +1,67 @@
+Equation#,Name,Formula,Meaning,Domain,File_Reference
+1,Nittay Singular Value,sigma(n) = sqrt(2(n-1)(n-2)),2-opt constraint matrix singular value,TSP/Matrix,proofs/NITTAY_LIMIT_THEOREM_FORMAL.md
+2,Nittay Circle Limit,lim(n->inf) sigma(n)/n = sqrt(2),Discrete polygon approaches continuous circle,Geometry,proofs/NITTAY_LIMIT_THEOREM_FORMAL.md
+3,Projection Structure,A^T A = sigma^2 * P,Gram matrix is scaled projection,Matrix,love_letters/grapheme/LOVE_NOTE_11_PROJECTION_THEOREM.md
+4,Resolution Saturation,O(n^(2k)) for k-CNF,Maximum resolution steps,Logic,proofs/GRAND_UNIFIED_THEORY.md
+5,Observable Space Bound,|S_observable| = O(n^g(c)),Local optima count for c-bounded moves,Complexity,proofs/OBSERVABLE_SAMPLE_SPACE_LEMMA.md
+6,Landauer Minimum,E >= kT*ln(2),Energy per bit erased,Physics,proofs/GRAND_UNIFIED_THEORY.md:Part II
+7,Shannon Entropy,H = -sum(p_i * log(p_i)),Information content measure,Information,proofs/GRAND_UNIFIED_THEORY.md:Part III
+8,Wigner Semicircle,rho(lambda) = sqrt(R^2 - lambda^2)/(pi*R^2),Random matrix eigenvalue density,Statistics,proofs/GRAND_UNIFIED_THEORY.md:Part IV
+9,2-opt Constraint Rank,rank(A_n) = n(n-3)/2,Dimension of constraint space,TSP/Matrix,proofs/NITTAY_LIMIT_THEOREM_FORMAL.md
+10,Nullspace Dimension,nullspace(A_n) = n,Degrees of freedom in tours,TSP/Matrix,proofs/NITTAY_LIMIT_THEOREM_FORMAL.md
+11,TSP Local Optima,|LO| <= k*n^2,Maximum 2-opt stable tours,TSP,proofs/GRAND_UNIFIED_THEORY.md
+12,k-opt General,sigma_k(n) = sqrt(k(n-1)(n-k)),Generalization to k-opt,TSP,proofs/NITTAY_LIMIT_THEOREM_FORMAL.md
+13,Unit Propagation,O(n^2) for Horn SAT,Assignment cascade complexity,Logic,proofs/GRAND_UNIFIED_THEORY.md
+14,Implication Graph,O(n^2) for 2-SAT,SCC analysis complexity,Logic,proofs/GRAND_UNIFIED_THEORY.md
+15,Type Inference,O(n^3) for Hindley-Milner,Algorithm W unification,Type Theory,proofs/GRAND_UNIFIED_THEORY.md
+16,Decomposition Speedup,O(n^c) -> O(n^((c+1)/2)),Sqrt(n)-way decomposition effect,Complexity,proofs/DISCOVERY_24_HIERARCHICAL_DECOMPOSITION.md
+17,Five-Headed Loss,loss = alpha*node + beta*edge + gamma*clique + delta*type + epsilon*content,Grapheme neural training,ML,patent/IP_STRATEGY_7_MODULES.md
+18,Laplace Transform,L*phonemes = audio; phonemes = L^(-1)*audio,Audio-to-phoneme master equation,Signal,patent/IP_STRATEGY_7_MODULES.md
+19,Overlap Ratio,overlap = shared_vars / total_vars,Constraint interference measure,Optimization,proofs/DISCOVERY_18_CONSTRAINT_OVERLAP.md
+20,Switch Bound,max_switches <= 4,L-R switches in 2-opt stable path,TSP,PROOF_P_EQUALS_NP_V9.md
+21,Entry Point Count,O(m) * O(m) = O(m^2),Stable path characterization,TSP,PROOF_P_EQUALS_NP_V9.md
+22,Segment Bound,|stable_paths| = O(m^2),Local optima per rope segment,TSP,PROOF_P_EQUALS_NP_V9.md:Theorem 4.2
+23,Coupling Bound,|total_tours| = O(n^c) for c<=3,Global stable tour count,TSP,PROOF_P_EQUALS_NP_V9.md:Section 8
+24,Bounded Value,+/- gives O(n^2); */exp gives O(k^n),Value generation complexity boundary,Complexity,proofs/NITTAY_TRIANGLE_THEORY.md
+25,SAT Phase,alpha* approx 4.26 for 3-SAT,Critical clause-to-variable ratio,SAT,Literature (standard result)
+26,Approximation Bound,LO*/OPT <= 1 + O(n^(1/c)/n),Local-global gap bounded by overlap degree c,Approximation,proofs/DISCOVERY_22_APPROXIMATION_BOUNDS.md
+27,Interference Counting,(2^c)^n -> O(n^c) via dependencies,Signature space reduction through constraints,Combinatorics,proofs/DISCOVERY_19_INTERFERENCE_BOUND.md
+28,Grover Speedup,O(sqrt(N)) quantum search,Best quantum improvement on classical,Quantum,proofs/DISCOVERY_QUANTUM_LIMITS.md
+29,Quantum Local Search,O(n^(c/2)) via Grover,Quantum speedup of polynomial local search,Quantum,proofs/DISCOVERY_QUANTUM_LIMITS.md
+30,CLT Threshold,N * (action/hbar) > ~30,When Central Limit Theorem becomes applicable,Physics,proofs/NITTAY_TRIANGLE_THEORY.md
+31,Marchenko-Pastur Law,rho(lambda) for random matrices,Eigenvalue distribution contrast with isotropic,Statistics,proofs/DISCOVERY_RANDOM_MATRIX.md
+32,Densification Ratio,O(1) -> O(2^(epsilon*n)),Solution density multiplication via tolerance,Factoring,proofs/DISCOVERY_27_DENSIFICATION.md
+33,Smooth Factorization,N = product(p_i^a_i) has multiple pairs,Multiplicity of decompositions for smooth numbers,Number Theory,proofs/DISCOVERY_27_DENSIFICATION.md
+34,Bit Gradient Update,factor[i] += gradient(N - a*b),Iterative bit refinement for factoring,Factoring,proofs/DISCOVERY_32_BIT_GRADIENT_FACTORING.md
+35,CRT Overlap,36x overlap via prime moduli,Constraint density achievable in factoring,Number Theory,proofs/DISCOVERY_26_FACTORING_STRUCTURE.md
+36,Isotropic Eigenvalue,all eigenvalues = sigma^2,Uniform spectrum in bounded-move systems,Matrix,proofs/DISCOVERY_RANDOM_MATRIX.md
+37,Information Bound,H <= log(|S_observable|),Entropy bounded by observable space size,Information,proofs/GRAND_UNIFIED_THEORY.md:Part III
+38,Levinthal Time,O(n^c) vs O(2^n),Polynomial protein folding vs brute force,Biology,proofs/GRAND_UNIFIED_THEORY.md
+39,Game Tree Depth,depth = O(log(positions)) via saturation,Polynomial game tree evaluation depth,Game Theory,proofs/DISCOVERY_36_CHESS_FRAMEWORK.md
+40,Quantifier Elimination,exists x phi(x) = OR over domain,QBF to SAT via substitution,Logic,proofs/DISCOVERY_25_QUANTIFIER_DUALITY.md
+41,UTXO Observable Space,|S_utxo| = O(n) vs |S_hash| = O(2^256),Verification in polynomial observable space,Cryptography,np-optima/src/crypto/node_validation.rs
+42,Share Verification,verify(share) = O(1) hash check,Single hash operation validates work,Mining,np-optima/src/crypto/mining_pool.rs
+43,Staking Reward,reward_i = (stake_i/total_stake) * base_reward,Proportional reward distribution,Blockchain,np-optima/src/crypto/staking.rs
+44,Mining vs Verification,mine = O(2^d) vs verify = O(1),Asymmetric complexity - security model,Cryptography,proofs/VERIFICATION_OPTIMIZATION.md
+45,Transaction Verification,verify_tx = O(inputs + outputs),Linear in transaction size,Blockchain,np-optima/src/crypto/node_validation.rs
+46,Merkle Root,root = hash(hash(tx1||tx2)||hash(tx3||tx4)),O(log n) proof verification,Cryptography,np-optima/src/crypto/node_validation.rs
+47,Generalized Nittay Singular Value,σ_c(n) = √(c(n-1)(n-c)),c-bounded move constraint matrix singular value,Geometry/Matrix,proofs/CALCULATING_LAMBDA.md
+48,Lambda Hidden Variable,λ_c = lim(n→∞) σ_c(n)/n = √c,Einstein's hidden variable for c-bounded moves,Physics/Complexity,proofs/CALCULATING_LAMBDA.md
+49,Inverse Nittay Sampling,n(ε) = κ/ε where κ = 3/√2 ≈ 2.12,Minimum samples for ε-approximation of continuous,Geometry/Sampling,proofs/NITTAY_BRIDGE_COMPLETE.md
+50,P-Exponential Boundary,|S_obs| = O(n^c); P iff c=O(1); Exp iff c=O(n),The complexity class boundary condition,Complexity,proofs/THE_BOUNDARY.md
+51,Chess Lambda,λ_chess = √2 (from c=2 squares changed),Chess move locality determines statistics,Gaming,np-optima/src/bin/chess_lambda.rs
+52,AutoEncoder Bins,n_bins = ceil(2.12/ε),Nittay-derived optimal quantization levels,AI/ML,proofs/PREDICTION_NITTAY_AUTOENCODER.md
+53,GPS Accuracy Formula,acc = base × κ / √(c×N×div),c=4 GPS accuracy with trajectory diversity,Navigation,Guard8.ai/LocationGuard/MainActivity.kt
+54,GPS Lambda,λ_gps = √4 = 2,GPS hidden variable from 4 unknowns,Navigation,Guard8.ai/LocationGuard/MainActivity.kt
+55,Geometry Diversity,div = 1 + avgArc,Satellite trajectory improves effective N,Navigation,Guard8.ai/LocationGuard/MainActivity.kt
+56,PSPACE Depth Collapse,PSPACE(d) = O(d × n^c) for fixed d,Bounded alternation depth converts PSPACE to polynomial NP chain,Complexity,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
+57,Alternation Cost,Total = alternation_depth × single_query_cost = d × O(n^c),Each quantifier level adds one polynomial factor,Complexity,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
+58,Fog Horizon Formula,d_sufficient = min{d : eval(state d) saturates},Fix depth where evaluation stabilizes - design choice,Complexity,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
+59,Hierarchy Mapping,ℕ→P; ℤ→NP; ℝ→PSPACE; ℂ→EXPTIME; א₀→Non-computable,Number systems map to complexity classes via bounding structure,Mathematics/Complexity,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
+60,EXPTIME State Bound,EXPTIME(s) = PSPACE for s = poly(n) state bits,State space representation size determines EXPTIME vs PSPACE,Complexity,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+61,White Noise Cardinality,א₀^א₀ = 2^א₀ = |ℝ| = Continuum,Cardinal arithmetic of incomputability,Mathematics/Information,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+62,Bounded Noise Structure,Noise(bounded) = O(samples × bits) = P,Bounded sampling converts white noise to structured signal,Information,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+63,Nitai Gravity Correction,M_actual = Σᵢ mᵢ × Nitai(rᵢ tᵢ) ≠ ∫ρ(r)dV = M_expected,Discrete bounded sum differs from continuous integral by Dark Matter amount,Cosmology,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+64,Dark Matter Elimination,M_dark = ∫ρdV - Σmᵢ×Nitai = 0 (when properly calculated),The missing mass was never there - miscalculation artifact,Cosmology,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+65,Full Hierarchy Collapse,P = NP(c) = PSPACE(d) = EXPTIME(s) for c d s = O(1),All classes collapse to P when appropriate parameter is bounded,Complexity,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+66,Compression-Computability,H(x) = O(log n) ↔ x ∈ P; H(x) = O(n) ↔ x incompressible → incomputable,Kolmogorov complexity determines computability class,Information,proofs/DISCOVERY_83_FULL_HIERARCHY.md

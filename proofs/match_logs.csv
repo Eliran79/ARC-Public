@@ -1,0 +1,8 @@
+Log#,Filename,Date,Type,Description,Size_KB,Key_Result,File_Path
+1,games_20260106.log,2026-01-06,Chess Games,Raw game records with move sequences,28,Multiple games with full move notation,np-optima/match_logs/games_20260106.log
+2,results_20260106.log,2026-01-06,Results CSV,Game outcomes in pipe-separated format (game_id|result|moves),3,146 wins recorded,np-optima/match_logs/results_20260106.log
+3,overnight_output.log,2026-01-06,Execution Log,Overnight match batch run output,6,Batch execution metadata,np-optima/match_logs/overnight_output.log
+4,smart_match_20260106_010404.log,2026-01-06,Smart Match,Smart matching algorithm test results,1,Algorithm performance data,np-optima/match_logs/smart_match_20260106_010404.log
+5,vs_stockfish_20260106_011047.log,2026-01-06,Stockfish Match,P=NP Framework vs Stockfish AI (60 moves),2,Draw after 60-move limit,np-optima/match_logs/vs_stockfish_20260106_011047.log
+6,morning_report.txt,2026-01-06,Report Header,Summary metadata for overnight run,0.1,Timestamp marker,np-optima/match_logs/morning_report.txt
+7,saturation_victory_20260117.log,2026-01-17,Stockfish Match,Discovery 53 - Saturation vs Full Power Stockfish 17 + NNUE,1,Checkmate in 11 moves (b1c3 a7a6 d2d4 a6a5 e2e4 a5a4 f1b5 a4a3 b2a3 b7b6 g1f3 c7c6 e1g1 c6c5 d4c5 d8c7 c3d5 e8d8 c5b6 d7d6 b6c7#),/tmp/saturation_result.txt

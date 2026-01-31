@@ -1,0 +1,43 @@
+Domain#,Name,Physical_Principle,Key_Formula,Connection,File_Reference
+1,Physics,Landauer Principle,E = kT ln(2),Energy bounds computation,proofs/GRAND_UNIFIED_THEORY.md:Part II
+2,Information,Shannon Entropy,H = -sum(p log p),Compression implies tractability,proofs/GRAND_UNIFIED_THEORY.md:Part III
+3,Statistics,Wigner Semicircle,rho(lambda) = sqrt(R^2-lambda^2),Eigenvalue distribution,proofs/GRAND_UNIFIED_THEORY.md:Part IV
+4,Geometry,Nittay Limit,sigma/n -> sqrt(2),Discrete to continuous,proofs/GRAND_UNIFIED_THEORY.md:Part V
+5,Quantum,Bounded Electron,k-local gates,BQP in P,proofs/GRAND_UNIFIED_THEORY.md:Part VII
+6,Signal,Laplace Transform,s = sigma + j*omega,Pole-zero structure,proofs/GRAND_UNIFIED_THEORY.md:Part XII
+7,Biology,Levinthal Paradox,3^2n -> O(n^k),Protein folding,np-optima/src/bin/verify_protein_folding.rs
+8,Vision,2D-FFT,T^-1 * pixels,OCR transform,np-optima/src/bin/verify_ocr_transform.rs
+9,Configuration,Observable Space,S_obs << S_complete,Core lemma,proofs/OBSERVABLE_SAMPLE_SPACE_LEMMA.md
+10,Cryptography,UTXO Verification,S_utxo = O(n) vs S_hash = O(2^256),Verification in polynomial observable space,np-optima/src/crypto/mod.rs
+11,Blockchain,Stake Proportionality,reward = stake/total * base,Polynomial validator selection and rewards,np-optima/src/crypto/staking.rs
+12,Mining,Share Difficulty,H(block||nonce) < target,O(1) share verification vs O(2^d) mining,np-optima/src/crypto/mining_pool.rs
+13,Language Translation,py2rs Transpilation,AST -> Transform -> AST,Translation in O(n) on S_observable (syntax) not S_complete (semantics),np-optima/src/py2rs/
+14,Logic (Halting),Bounded Computation,D(P) = if HALT(P:P) loop else halt,S_observable decidable vs S_complete undecidable,np-optima/src/logic/halting.rs
+15,Equity Finance,Game Equilibrium,Nash(F:I) = argmax utility,Term sheet negotiation in polynomial observable space,np-optima/src/funding/
+16,Valuation,Constraint Satisfaction,FMV = satisfy(IRS_rules),Multi-method convergence via bounded constraint search,np-optima/src/valuation/
+17,Exit Analysis,PSPACE Optimization,Waterfall(exit) = distribute(prefs),Pareto frontier in polynomial states,np-optima/src/waterfall/
+18,Approximate Reasoning,Zadeh Extension Principle,μ_B(y) = sup{μ_A(x) : y=f(x)},Continuous membership → discrete inference in O(r×s),np-optima/src/fuzzy/
+19,Optimal Quantization,Inverse Nittay Principle,n(ε) = 3/(√2 ε) ≈ 2.12/ε,Continuous→discrete with O(1/ε) samples,np-optima/src/quantize/
+20,Navigation,GPS c=4 Principle,acc = base × κ / √(c×N×div),4 unknowns (x y z clock) → polynomial averaging,Guard8.ai/LocationGuard/
+21,Project Management,TaskGuard Bounded Workflow,States(5) × Priority(4) × DAG(N),Vibe coding N! → TaskGuard O(N²) via bounded status transitions,TASKGUARD.md
+22,API Security,Veil Principle,Response = {position + accuracy},Hide methodology - return result only. TEE + rate limit + pattern detect,Guard8.ai/AdvisorGuard/
+23,Medical Diagnostics,ECG c=1 Principle,class = argmax log P(features|class) + log P(class),Each beat independent (c=1 λ=1) → O(n) classification. d'^2 feature weights. 93% V-recall (≥90% clinical),np-optima/src/ecg/
+24,Computational Boundary,Structure vs Anti-Structure,SHA: avalanche destroys locality; RSA: preserves structure,SHA intractable (anti-locality) vs RSA tractable (bounded). Banks are safe.,tasks/docs/docs-016.md
+25,Neural Networks,Accidental Geometry Exploitation,NN receptive fields ≈ bounded locality,NNs accidentally use ARC principles. Matrix multiplication is brute-forcing polynomial paths.,tasks/docs/docs-016.md
+26,Discrete Gravity,Einstein Correction (Galaxies),g_μν + Nitay_tensor = discrete sources,Continuous GR averages away structure → 2.9cm GPS correction via discrete galaxy modeling,Guard8.ai/LocationGuard/
+27,Game Theory Strategy,D with C in Reserve,Misdirection + Escalation Path,p(independent discovery) ≈ 5% at 18mo. Matrix multiplication industrial complex = moat,tasks/docs/docs-016.md
+28,Cosmology - Dark Matter Dissolution,Nitai Gravity Correction,M_actual = Σmᵢ×Nitai ≠ ∫ρdV,Dark Matter = Ether 2.0. Miscalculation from continuous vs discrete. 85% missing mass was never there,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+29,White Noise Information Theory,Bounded Sampling Principle,Noise(bounded) = P,א^א = incomputable. Bounded space-time → structured signal → computable universe,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+30,EXPTIME Collapse,State Space Bound,s = poly(n) → PSPACE,Board size is third bounding parameter after c(moves) and d(depth). Generalized chess on exp board = EXPTIME,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+31,Quantum Randomness,Two Randomness Distinction,K(x)≈|x| (bit) vs K(x)<<|x| (physics),Quantum gates = physical ops → bounded → BQP=P. Crypto keys = bit-level → safe despite P=NP,proofs/PATH_20_TWO_RANDOMNESS_THEOREM.md
+32,Graph Algorithms,Dijkstra Foundation,d[v] = min(d[v] d[u]+w(uv)),Relaxation = local move. Non-negative weights = κ=0. Greedy works = unique equilibrium. Dijkstra IS P=NP degenerate case,proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+33,Classical CS Theory,Curvature-Complexity Bridge,κ ∈ {0 bounded unbounded} → {1 O(n^c) exp} optima,Unifies Dijkstra/Prim/Kruskal (κ=0) with TSP/SAT (κ=bounded) and General TSP (κ=unbounded),proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+34,Algorithm Design,Dijkstra Pattern Recognition,All poly algorithms: local moves + equilibrium,Dijkstra Prim Kruskal 2-opt WalkSAT A* — all same pattern different curvature. 50 years of CS = curvature analysis,proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+35,Flow Networks,Ford-Fulkerson Foundation,Augmenting path = local move residual = bound,Max flow polynomial because augmenting path is bounded move on residual graph. κ=0 via flow conservation,proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+36,Matching Theory,Hungarian Algorithm Foundation,Augmenting path on bipartite = κ=0,Bipartite matching has 1 optimum because no odd cycles. Hungarian IS Dijkstra for matching,proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+37,Linear Programming,Simplex Curvature Analysis,Pivot = local move vertex = optimum,Simplex avg-poly because most polytopes have low curvature. Klee-Minty = adversarial high-κ,proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+38,Machine Learning,Gradient Descent Landscape,Step = local move loss = objective,Neural nets work because loss landscape has surprisingly low κ. "Local minima" are actually saddles,proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+39,Web Algorithms,PageRank Convergence,Score update = local move stationary = equilibrium,Stochastic matrix has unique stationary distribution. κ=0 guaranteed by Perron-Frobenius,proofs/PATH_00_DIJKSTRA_FOUNDATION.md
+40,Speaker Biometrics,7-Signal Constraint Intersection,S_obs = S_mfcc ∩ S_formant ∩ ... ∩ S_zcr,7 orthogonal acoustic signals shrink observable space exponentially. EER 18.9%. No ML training - boundaries emerge,np-optima/src/speaker_fingerprint/
+41,Sparse Optimization,Coreset/Pruning Hypothesis,O(n^c) optima → O(log n) representatives?,UNEXPLORED: Can sparse sampling/pruning reduce enumeration while preserving optimality? Coresets sketching spectral methods,proofs/DISCOVERY_90_SPARSE_DIRECTION.md
+42,Streaming Data,Bounded Displacement Principle,disp(A) ≤ d → O(n) sort,Ω(n log n) bound assumes ADVERSARIAL input (S_complete). Bounded displacement (S_observable) admits O(n) via propagation sort. Time-series log aggregation sensor fusion,proofs/PATH_23_BOUNDED_DISPLACEMENT_SORT.md

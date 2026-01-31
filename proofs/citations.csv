@@ -1,0 +1,36 @@
+Citation#,Author,Year,Title,Contribution,How_Referenced,File_Reference
+1,Landauer R,1961,Irreversibility and Heat Generation in Computing,kT*ln(2) minimum energy per bit erasure,Physical basis for P=NP computation is physical,proofs/GRAND_UNIFIED_THEORY.md:Part II
+2,Shannon CE,1948,A Mathematical Theory of Communication,Entropy H=-sum(p*log(p)) and information bounds,Information theory foundation,proofs/GRAND_UNIFIED_THEORY.md:Part III
+3,Wigner E,1955,Characteristic Vectors of Bordered Matrices,Semicircle law for random matrix eigenvalues,Statistical mechanics connection,proofs/GRAND_UNIFIED_THEORY.md:Part IV
+4,Dowling WF & Gallier JH,1984,Linear-time Algorithms for Testing Satisfiability of Horn Formulae,O(n^2) Horn SAT via unit propagation,Proven polynomial bound for Horn SAT,proofs/GRAND_UNIFIED_THEORY.md
+5,Aspvall B & Plass MF & Tarjan RE,1979,A Linear-time Algorithm for Testing 2-Satisfiability,O(n^2) 2-SAT via implication graph SCC,Proven polynomial bound for 2-SAT,proofs/GRAND_UNIFIED_THEORY.md
+6,Damas L & Milner R,1982,Principal Type-schemes for Functional Programs,O(n^3) type inference Algorithm W,Proven polynomial bound for type inference,proofs/GRAND_UNIFIED_THEORY.md
+7,Clarke EM & Emerson EA & Sistla AP,1986,Automatic Verification of Finite-State Programs,CTL model checking polynomial,Proven polynomial for temporal logic,proofs/GRAND_UNIFIED_THEORY.md
+8,Robinson JA,1965,A Machine-Oriented Logic Based on the Resolution Principle,Resolution refutation completeness,Foundation for resolution saturation,proofs/GRAND_UNIFIED_THEORY.md
+9,Papadimitriou CH,1977,The Euclidean TSP is NP-complete,NP-completeness of Euclidean TSP,TSP as central NP-complete problem,PROOF_P_EQUALS_NP_V9.md
+10,Cook SA,1971,The Complexity of Theorem Proving Procedures,NP-completeness and SAT,Foundational complexity theory,proofs/GRAND_UNIFIED_THEORY.md
+11,Karp RM,1972,Reducibility Among Combinatorial Problems,21 NP-complete problems,Foundational reductions,proofs/GRAND_UNIFIED_THEORY.md
+12,Shor PW,1994,Algorithms for Quantum Computation,Polynomial quantum factoring,BQP definition and quantum algorithms,proofs/GRAND_UNIFIED_THEORY.md:Part VII
+13,Coppersmith D,1996,Finding a Small Root of a Polynomial Modulo N,Number field sieve improvements,Factoring complexity reference,proofs/DISCOVERY_26_FACTORING_STRUCTURE.md
+14,Arora S,1998,Polynomial Time Approximation Schemes for Euclidean TSP,PTAS for Euclidean TSP,Prior approximation approach,prior_art/docs/PROOF_STATUS.md
+15,Englert M et al,2014,Smoothed Analysis of the 2-opt Algorithm,2-opt smoothed analysis,Prior local search analysis,thin_cell_theory/README.md
+16,Sabag E,2025-2026,Observable Sample Space Lemma and P=NP Proof,S_observable << S_complete bounded moves,Primary author - this project,proofs/GRAND_UNIFIED_THEORY.md
+17,Yigael Y,n.d.,Science as Structure and Process (Hebrew),Theory-Insights-Predictions methodology,Yigael Triangle methodology source,proofs/NITTAY_TRIANGLE_THEORY.md
+18,Turing AM,1936,On Computable Numbers,Turing machine and computability,Foundational - computability,proofs/GRAND_UNIFIED_THEORY.md
+19,Gödel K,1931,Uber Formal Unentscheidbare Satze,Incompleteness theorems,Foundational - limits of provability,proofs/GRAND_UNIFIED_THEORY.md
+20,Levinthal C,1969,How to Fold Graciously,Levinthal paradox - protein folding,Biological application of P=NP,verify_protein_folding.rs
+21,Frege G,1892,Uber Sinn und Bedeutung,Compositionality principle in logic/semantics,Foundation for compositional complexity,proofs/DISCOVERY_13_COMPOSITIONALITY.md
+22,Grover LK,1996,A Fast Quantum Mechanical Algorithm for Database Search,sqrt(N) quantum search speedup,Quantum algorithm baseline,proofs/DISCOVERY_QUANTUM_LIMITS.md
+23,Marchenko VA & Pastur LA,1967,Distribution of Eigenvalues for Random Matrices,Marchenko-Pastur law,Contrast with isotropic constraint matrices,proofs/DISCOVERY_RANDOM_MATRIX.md
+24,Pollard JM,1975,A Monte Carlo Method for Factorization,Rho factoring algorithm,Baseline factoring approach comparison,proofs/DISCOVERY_29_WARP_WOOF.md
+25,Lenstra AK & Lenstra HW Jr,1993,The Development of the Number Field Sieve,Modern factorization algorithm,State-of-art factoring baseline,proofs/DISCOVERY_29_WARP_WOOF.md
+26,Stockfish Project,2008-2026,Open Source Chess Engine,SOTA chess AI (3200+ ELO),Empirical validation baseline,proofs/DISCOVERY_36_CHESS_FRAMEWORK.md
+27,NIST,2020,Post-Quantum Cryptography Standards,RSA bit-length security estimates,Security baseline for P=NP impact,proofs/OBSERVABLE_SAMPLE_SPACE_LEMMA.md
+28,Christofides N,1976,Worst-Case Analysis of TSP Heuristics,3/2-approximation for metric TSP,Prior approximation baseline,prior_art/docs/PROOF_STATUS.md
+29,Einstein A,1915,Die Feldgleichungen der Gravitation,General Relativity field equations,Gravity = geometry baseline (extended by Sabag-Nitai),proofs/COMPLETE_RELATIVITY_THEORY.md
+30,Nash J,1950,Equilibrium Points in N-Person Games,Nash equilibrium in game theory,Stability constraint in Complete Relativity,proofs/COMPLETE_RELATIVITY_THEORY.md
+31,Rubin V & Ford WK,1970,Rotation of the Andromeda Nebula,Galaxy rotation curves anomaly,Empirical basis for Dark Matter (challenged by Sabag-Nitai),proofs/COMPLETE_RELATIVITY_THEORY.md
+32,Cantor G,1874,Uber eine Eigenschaft des Inbegriffs aller reellen Zahlen,Cardinal arithmetic 2^א₀ = continuum,White noise incomputability basis,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+33,Kolmogorov AN,1965,Three Approaches to the Definition of the Concept of Information,Kolmogorov complexity,Compression-computability connection,proofs/DISCOVERY_83_FULL_HIERARCHY.md
+34,Asimov I,1955,The End of Eternity,Science fiction exploring temporal horizons,Fog metaphor for computational horizon (Fog Horizon Principle),proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
+35,Laplace PS,1814,Essai Philosophique sur les Probabilites,Deterministic universe (Laplace's Demon),Bounded universe = computable universe,proofs/DISCOVERY_83_FULL_HIERARCHY.md

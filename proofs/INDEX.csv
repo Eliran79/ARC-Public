@@ -1,0 +1,25 @@
+Catalog#,Filename,Category,Row_Count,Description,Key_Columns
+1,theorems.csv,Core,45,Main theorems with IDs T1-T45,Theorem# Name Statement Status
+2,theorems_extended.csv,Core,42,Extended theorems E1-E42 from all sources,Theorem# Name Proof_Status
+3,principles.csv,Core,46,Foundational principles driving P=NP,Principle# Name Connection_to_P_equals_NP
+4,equations.csv,Core,66,Mathematical formulas and bounds,Equation# Formula Meaning
+5,constants.csv,Core,43,Mathematical and physical constants,Constant# Value Proven_Status
+6,citations.csv,Core,35,Academic references and prior art,Citation# Author Year Title
+7,paths.csv,Proof,18,17 general paths + TSP-1 (TSP-specific S_obs example),Path# Name Verification_Binary
+8,verifications.csv,Proof,36,Binary verification results,Verification# Binary Key_Output
+9,domains.csv,Proof,30,Physical domains with P=NP connections,Domain# Physical_Principle
+10,predictions.csv,Validation,38,Yigael Triangle predictions,Prediction# Statement Status
+11,triangles.csv,Framework,10,Methodological triangles,Triangle# Vertex1 Vertex2 Vertex3
+12,discoveries.csv,Research,88,Discovery documents 0-88,Discovery# Title Key_Insight
+13,applications.csv,Implementation,168,Rust binaries and applications,Name Binary Category Status
+14,patent_modules.csv,IP,12,Patent-ready code modules,Module# Codename Market_Target
+15,love_notes_index.csv,Documentation,65,Grapheme love letters index,Note# Title Key_Insight
+16,match_logs.csv,Data,7,Chess match experiment logs,Log# Filename Key_Result
+17,trained_models.csv,Data,9,ML model checkpoints,Model# Filename Type
+18,test_scripts.csv,Testing,23,Python test scripts,Script# Filename Purpose
+19,lemmas.csv,Core,15,Foundational lemmas L1-L15 (Observable Space/Halting),Lemma# Name Statement Ways_Discovered
+20,paths_summary/INDEX.csv,Summary,11,Quick reference documents for key concepts,File# Filename Key_Concept
+21,ethers.csv,Historical,40,Physical concepts eliminated as mathematical artifacts,Ether# Name Classical_Explanation Bounded_Explanation Status
+22,distributions.csv,Statistical,40,Statistical distributions status - ethers vs real vs need fix,Distribution# Name Unbounded_Assumptions Status Bounded_Alternative Compressibility
+23,DISCOVERY_80_QUANTIFIER_BOUNDARY.md,Proof,~250 lines,Discovery 80-82 + Paths 14-15 + Theorems T39-T41,NP vs PSPACE structural difference
+23,DISCOVERY_83_FULL_HIERARCHY.md,Proof,~300 lines,Discovery 83-88 + Paths 16-17 + Theorems T42-T45,Full hierarchy collapse + Dark Matter dissolution

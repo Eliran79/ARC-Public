@@ -1,0 +1,24 @@
+Script#,Filename,Date,Size_KB,Domain,Purpose,Related_Binary,File_Path,Rust_Status
+1,bounded_saturation_demo.py,2026-01-10,6,Saturation,Demonstrates bounded saturation principle,verify_saturation,tests/bounded_saturation_demo.py,MIGRATED:verify_saturation.rs
+2,constructive_factor_demo.py,2026-01-05,11,Factoring,Constructive factoring algorithm demonstration,rsa_analysis,tests/constructive_factor_demo.py,MIGRATED:constructive_path.rs
+3,coupling_analysis.py,2026-01-01,9,TSP,Analyzes coupling between tour segments,tsp_proof_test,tests/coupling_analysis.py,MIGRATED:tsp/coupling.rs
+4,deep_coupling_test.py,2026-01-01,8,TSP,Deep coupling verification tests,tsp_proof_test,tests/deep_coupling_test.py,MIGRATED:tsp/coupling.rs
+5,direct_polynomial_solver.py,2026-01-10,11,TSP,Direct polynomial-time TSP solver,solve_tsp,tests/direct_polynomial_solver.py,MIGRATED:tsp/rope.rs
+6,dtw_inversion_proof_test.py,2026-01-05,10,DTW,Dynamic time warping inversion proof,dtw_analysis,tests/dtw_inversion_proof_test.py,MIGRATED:dtw_rsa_chain.rs
+7,dtw_large_scale.py,2026-01-01,10,DTW,Large-scale DTW performance testing,dtw_analysis,tests/dtw_large_scale.py,SKIP
+8,exponent_investigation.py,2026-01-02,9,Complexity,Investigates polynomial exponent patterns,verify_eigenvalues,tests/exponent_investigation.py,SKIP
+9,inversion_analysis.py,2026-01-01,8,Matrix,Matrix inversion analysis for constraint systems,verify_eigenvalues,tests/inversion_analysis.py,MIGRATED:thin_cell/verification.rs
+10,inversion_ratio_proof.py,2026-01-02,10,Matrix,Proves inversion ratio bounds,verify_eigenvalues,tests/inversion_ratio_proof.py,MIGRATED:thin_cell/verification.rs
+11,large_scale_test.py,2026-01-01,11,TSP,Large-scale TSP solver testing (n>100),solve_tsp,tests/large_scale_test.py,SKIP
+12,large_scaling_test.py,2026-01-05,5,Scaling,Performance scaling analysis,solve_tsp,tests/large_scaling_test.py,SKIP
+13,multistart_factor.py,2026-01-05,5,Factoring,Multistart factoring algorithm test,rsa_analysis,tests/multistart_factor.py,SKIP
+14,quick_chain_test.py,2026-01-05,8,Chain,Quick chain rule verification,verify_saturation,tests/quick_chain_test.py,MIGRATED:verify_chain_rule.rs
+15,rope_polynomial_solver.py,2026-01-10,14,TSP,Rope-based polynomial TSP solver,solve_tsp,tests/rope_polynomial_solver.py,MIGRATED:tsp/rope.rs
+16,saturated_tsp_solver.py,2026-01-10,13,TSP,Saturation-based TSP solver implementation,verify_saturation,tests/saturated_tsp_solver.py,MIGRATED:tsp/mod.rs
+17,scaling_test.py,2026-01-05,6,Scaling,General scaling behavior tests,solve_tsp,tests/scaling_test.py,SKIP
+18,semiprime_test.py,2026-01-05,2,Factoring,Semiprime factoring tests,rsa_analysis,tests/semiprime_test.py,SKIP
+19,verify_eigenvalue_isotropy.py,2026-01-09,6,Matrix,Verifies eigenvalue isotropy property,verify_eigenvalues,tests/verify_eigenvalue_isotropy.py,MIGRATED:verify_eigenvalues.rs
+20,verify_entropy_ratio.py,2026-01-09,8,Information,Verifies entropy ratio bounds,verify_saturation,tests/verify_entropy_ratio.py,MIGRATED:verify_entropy.rs
+21,verify_local_opt.py,2026-01-05,3,TSP,Verifies local optimum properties,tsp_proof_test,tests/verify_local_opt.py,MIGRATED:tsp/mod.rs
+22,verify_sat_phase_simple.py,2026-01-09,4,SAT,Simple SAT phase transition verification,verify_sat_phase,tests/verify_sat_phase_simple.py,MIGRATED:verify_sat_phase.rs
+23,verify_sat_phase_transition.py,2026-01-09,11,SAT,Full SAT phase transition analysis,verify_sat_phase,tests/verify_sat_phase_transition.py,MIGRATED:verify_sat_phase.rs

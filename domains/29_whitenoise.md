@@ -24,4 +24,4 @@ Therefore all physical signals are in P, not א^א.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

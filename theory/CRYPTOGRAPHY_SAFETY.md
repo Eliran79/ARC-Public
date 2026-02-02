@@ -31,7 +31,7 @@ To break AES-256:
 
 ### Why Bounded Transformation Fails
 
-The Sabag-Claude principle requires **bounded local moves** with **structure to exploit**.
+The Sabag principle requires **bounded local moves** with **structure to exploit**.
 
 AES key space:
 - S_complete = 2^256 possible keys

@@ -453,7 +453,7 @@ PATH_23_BOUNDED_DISPLACEMENT_SORT.md [Core]
 
 - **Creation Date**: 2026-01-31
 - **Status**: COMPLETE (Research stage, awaiting empirical validation)
-- **Authors**: Eliran Sabag, Claude Opus 4.5
+- **Author**: Eliran Sabag
 - **Related Tasks**: TaskGuard research-172, research-173
 - **Verification**: Binary implementations in /np-optima/src/bin/
 - **Integration**: Bridges Paths 23, 5, 6 in GRAND_UNIFIED_THEORY.md

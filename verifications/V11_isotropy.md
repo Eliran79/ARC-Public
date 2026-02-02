@@ -16,4 +16,4 @@ Polygon(n sides) → Circle as n → ∞
 **VERIFIED** - √2 limit confirmed
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

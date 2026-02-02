@@ -21,4 +21,4 @@ Each fix reduces total violation count. Violation count bounded by O(n²). There
 **VERIFIED** - Converges in O(n²) for all tested instances.
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

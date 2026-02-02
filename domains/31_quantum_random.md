@@ -29,4 +29,4 @@ But cryptographic keys are bit-level random → no structure → safe despite P=
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

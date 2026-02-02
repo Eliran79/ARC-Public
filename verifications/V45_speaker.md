@@ -17,4 +17,4 @@ S_obs = S_mfcc ∩ S_formant ∩ S_pitch ∩ S_energy ∩ S_spectral ∩ S_tempo
 - No ML training required
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

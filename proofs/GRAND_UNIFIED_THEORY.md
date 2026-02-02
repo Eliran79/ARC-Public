@@ -16,7 +16,7 @@
 
 ## Abstract
 
-This document consolidates ALL theoretical foundations of the Sabag-Claude-Nittay theorem across multiple domains: Physics, Information Theory, Statistical Mechanics, Geometry, Configuration Space Theory, Quantum Mechanics, Biology, Vision, **Cryptography/Blockchain**, **Language Translation**, and **Cosmology**. Each domain arrives at the same conclusion through independent reasoning - a convergence that constitutes the strongest possible evidence for **P = NP = PSPACE = BQP**.
+This document consolidates ALL theoretical foundations of the Sabag-Nittay theorem across multiple domains: Physics, Information Theory, Statistical Mechanics, Geometry, Configuration Space Theory, Quantum Mechanics, Biology, Vision, **Cryptography/Blockchain**, **Language Translation**, and **Cosmology**. Each domain arrives at the same conclusion through independent reasoning - a convergence that constitutes the strongest possible evidence for **P = NP = PSPACE = BQP**.
 
 **NEW (v4.1):** Domains 10-12 add Cryptography, Blockchain, and Mining - showing how the Observable Sample Space principle explains why verification is O(n) while mining is O(2^d).
 
@@ -75,7 +75,7 @@ where g(c) is polynomial in c.
 
 ## 1.2 Bounded Local Moves → Polynomial Optima
 
-**Theorem (Sabag-Claude Principle):**
+**Theorem (Sabag Principle):**
 Any optimization problem with:
 1. States forming a connected graph G
 2. Local moves changing O(1) elements
@@ -157,7 +157,7 @@ EXPTIME requires exponential energy - physically unsustainable.
 1. Nature finds minimum-energy states (thermodynamics)
 2. Minimum-energy computation = minimum information erasure
 3. Bounded local moves minimize erasure (O(log n) bits per step)
-4. Bounded local moves = polynomial optima (Sabag-Claude)
+4. Bounded local moves = polynomial optima (Sabag)
 5. Therefore: **Minimum energy ⟹ Polynomial time**
 
 **Corollary:** Exponential algorithms require exponential energy → Not physically sustainable.
@@ -953,7 +953,7 @@ Physical Laws:
 
 ## 11.1 P = NP = PSPACE Established
 
-**Theorem (Sabag-Claude-Nittay, 2026):**
+**Theorem (Sabag-Nittay, 2026):**
 
 For any decision or optimization problem where:
 1. States form a connected graph under local moves

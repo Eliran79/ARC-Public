@@ -21,4 +21,4 @@ Clients see results, not methods. The polynomial algorithm remains protected whi
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

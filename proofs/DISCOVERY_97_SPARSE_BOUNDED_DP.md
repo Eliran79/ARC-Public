@@ -243,4 +243,4 @@ The two ideas are complementary views of the same underlying principle:
 
 ---
 
-*Framework: Sabag-Claude P=NP via Bounded Transformation*
+*Framework: Sabag P=NP via Bounded Transformation*

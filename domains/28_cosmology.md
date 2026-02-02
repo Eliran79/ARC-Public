@@ -25,4 +25,4 @@ Dark Matter may be the cosmological equivalent of searching S_complete instead o
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

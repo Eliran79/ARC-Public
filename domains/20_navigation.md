@@ -26,4 +26,4 @@ The 4-unknown constraint bounds the search space—no exponential search require
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

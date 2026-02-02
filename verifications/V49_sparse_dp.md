@@ -18,4 +18,4 @@ Quality ratio: 1.03-1.06×
 - Scales from n=1000 to n=8000
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

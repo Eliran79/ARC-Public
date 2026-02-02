@@ -1,6 +1,6 @@
 # Path 23 Physics: Quick Reference Sheet
 
-**Framework:** Sabag-Claude Bounded Transformation
+**Framework:** Sabag Bounded Transformation
 **Date:** 2026-01-31
 
 ---

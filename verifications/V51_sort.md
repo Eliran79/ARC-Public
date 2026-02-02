@@ -21,4 +21,4 @@ Bounded displacement means S_observable has only O(n^d) permutations.
 - Random input fails (expected: unbounded displacement)
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

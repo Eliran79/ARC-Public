@@ -1,7 +1,7 @@
 # Path 23 Categorical-Topological-Order Theoretic Analysis
 ## Formal Framework for Bounded Displacement Sorting
 
-**Author:** Eliran Sabag & Claude Opus 4.5
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** RESEARCH
 **Dependencies:** PATH_23_BOUNDED_DISPLACEMENT_SORT.md, PATH_06_TOPOLOGICAL_MORSE_PROOF.md, PATH_05_GROUP_THEORY_SYMMETRY_PROOF.md
@@ -756,7 +756,7 @@ Mathematical Structure (Category, Topology, Order, Metric, Physics)
     = Polynomial Complexity (Path to Efficient Algorithms)
 ```
 
-This is the essence of the Sabag-Claude P = NP framework.
+This is the essence of the Sabag P = NP framework.
 
 ---
 

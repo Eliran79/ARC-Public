@@ -22,4 +22,4 @@ Worst-case exponential (Klee-Minty) assumes adversarial input—S_complete, not 
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

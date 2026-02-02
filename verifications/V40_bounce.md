@@ -17,4 +17,4 @@ Volume V ∝ a³ never vanishes
 **VERIFIED** - a_min = 10.0 bounded; 3.3% time-reversal error
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

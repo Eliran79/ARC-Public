@@ -16,4 +16,4 @@ Infinite uncorrelated noise requires infinite information. Finite universe has f
 **VERIFIED** - Bounded → P; universe finite
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

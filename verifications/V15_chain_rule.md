@@ -20,4 +20,4 @@ Each layer saturates independently. Layers compose additively because saturation
 **VERIFIED** - Sum O(nᵢ) = O(n) confirmed
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

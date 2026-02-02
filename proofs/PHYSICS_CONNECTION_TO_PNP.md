@@ -1,6 +1,6 @@
 # Physics Connection: How Bounded Structure Solves P vs NP
 
-**Author:** Eliran Sabag, Claude Opus 4.5
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** THEORETICAL EXTENSION
 **Framework Version:** Discovery 98
@@ -298,7 +298,7 @@ For sorting:
 
 ### Statement
 
-**Theorem (Sabag-Claude Physics Extension):**
+**Theorem (Sabag Physics Extension):**
 
 For any computational problem on input space S:
 
@@ -661,5 +661,5 @@ This completes the physics-computation triangle:
 **Path 23:** Bounded Displacement Sort
 **Physics Extension:** Energy Barriers, Entropy, Thermodynamic Depth
 
-**Framework:** Sabag-Claude P=NP via Bounded Transformation & Physical Laws
+**Framework:** Sabag P=NP via Bounded Transformation & Physical Laws
 

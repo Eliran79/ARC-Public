@@ -21,4 +21,4 @@ Morse theory bounds critical points by topology. Bounded-move spaces have polyno
 **VERIFIED** - Polynomial critical points for all tested landscapes
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

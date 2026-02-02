@@ -25,4 +25,4 @@ Board size is the third bounding parameter.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

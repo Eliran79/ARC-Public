@@ -21,4 +21,4 @@ Equivalent solutions under symmetry group G need only be counted once. Orbit-cou
 **VERIFIED** - Exponential → Polynomial orbit count
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

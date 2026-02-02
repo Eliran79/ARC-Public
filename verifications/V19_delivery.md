@@ -17,4 +17,4 @@ Total: O(n³) worst case, O(n²) typical
 **VERIFIED** - 1000 stops in 16ms
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

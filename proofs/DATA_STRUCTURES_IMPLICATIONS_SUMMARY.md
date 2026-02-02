@@ -360,6 +360,6 @@ This framework explains why "nearly sorted" data performs so much better in prac
 
 ---
 
-*Framework: Sabag-Claude P=NP via Bounded Transformation*
+*Framework: Sabag P=NP via Bounded Transformation*
 *Path 23: Bounded Displacement Sort*
 *Discovery 98: Data Structure Implications*

@@ -199,5 +199,5 @@ Your call.
 ---
 
 *Analysis complete: 2026-01-01*
-*Author: Claude (AI Assistant)*
+*Author: Eliran Sabag*
 *Human collaborator: Eliran Sabag*

@@ -33,7 +33,7 @@ Unification:   f(x) = f(t) → x=t  (bounded substitution)
 
 **All rules affect O(1) formulas per step!**
 
-### The Sabag-Claude Principle (Logic Version)
+### The Sabag Principle (Logic Version)
 
 ```
 Bounded inference rules → O(n^c) proof states of interest

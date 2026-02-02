@@ -1,6 +1,6 @@
 # Physics Formulas and Calculations for Bounded Sorting
 
-**Author:** Eliran Sabag, Claude Opus 4.5
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** REFERENCE DOCUMENT
 **Framework Version:** Discovery 98

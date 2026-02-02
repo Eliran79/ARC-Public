@@ -23,4 +23,4 @@ Bounded transitions reduce N! to O(N²).
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

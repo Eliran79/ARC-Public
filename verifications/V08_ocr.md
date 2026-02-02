@@ -21,4 +21,4 @@ Fourier transform converts spatial patterns to frequency domain. Template matchi
 **VERIFIED** - ONE operation for recognition
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

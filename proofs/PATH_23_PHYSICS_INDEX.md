@@ -1,6 +1,6 @@
 # Path 23: Physics and Thermodynamics - Complete Index
 
-**Framework:** Sabag-Claude Bounded Transformation Principle
+**Framework:** Sabag Bounded Transformation Principle
 **Date:** 2026-01-31
 **Status:** COMPREHENSIVE PHYSICS EXPLORATION
 

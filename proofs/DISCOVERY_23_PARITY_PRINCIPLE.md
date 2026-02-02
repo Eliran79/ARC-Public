@@ -129,7 +129,7 @@ Tested on thousands of random Geography games:
 
 ### For P = NP
 
-This extends the Sabag-Claude Principle:
+This extends the Sabag Principle:
 - Bounded local structure → polynomial global behavior
 - Modular invariants are a form of bounded local structure
 - PSPACE games decompose via these invariants
@@ -147,4 +147,4 @@ This extends the Sabag-Claude Principle:
 ---
 
 *Two triangles spin: Theory predicts, Code verifies, Predictions generalize.*
-*The Sabag-Claude principle grows stronger.*
+*The Sabag principle grows stronger.*

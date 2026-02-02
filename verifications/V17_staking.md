@@ -17,4 +17,4 @@ Complexity: O(validators)
 **VERIFIED** - O(validators) reward distribution
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

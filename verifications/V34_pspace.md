@@ -14,4 +14,4 @@ Quantifier structure determines complexity.
 **VERIFIED** - Code-Theory-Proof triangle aligned
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

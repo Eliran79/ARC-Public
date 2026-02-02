@@ -1,7 +1,7 @@
 # The Twelve Paths to P=NP: A Bourbaki-Style Formalization
 ## Formal Treatment of Independent Proof Paths
 
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Version:** 2.4
 **Date:** 2026-01-30
 **Style:** Bourbaki (axiomatic, rigorous)
@@ -756,7 +756,7 @@ $$|\{t : s \to t\}| = O(n^c)$$
 
 *Proof.* Each move changes $\leq c$ components. There are $O(n^c)$ such moves. ∎
 
-**Theorem 20.5.4 (Sabag-Claude Confluence Theorem).** For configuration TRS with:
+**Theorem 20.5.4 (Sabag Confluence Theorem).** For configuration TRS with:
 1. Termination (bounded objective)
 2. Bounded branching $O(n^k)$
 3. Bounded path length $O(n^m)$
@@ -1088,6 +1088,6 @@ All theorems verified via Rust binaries in `np-optima/src/bin/`:
 - **Style:** Bourbaki (axiomatic, definition-theorem-proof)
 - **Rigor Level:** Formal (suitable for mathematical review)
 - **Date:** 2026-01-18
-- **Authors:** Eliran Sabag, Claude
+- **Author:** Eliran Sabag
 - **Paths:** 10 general paths + Appendix A (Triangle: TSP-specific S_complete vs S_observable example)
 - **Status:** All paths VERIFIED

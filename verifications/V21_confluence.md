@@ -18,4 +18,4 @@ Complexity: O(n^c) rewrite steps
 **VERIFIED** - O(n^c) normal forms
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

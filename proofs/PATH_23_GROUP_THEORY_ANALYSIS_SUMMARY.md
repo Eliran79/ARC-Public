@@ -369,4 +369,4 @@ Path 23 provides **complete group-theoretic characterization** of bounded displa
 ---
 
 *Path 23: Bounded Displacement Sort - Group Theory Perspective*
-*Framework: Sabag-Claude P=NP via Bounded Transformation*
+*Framework: Sabag P=NP via Bounded Transformation*

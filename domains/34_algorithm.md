@@ -27,4 +27,4 @@ Same pattern, different curvature κ.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

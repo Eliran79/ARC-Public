@@ -1,6 +1,6 @@
 # Path 23: Lower Bounds for Bounded Displacement Sorting - Executive Summary
 
-**Author:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** COMPLETE MATHEMATICAL FRAMEWORK
 **Version:** Discovery 99
@@ -372,5 +372,5 @@ When structure is bounded (displacement d = O(1), local moves c = O(1)), even NP
 *Discovery 99: Complete Mathematical Analysis*
 *2026-01-31*
 
-Framework: Sabag-Claude Bounded Transformation Principle
+Framework: Sabag Bounded Transformation Principle
 Status: FULLY PROVEN AND VERIFIED

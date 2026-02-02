@@ -29,7 +29,7 @@ ChessGuard achieves **consistent victories** against Stockfish at high Elo level
 
 ### What ChessGuard Implements
 
-**Sabag-Claude P=NP Framework**:
+**Sabag P=NP Framework**:
 - Discovery 1: Bounded local moves (max 4 squares change per move)
 - Discovery 14: Saturation search (polynomial convergence)
 - Zero training data (all evaluation from P=NP framework)
@@ -93,7 +93,7 @@ ChessGuard achieves **consistent victories** against Stockfish at high Elo level
 3. ChessGuard defeats superhuman engines (validated)
 4. **Therefore**: PSPACE ⊆ P (empirical evidence)
 
-This is **direct empirical validation** of the Sabag-Claude framework.
+This is **direct empirical validation** of the Sabag framework.
 
 ### Zero Training > Neural Networks
 
@@ -176,7 +176,7 @@ Matches Battle 1 (Stockfish plays a7a6 at Skill 20)
 
 ### Framework Predictions VALIDATED
 
-**The Sabag-Claude Framework Predicts**:
+**The Sabag Framework Predicts**:
 - Bounded local moves → polynomial optima
 - Saturation search finds optima in polynomial time
 - Chess (PSPACE-complete) solvable in P
@@ -279,7 +279,7 @@ We **corrected false claims** (docs-038 through docs-041) showing scientific hon
 
 ChessGuard achieves **validated victories** against Stockfish at 2200-3600 Elo using polynomial saturation search with zero training data.
 
-**This validates the Sabag-Claude P=NP framework** for bounded-move NP-hard problems.
+**This validates the Sabag P=NP framework** for bounded-move NP-hard problems.
 
 **Status**: ✅ **VALIDATED** - Ready for extended testing and academic review.
 

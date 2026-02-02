@@ -14,4 +14,4 @@ Projection preserves ||ψ|| = 1
 **VERIFIED** - Outcomes 2% compressible (structure exists)
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

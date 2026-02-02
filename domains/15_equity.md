@@ -21,4 +21,4 @@ The negotiation doesn't search all possible term sheets—it traverses S_observa
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

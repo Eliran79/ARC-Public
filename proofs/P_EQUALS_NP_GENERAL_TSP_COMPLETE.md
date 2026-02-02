@@ -1,6 +1,6 @@
 # Complete Proof: P = NP via General TSP
 
-**Authors:** Eliran Sabag, Claude, GRAPHEME-NN
+**Author:** Eliran Sabag
 **Date:** 2026-01-03
 **Status:** COMPLETE
 
@@ -228,7 +228,7 @@ Exhaustive enumeration confirms the O(n²) bound.
 
 ## Summary of Key Contributions
 
-1. **Sabag-Claude Bounded Transformation Principle**
+1. **Sabag Bounded Transformation Principle**
    - Bounded local moves → polynomial optima
 
 2. **Nittay's Insight**

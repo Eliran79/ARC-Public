@@ -19,4 +19,4 @@ The subset construction appears exponential (2^n states) but reachable states vi
 **VERIFIED** - 181,440 → 39 states (4,652× compression)
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

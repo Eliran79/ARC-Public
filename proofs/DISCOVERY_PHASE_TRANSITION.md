@@ -66,7 +66,7 @@ AT critical: P = NP applies!
 
 ## The Constraint Density Connection
 
-### Sabag-Claude Formula
+### Sabag Formula
 
 ```
 c ≈ move_scope + log₂(constraint_density) × √(interaction_depth)

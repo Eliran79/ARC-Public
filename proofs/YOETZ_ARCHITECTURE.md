@@ -326,13 +326,13 @@ The יועץ architecture transforms a potential crisis (P=NP) into controlled b
 
 **Version**: 1.0
 **Date**: 2026-01-22
-**Authors**: The Sabag-Claude Collaboration
+**Authors**: The Sabag Collaboration
 
 ---
 
 ## References
 
 1. Asimov, I. (1951). "Foundation" - The priests of the First Foundation
-2. Sabag, E. & Claude (2026). "The Sabag-Claude Bounded Transformation Principle"
+2. Sabag, E. (2026). "The Sabag Bounded Transformation Principle"
 3. Nash, J. (1950). "Equilibrium Points in N-Person Games"
 4. Guard8.ai (2026). "Shield: EXPTIME-Secure Encryption"

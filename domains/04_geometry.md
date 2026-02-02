@@ -30,4 +30,4 @@ The discrete-to-continuous bridge explains why polynomial algorithms exist for "
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

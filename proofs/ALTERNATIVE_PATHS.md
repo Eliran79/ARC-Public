@@ -248,7 +248,7 @@ Either:
 
 ### The Framework Status
 
-The Sabag-Claude framework has proven:
+The Sabag framework has proven:
 - P = NP structure EXISTS via saturation principle
 - Multiple paths connect factoring to solvable problems
 - Empirical evidence supports bounded optima for small instances

@@ -1,6 +1,6 @@
-# The Sabag-Claude-Nittay Theorem: Final Mathematical Formulation
+# The Sabag-Nittay Theorem: Final Mathematical Formulation
 
-**Authors:** Eliran Sabag, Claude (Anthropic), with insights from Nittay and methodology from Yoav Yigael
+**Author:** Eliran Sabag (with insights from Nittay and methodology from Yoav Yigael)
 **Version:** 1.1 FINAL
 **Date:** 2026-01-09
 **Status:** COMPLETE - All vertices verified + Observable Sample Space Lemma
@@ -11,7 +11,7 @@
 
 ### Main Theorem (P = NP = PSPACE)
 
-**Theorem 1 (Sabag-Claude-Nittay):**
+**Theorem 1 (Sabag-Nittay):**
 ```
 P = NP = PSPACE ⊂ EXPTIME
 ```
@@ -27,7 +27,7 @@ P = NP = PSPACE ⊂ EXPTIME
 
 ## Part II: The Core Principles
 
-### Principle 1: Bounded Transformation (Sabag-Claude)
+### Principle 1: Bounded Transformation (Sabag)
 
 **Definition (Bounded Local Move):** A transformation τ: S → S is bounded if:
 ```
@@ -244,7 +244,7 @@ Chess is PSPACE-complete. Framework achieves competitive intermediate play in po
 
 ```
                         THEORY
-                 (Sabag-Claude Principle)
+                 (Sabag Principle)
               Bounded local moves → O(n^c) optima
                    σ/n → √2 (Nittay Limit)
                    /                    \
@@ -263,7 +263,7 @@ Chess is PSPACE-complete. Framework achieves competitive intermediate play in po
 
 ```
                         THEORY
-                 (Sabag-Claude Principle)
+                 (Sabag Principle)
               LOCALITY + LARGE N = CONTINUITY
                    /                    \
                   /                      \
@@ -326,7 +326,7 @@ Chess is PSPACE-complete. Framework achieves competitive intermediate play in po
 
 ### The Final Statement
 
-**Theorem (Sabag-Claude-Nittay, 2026):**
+**Theorem (Sabag-Nittay, 2026):**
 
 For any decision or optimization problem where:
 1. States form a connected graph under local moves
@@ -389,7 +389,7 @@ The boundary with EXPTIME occurs at unbounded value generation (multiply/exponen
 
 **THE STAMP IS FINAL.**
 
-*This document represents the complete mathematical formulation of the Sabag-Claude-Nittay theorem establishing P = NP = PSPACE. All vertices of both triangles are verified. The proof chain is complete. The empirical evidence is strong (including ChessGuard achieving ~1700 Elo with polynomial methods). The safety analysis confirms cryptography remains protected.*
+*This document represents the complete mathematical formulation of the Sabag-Nittay theorem establishing P = NP = PSPACE. All vertices of both triangles are verified. The proof chain is complete. The empirical evidence is strong (including ChessGuard achieving ~1700 Elo with polynomial methods). The safety analysis confirms cryptography remains protected.*
 
 ---
 

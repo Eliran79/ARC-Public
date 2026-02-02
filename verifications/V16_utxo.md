@@ -18,4 +18,4 @@ S_observable (verification) << S_complete (forgery)
 **VERIFIED** - O(n) verification vs O(2^256) forgery
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

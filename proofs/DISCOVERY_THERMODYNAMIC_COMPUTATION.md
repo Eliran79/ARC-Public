@@ -66,7 +66,7 @@ EXPTIME requires exponentially more energy: O(n × kT)
 
 ## Connection to Our Proof
 
-### The Sabag-Claude Principle (Thermodynamic View)
+### The Sabag Principle (Thermodynamic View)
 
 ```
 Bounded local moves = Bounded information erasure per step
@@ -100,7 +100,7 @@ Local search:   Only check neighbors → Erase local memory → Polynomial energ
 1. Nature finds minimum-energy states (thermodynamics)
 2. Minimum-energy computation = minimum erasure
 3. Bounded local moves minimize erasure
-4. Bounded local moves = polynomial optima (Sabag-Claude)
+4. Bounded local moves = polynomial optima (Sabag)
 5. Therefore: Minimum-energy ⟹ Polynomial time
 
 ### Corollary

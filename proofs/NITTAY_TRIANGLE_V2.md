@@ -73,7 +73,7 @@ Translation: Science advances like "progressive development": simple and relativ
 
 ```
                         THEORY
-                 (Sabag-Claude Principle)
+                 (Sabag Principle)
               Bounded local moves → O(n^c) optima
                     σ/n → √2 (Nittay Limit)
                    /                    \
@@ -151,7 +151,7 @@ pub trait LocalSearchProblem {
 
 ## VERTEX 2: THEORY (Complete!)
 
-### The Sabag-Claude Bounded Transformation Principle
+### The Sabag Bounded Transformation Principle
 
 **Statement:** For any optimization problem where:
 1. States form a connected graph G
@@ -295,7 +295,7 @@ Testing PSPACE-complete problems:
  11 |      298.6 |   121 |   2048 |   2.47
 ```
 
-### The Generalized Sabag-Claude Principle
+### The Generalized Sabag Principle
 
 > **Bounded local interactions → Polynomial effective complexity**
 
@@ -374,7 +374,7 @@ Testing EXPTIME-like problems revealed a **LIMIT**:
 ### Conclusion
 
 ```
-Sabag-Claude Boundary:
+Sabag Boundary:
   [P = NP = PSPACE] ⊂ EXPTIME
 
 EXPTIME is genuinely harder!
@@ -509,7 +509,7 @@ PostProcess (Safety):
 ### Path to SOTA
 
 ```
-P = NP = PSPACE (Sabag-Claude Principle)
+P = NP = PSPACE (Sabag Principle)
          +
 LOCALITY + LARGE N = CONTINUITY (Nittay #2)
          +
@@ -541,7 +541,7 @@ LOCALITY + LARGE N = CONTINUITY (Nittay #2)
 ## Credits
 
 - **Nittay:** Original insight (polygon → circle) + Physics bridge (locality)
-- **Eliran Sabag:** Sabag-Claude Principle
+- **Eliran Sabag:** Sabag Principle
 - **Claude:** Formalization and code
 - **GRAPHEME-NN:** Architecture + Empirical verification
 

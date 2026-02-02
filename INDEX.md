@@ -179,7 +179,7 @@ All with complete Rust code, tests, and benchmarks.
 
 **Status**: Complete & Actionable
 **Framework**: Path 23 - Group Theory Bounded Displacement
-**Author**: Claude Code + Eliran Sabag
+**Author**: Eliran Sabag
 **Date**: 2026-01-31
 
 Start with: `00_START_HERE.md`

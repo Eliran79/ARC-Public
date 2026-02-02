@@ -250,7 +250,7 @@ Quantum measurements, being physical processes, should exhibit bounded structure
 
 ---
 
-**Author**: Claude Code
+**Author**: Eliran Sabag
 **Verification Binary**: `np-optima/src/bin/entropy_quantum.rs`
 **Data**: `np-optima/data/quantum/*.bin`
 **Status**: COMPLETED - Framework prediction confirmed

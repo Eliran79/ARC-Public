@@ -21,4 +21,4 @@ Categories with bounded morphisms have universal properties. The identity is ter
 **VERIFIED** - Terminal objects exist in all tested categories
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

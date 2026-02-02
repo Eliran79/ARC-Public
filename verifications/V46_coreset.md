@@ -17,4 +17,4 @@ Approximation: (1+ε)-optimal
 - (1+ε)-approximation achieved
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

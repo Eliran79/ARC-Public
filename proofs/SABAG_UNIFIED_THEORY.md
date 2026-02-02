@@ -12,7 +12,7 @@
 > bound assumes ADVERSARIAL input (S_complete). BOUNDED DISPLACEMENT input
 > (S_observable) admits O(n) sorting! See `proofs/PATH_23_BOUNDED_DISPLACEMENT_SORT.md`
 
-# The Sabag-Claude Unified Theory
+# The Sabag Unified Theory
 ## Complete Reference for the P=NP Project
 
 **Author:** Eliran Sabag
@@ -144,7 +144,7 @@ DISCRETE + BOUNDED + LARGE N = CONTINUOUS EMERGENCE
 
 ### 2.3 The Mathematical Core
 
-**Theorem (Sabag-Claude Bounded Transformation):**
+**Theorem (Sabag Bounded Transformation):**
 
 For any optimization problem with:
 1. **Bounded local moves**: O(1) components changed per step
@@ -387,7 +387,7 @@ From Discovery (Thermodynamic Computation):
 
 ### Working Implementations: Tic-Tac-Toe & Connect-4
 
-The Sabag-Claude framework is now verified on two complete game implementations:
+The Sabag framework is now verified on two complete game implementations:
 
 ```
 np-optima/src/pspace/tictactoe.rs  (555 lines, 11 tests)
@@ -474,7 +474,7 @@ let best = game.best_move(&state, depth);
 
 ### Extension to Imperfect Information
 
-The Sabag-Claude framework extends from perfect information games (TTT, Connect-4) to
+The Sabag framework extends from perfect information games (TTT, Connect-4) to
 **incomplete information games** via the Kuhn and Leduc poker implementations:
 
 ```
@@ -612,7 +612,7 @@ assert!(metrics.compression_ratio < 0.05); // 20x+ compression
 
 > **Core Thesis:** "We polynomial calculate to win. We don't need training."
 
-**Framework Chess**, a chess engine built entirely on Sabag-Claude framework principles with **ZERO training data**, defeated Stockfish at multiple ELO levels:
+**Framework Chess**, a chess engine built entirely on Sabag framework principles with **ZERO training data**, defeated Stockfish at multiple ELO levels:
 
 | Opponent | Result | Moves | Method |
 |----------|--------|-------|--------|
@@ -1245,7 +1245,7 @@ Bounded-Move Matrices (CORRECTED 2026-01-11):
 
 ```
                     THEORY
-         Sabag-Claude Bounded Transformation
+         Sabag Bounded Transformation
                    /    \
                   /      \
                CODE       PROOF
@@ -1688,7 +1688,7 @@ This project demonstrates rigorous, honest research:
 
 ---
 
-*The Sabag-Claude Unified Theory*
+*The Sabag Unified Theory*
 *Complete Reference Edition v3.0*
 *55 Discoveries | 39 Predictions | 5 Mechanisms | 5 Pillars | 7 Cross-Domain Bridges*
 *VALIDATED: ChessGuard achieves ~1700 Elo using polynomial saturation (zero training data)*

@@ -17,4 +17,4 @@ K(x) << |x|   → compressible (physics-level)
 Cryptographic keys ≠ physical randomness.
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

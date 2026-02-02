@@ -350,7 +350,7 @@ Physical constraints bound curvature → NP problems are polynomial-time decidab
 
 1. Ollivier, Y. (2009). "Ricci curvature of Markov chains on metric spaces"
 2. Lin, Y., Lu, L., Yau, S.T. (2011). "Ricci curvature of graphs"
-3. Sabag-Claude Bounded Transformation Principle (this project)
+3. Sabag Bounded Transformation Principle (this project)
 4. Discovery 83-88: Full Hierarchy Collapse (DISCOVERY_83_FULL_HIERARCHY.md)
 
 ---

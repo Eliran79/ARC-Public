@@ -20,4 +20,4 @@ PageRank converges because:
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

@@ -21,4 +21,4 @@ k-local gate affects k = O(1) qubits
 **VERIFIED** - O(n^4) reachable, not O(2^n)
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

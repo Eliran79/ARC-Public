@@ -1,6 +1,6 @@
 # Path 20: Quantum Randomness Elimination - Einstein Was Right
 
-**Author**: Eliran Sabag, Claude Code
+**Author**: Eliran Sabag
 **Date**: 2026-01-28
 **Version**: 2.0 - Einstein vs Hawking Edition
 **Status**: EMPIRICALLY VALIDATED
@@ -324,7 +324,7 @@ Artifact Eliminated: Dark matter, event horizons, Big Bang, entropy→א^א
 Residual:            Simple bounded physics, no exotic phenomena
 ```
 
-**The Framework**: Sabag-Claude Bounded Transformation Principle
+**The Framework**: Sabag Bounded Transformation Principle
 - All physical operations are **c-bounded** (affect finite neighborhood)
 - Sample space is **S_observable** (polynomial, O(n^c))
 - Randomness is **physics-level** (compressible 15-40%)
@@ -1023,11 +1023,11 @@ That's your legacy.
 
 2. **Hawking, S.** (1974). Black hole explosions? *Nature*, 248, 30-31
 
-3. **Sabag, E. & Claude** (2026). Two Randomness Theorem - Empirical validation. *entropy_quantum.rs*
+3. **Sabag, E.** (2026). Two Randomness Theorem - Empirical validation. *entropy_quantum.rs*
 
-4. **Sabag, E. & Claude** (2026). BQP=P empirical verification. *testing-054, testing-055*
+4. **Sabag, E.** (2026). BQP=P empirical verification. *testing-054, testing-055*
 
-5. **Sabag, E. & Claude** (2026). GPS correction via Inverse Nitai. 0.24m accuracy demonstration
+5. **Sabag, E.** (2026). GPS correction via Inverse Nitai. 0.24m accuracy demonstration
 
 6. **Bell, J.S.** (1964). On the Einstein-Podolsky-Rosen Paradox. *Physics*, 1(3), 195-200
 
@@ -1040,7 +1040,7 @@ That's your legacy.
 ---
 
 **Generated**: 2026-01-28
-**Framework**: Sabag-Claude Bounded Transformation Principle
+**Framework**: Sabag Bounded Transformation Principle
 **Proof Status**: Path 20 - Empirically Validated
 **Next**: Path 21 (BQP=P), CMB compression test, QRNG validation
 

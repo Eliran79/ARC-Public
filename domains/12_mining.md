@@ -25,4 +25,4 @@ This is P vs NP in action—verification is polynomial, search appears exponenti
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

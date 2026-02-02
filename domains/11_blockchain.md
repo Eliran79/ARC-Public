@@ -21,4 +21,4 @@ No exponential search required—bounded local moves (staking, unstaking) traver
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

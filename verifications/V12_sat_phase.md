@@ -19,4 +19,4 @@ Above α_critical: almost always UNSAT
 **VERIFIED** - Critical ratio confirmed empirically
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

@@ -1,6 +1,6 @@
 # Path 23: Lower Bound Theory for Bounded Displacement Sorting
 
-**Author:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** RIGOROUS MATHEMATICAL ANALYSIS
 **Version:** Discovery 99 (Lower Bound Hierarchy)
@@ -606,5 +606,5 @@ The distinction between S_complete and S_observable, reflected in the decision t
 
 *Path 23: Bounded Displacement Sort*
 *Discovery 99: Lower Bound Hierarchy*
-*Framework: Sabag-Claude Bounded Transformation Principle*
+*Framework: Sabag Bounded Transformation Principle*
 *2026-01-31*

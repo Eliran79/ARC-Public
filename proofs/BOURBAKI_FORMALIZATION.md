@@ -1,7 +1,7 @@
 # Formal Treatment of the Observable Sample Space Theorem
 ## A Bourbaki-Style Formalization
 
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Version:** 1.1 (Circulant Structure Correction)
 **Date:** 2026-01-11
 **Style:** Bourbaki (axiomatic, rigorous)
@@ -638,5 +638,5 @@ However, the bounded spectrum still implies polynomial local optima.
 - **Style:** Bourbaki (axiomatic, definition-theorem-proof)
 - **Rigor Level:** Formal (suitable for mathematical review)
 - **Date:** 2026-01-11 (Corrected)
-- **Authors:** Eliran Sabag, Claude
+- **Author:** Eliran Sabag
 - **Correction:** Projection Theorem replaced with Circulant Structure Theorem

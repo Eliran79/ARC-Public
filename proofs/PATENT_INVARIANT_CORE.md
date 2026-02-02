@@ -8,7 +8,7 @@
 
 ## 1. THE INVARIANT PRINCIPLE
 
-**Sabag-Claude Bounded Transformation Principle:**
+**Sabag Bounded Transformation Principle:**
 
 ```
 For ANY problem with c-bounded local moves:

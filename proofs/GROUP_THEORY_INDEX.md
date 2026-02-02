@@ -1,6 +1,6 @@
 # Group-Theoretic Analysis of Bounded Displacement Permutations - Complete Index
 
-**Framework**: Sabag-Claude P=NP via Bounded Transformation  
+**Framework**: Sabag P=NP via Bounded Transformation  
 **Date**: 2026-01-31  
 **Status**: Complete with empirical verification  
 
@@ -349,7 +349,7 @@ cargo run --release --bin verify_bounded_displacement_group_theory
 
 ---
 
-**Framework**: Sabag-Claude P=NP via Bounded Transformation  
+**Framework**: Sabag P=NP via Bounded Transformation  
 **Component**: Path 23 - Bounded Displacement Sort (Group-Theoretic Treatment)  
 **Status**: Complete with theory + empirics + integration  
 

@@ -11,7 +11,7 @@
 
 ## Overview
 
-The Sabag-Claude framework is not merely a computational claim. It emerges from deep connections across:
+The Sabag framework is not merely a computational claim. It emerges from deep connections across:
 
 | Domain | Principle | Connection |
 |--------|-----------|------------|

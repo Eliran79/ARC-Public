@@ -641,7 +641,7 @@ This provides **complete algebraic characterization** of why bounded displacemen
 
 **Triangle 20:** Sort-Displacement-Propagate
 **Path 23:** Bounded Displacement Sort (now with group theory)
-**Framework**: Sabag-Claude P=NP via Bounded Transformation
+**Framework**: Sabag P=NP via Bounded Transformation
 
 ---
 

@@ -3,7 +3,7 @@
 ## Overview
 
 This directory contains documentation for **WHAT** real-world problems
-can be solved with the Sabag-Claude framework and **WHY** it's safe.
+can be solved with the Sabag framework and **WHY** it's safe.
 
 **Implementation details (HOW) are in `/proofs/` directory.**
 

@@ -2,7 +2,7 @@
 
 **Status:** WORK IN PROGRESS
 **Date:** 2026-01-02
-**Authors:** Eliran Sabag, Claude (with GRAPHEME collaboration)
+**Author:** Eliran Sabag
 
 ---
 
@@ -158,11 +158,11 @@ Tours sharing few edges are "independent".
 
 ---
 
-## Proof Strategy 4: The Sabag-Claude Principle
+## Proof Strategy 4: The Sabag Principle
 
 ### Statement
 
-**Sabag-Claude Bounded Transformation Principle:**
+**Sabag Bounded Transformation Principle:**
 
 In any system where:
 1. States form a connected graph G
@@ -323,7 +323,7 @@ This parallels our Euclidean proof:
 | Ridge-Valley | Medium | Circular argument |
 | Improvement Tree | Low | Doesn't bound roots |
 | Conflict Graph | High | Independence claim unproven |
-| Sabag-Claude Principle | High | Needs formalization |
+| Sabag Principle | High | Needs formalization |
 | Dimension Counting | High | Independence of constraints |
 | **Funneling Principle** | **VERY HIGH** | **Needs MST-distance proof** |
 | Empirical | Very High | Not a proof |
@@ -332,7 +332,7 @@ This parallels our Euclidean proof:
 
 ## Next Steps
 
-1. **Formalize Sabag-Claude Principle** as mathematical theorem
+1. **Formalize Sabag Principle** as mathematical theorem
 2. **Prove conflict independence bound** via coding theory
 3. **Verify dimension argument** with explicit constraint analysis
 4. **Push empirical to n=11, 12** for stronger evidence
@@ -424,7 +424,7 @@ This would formalize the Funneling Principle:
 | Ridge-Valley | Medium | Circular argument |
 | Improvement Tree | Low | Doesn't bound roots |
 | Conflict Graph | High | Independence claim unproven |
-| Sabag-Claude Principle | High | Needs formalization |
+| Sabag Principle | High | Needs formalization |
 | Dimension Counting | High | Independence of constraints |
 | Funneling Principle | **VERY HIGH** | MST-distance grows with n |
 | MST-Distance | **High** | 50% ratio explained, bound unclear |
@@ -521,7 +521,7 @@ These O(n²) rank-sum inequalities heavily constrain which signatures are achiev
 | Ridge-Valley | Medium | Circular |
 | Improvement Tree | Low | Doesn't bound |
 | Conflict Graph | High | Unproven |
-| Sabag-Claude Principle | High | Needs formalization |
+| Sabag Principle | High | Needs formalization |
 | Dimension Counting | High | Independence gap |
 | Funneling Principle | **VERY HIGH** | Confirmed (50-99% basin) |
 | MST-Distance | **HIGH** | 50% ratio, bound grows |

@@ -24,4 +24,4 @@ This unifies 50 years of algorithm design:
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

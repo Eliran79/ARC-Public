@@ -1,6 +1,6 @@
 # O(n) Bounded Displacement Sorting: Complete Analysis Package
 
-**Author**: Claude Code + Eliran Sabag
+**Author**: Eliran Sabag
 **Date**: 2026-01-31
 **Framework**: Path 23 - Group Theory Bounded Displacement Sorting
 **Status**: COMPLETE & ACTIONABLE
@@ -317,7 +317,7 @@ Choose your role and follow the path:
 ## Document Metadata
 
 - **Framework**: Path 23 - Group Theory Bounded Displacement Sorting
-- **Author**: Claude Code + Eliran Sabag
+- **Author**: Eliran Sabag
 - **Date**: 2026-01-31
 - **Status**: COMPLETE & ACTIONABLE
 - **Total**: 5 documents, 14,000+ words, 80+ KB

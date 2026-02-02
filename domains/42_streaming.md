@@ -28,4 +28,4 @@ For bounded displacement d (S_observable):
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

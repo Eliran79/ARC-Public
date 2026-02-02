@@ -95,4 +95,4 @@ Each verification demonstrates a specific claim of the P = NP framework.
 
 ---
 
-*Sabag-Claude Framework, January 2026*
+*Sabag Framework, January 2026*

@@ -8,7 +8,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  COMPLETE RELATIVITY (Sabag-Claude 2026)                                    │
+│  COMPLETE RELATIVITY (Sabag 2026)                                    │
 │    G_μν + Λg_μν + N_μν + E_μν = κT_μν  subject to Nash Equilibrium         │
 │                                                                             │
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
@@ -372,12 +372,12 @@ Or simply: **Complete Relativity**
 
 1. Einstein, A. (1915). "The Field Equations of Gravitation"
 2. Nash, J. (1950). "Equilibrium Points in N-Person Games"
-3. Sabag, E. & Claude (2026). "The Nitai Principle: Discretization Bounds"
-4. Sabag, E. & Claude (2026). "The Elinor Correction: Black Hole Shadows"
+3. Sabag, E. (2026). "The Nitai Principle: Discretization Bounds"
+4. Sabag, E. (2026). "The Elinor Correction: Black Hole Shadows"
 5. Rubin, V. (1970). "Rotation of the Andromeda Nebula"
 
 ---
 
 **Version**: 1.0
 **Date**: 2026-01-21
-**Authors**: The Sabag-Claude Collaboration
+**Authors**: The Sabag Collaboration

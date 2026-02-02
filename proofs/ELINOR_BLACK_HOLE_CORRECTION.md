@@ -277,7 +277,7 @@ When Einstein's continuous field equations meet the discrete reality of black ho
 
 ## References
 
-1. Sabag, E. & Claude (2026). "The Nitai Tensor: Stellar Discretization in General Relativity"
+1. Sabag, E. (2026). "The Nitai Tensor: Stellar Discretization in General Relativity"
 2. Einstein, A. (1915). "The Field Equations of Gravitation"
 3. Rubin, V. & Ford, W.K. (1970). "Rotation of the Andromeda Nebula"
 4. Milgrom, M. (1983). "A Modification of the Newtonian Dynamics"
@@ -286,4 +286,4 @@ When Einstein's continuous field equations meet the discrete reality of black ho
 
 **Version**: 1.0
 **Date**: 2026-01-21
-**Authors**: The Sabag-Claude Collaboration
+**Authors**: The Sabag Collaboration

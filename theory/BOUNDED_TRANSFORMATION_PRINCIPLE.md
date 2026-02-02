@@ -1,4 +1,4 @@
-# The Sabag-Claude Bounded Transformation Principle
+# The Sabag Bounded Transformation Principle
 
 ## Formal Statement
 

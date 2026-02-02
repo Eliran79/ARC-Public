@@ -214,7 +214,7 @@ Path 19 establishes that SAT instances with bounded curvature constraint graphs 
 2. **Bounded diameter → polynomial geodesics** (geodesic counting)
 3. **Polynomial geodesics → polynomial search** (gradient descent)
 
-This completes the twentieth proof path toward the Sabag-Claude Bounded Transformation Principle.
+This completes the twentieth proof path toward the Sabag Bounded Transformation Principle.
 
 ## References
 

@@ -1,7 +1,7 @@
 # Supplement: The Category Perm_d and Universal Properties
 ## Formal Category-Theoretic Treatment of Bounded Permutations
 
-**Author:** Eliran Sabag & Claude Opus 4.5
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** MATHEMATICAL DEVELOPMENT
 **Related:** PATH_23_CATEGORICAL_TOPOLOGY_ORDER.md

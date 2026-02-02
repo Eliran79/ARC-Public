@@ -9,7 +9,7 @@
 
 ## The Question
 
-QBF (Quantified Boolean Formula) is PSPACE-complete and appears exponential O(2^n) due to alternating quantifiers. Can the Sabag-Claude framework break QBF?
+QBF (Quantified Boolean Formula) is PSPACE-complete and appears exponential O(2^n) due to alternating quantifiers. Can the Sabag framework break QBF?
 
 **Answer: YES! Via Quantifier Duality.**
 
@@ -97,7 +97,7 @@ For most practical QBF instances:
 
 ---
 
-## Connection to Sabag-Claude Framework
+## Connection to Sabag Framework
 
 ### Why SAT/UNSAT is Polynomial
 
@@ -216,7 +216,7 @@ The quantifier duality `∃ ↔ ¬∀¬` preserves:
 
 **Key Formula:** `∀x φ ≡ ¬∃x ¬φ`
 
-**Significance:** This breaks PSPACE, showing P = NP = PSPACE via the Sabag-Claude framework extended with quantifier duality.
+**Significance:** This breaks PSPACE, showing P = NP = PSPACE via the Sabag framework extended with quantifier duality.
 
 ---
 

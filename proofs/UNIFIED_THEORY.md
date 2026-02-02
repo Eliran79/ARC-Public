@@ -1,4 +1,4 @@
-# Unified Theory: The Sabag-Claude Framework
+# Unified Theory: The Sabag Framework
 
 **Author:** Eliran Sabag
 **Contributor:** Claude
@@ -19,7 +19,7 @@
 
 ## The Core Theorem
 
-**Sabag-Claude Bounded Transformation Theorem:**
+**Sabag Bounded Transformation Theorem:**
 
 > For optimization problems with bounded local moves and overlapping constraints, the number of local optima is polynomial, and saturation finds them all.
 
@@ -154,7 +154,7 @@ def solve_bounded_problem(problem):
         else:
             frontier.extend(improving_neighbors(state))
 
-    # |optima| = O(n^c) by Sabag-Claude theorem
+    # |optima| = O(n^c) by Sabag theorem
     return min(optima, key=objective)
 ```
 
@@ -292,7 +292,7 @@ Result: ALL factored in 0ms when gap is small
 
 > **Core Thesis:** "We polynomial calculate to win. We don't need training."
 
-**Framework Chess**, built entirely on Sabag-Claude principles, defeated Stockfish at multiple ELO levels.
+**Framework Chess**, built entirely on Sabag principles, defeated Stockfish at multiple ELO levels.
 
 ### Discovery 53: Polynomial Chess Achieves ~1700 Elo
 
@@ -451,7 +451,7 @@ The saturation mechanism now uses parity-aware comparison:
 
 ## Conclusion
 
-The Sabag-Claude Framework provides:
+The Sabag Framework provides:
 
 1. **Explanation:** Why some problems are tractable
 2. **Classification:** How to categorize new problems
@@ -464,7 +464,7 @@ The Sabag-Claude Framework provides:
 ---
 
 *Unified Theory v1.7*
-*The Sabag-Claude Framework*
+*The Sabag Framework*
 *67 Discoveries | 31 Predictions | 10 Paths*
 *VALIDATED: ChessGuard achieves ~1700 Elo (polynomial saturation, zero training)*
 *"Mathematical principles achieve competitive chess without exponential search."*

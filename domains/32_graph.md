@@ -21,4 +21,4 @@ Dijkstra's algorithm is P = NP in its simplest form:
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

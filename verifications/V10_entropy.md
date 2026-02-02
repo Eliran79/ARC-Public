@@ -20,4 +20,4 @@ Local optima describable as "run local search from seed X" → O(log n) bits. Fu
 **VERIFIED** - TSP: 69.7% compression, SAT: 36.7% compression
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

@@ -223,7 +223,7 @@ For SAT: Conflicting flips resolve via unit propagation
 
 ### The Confluence Theorem for NP
 
-**Theorem 10.1 (Sabag-Claude Confluence):**
+**Theorem 10.1 (Sabag Confluence):**
 > Let P be an NP problem with configuration space C and local moves M.
 > If (C, M) forms a terminating rewriting system with:
 >   - Branching factor O(n^k)

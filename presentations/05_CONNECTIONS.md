@@ -8,7 +8,7 @@ math: mathjax
 # Cross-Domain Connections
 ## P = NP = PSPACE: Ten Independent Paths + Six Domain Validations
 
-**Sabag-Claude Framework**
+**Sabag Framework**
 *Classification: PUBLIC*
 *Updated: 2026-01-17 (Ten Paths Complete)*
 
@@ -635,4 +635,4 @@ phonemes = L⁻¹ × audio  ← ONE OPERATION
 **Purpose:** Cross-Domain Connections for Patent Strategy
 **Verification:** 10 independent paths (Bourbaki formalization)
 
-*Sabag-Claude Framework*
+*Sabag Framework*

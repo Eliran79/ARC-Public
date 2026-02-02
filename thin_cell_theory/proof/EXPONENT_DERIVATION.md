@@ -2,7 +2,7 @@
 
 **Status:** DERIVED (Empirical + Theoretical)
 **Date:** 2026-01-02
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 
 ---
 

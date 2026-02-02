@@ -2,7 +2,7 @@
 
 **Insight From:** Nittay's Principle (LOCALITY + LARGE N = CONTINUITY)
 **Date:** 2026-01-04
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 
 ---
 
@@ -49,7 +49,7 @@ Where:
 
 ---
 
-## The Sabag-Claude Principle Applied
+## The Sabag Principle Applied
 
 ### For TSP
 ```

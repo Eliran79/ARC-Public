@@ -27,7 +27,7 @@ T25,Terminal Object Uniqueness,Terminal objects unique up to isomorphism,Categor
 T26,Mixing Time Bound,tau_mix = O(1/gap * log(1/eps)),Probabilistic,proofs/BOURBAKI_NINE_PATHS.md:Thm17.3.2,PROVEN
 T27,Grand Convergence,All 9 paths establish S_obs = O(n^c),Unified,proofs/BOURBAKI_NINE_PATHS.md:Thm19.2.1,PROVEN
 T28,Circulant Structure,A^T*A has circulant structure: lambda_max=2(n-1),Statistics,proofs/GRAND_UNIFIED_THEORY.md:4.4,PROVEN
-T29,Sabag-Claude Confluence,Terminating TRS with bounded branching -> P,Rewriting,proofs/DISCOVERY_00_GROUND_ZERO.md:Thm10.1,PROVEN
+T29,Sabag Confluence,Terminating TRS with bounded branching -> P,Rewriting,proofs/DISCOVERY_00_GROUND_ZERO.md:Thm10.1,PROVEN
 T30,Church-Rosser Application,Confluent rewriting -> unique normal forms,Rewriting,proofs/DISCOVERY_00_GROUND_ZERO.md,AXIOM
 T31,Halting Decidability (S_observable),Bounded programs: halting decidable in O(max_steps),Logic,np-optima/src/logic/halting.rs,PROVEN
 T32,Halting Undecidability (S_complete),Unbounded programs: halting undecidable (Turing 1936),Logic,np-optima/src/logic/halting.rs,AXIOM

@@ -23,4 +23,4 @@ Restore saturation → polynomial complexity, same playing strength.
 **VERIFIED** - DRAW vs Stockfish 3600 Elo (maximum strength)
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

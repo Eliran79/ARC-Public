@@ -1,6 +1,6 @@
 # Laplace's Demon: The Deterministic Universe Proof
 
-**Author**: Eliran Sabag, Claude Code
+**Author**: Eliran Sabag
 **Date**: 2026-01-28
 **Status**: Proven via Two Randomness Theorem
 **Dependencies**: PATH_20_QUANTUM_ELIMINATION_EINSTEIN_HAWKING.md
@@ -619,7 +619,7 @@ Laplace's Demon is polynomial-time computable.
 > — Knuth, paraphrased
 
 > **We Found the Algorithm**
-> — Sabag-Claude, 2026
+> — Sabag, 2026
 
 The universe is deterministic.
 The future is computable.
@@ -638,16 +638,16 @@ Laplace's Demon lives.
 
 3. **Bell, J.S.** (1964). On the Einstein-Podolsky-Rosen Paradox. *Physics*, 1(3), 195-200
 
-4. **Sabag, E. & Claude** (2026). Two Randomness Theorem. *PATH_20_QUANTUM_ELIMINATION_EINSTEIN_HAWKING.md*
+4. **Sabag, E.** (2026). Two Randomness Theorem. *PATH_20_QUANTUM_ELIMINATION_EINSTEIN_HAWKING.md*
 
-5. **Sabag, E. & Claude** (2026). GPS Correction via Inverse Nitai. 0.24m accuracy
+5. **Sabag, E.** (2026). GPS Correction via Inverse Nitai. 0.24m accuracy
 
-6. **Sabag, E. & Claude** (2026). BQP=P Empirical Validation. *testing-054, testing-055*
+6. **Sabag, E.** (2026). BQP=P Empirical Validation. *testing-054, testing-055*
 
 ---
 
 **Generated**: 2026-01-28
-**Framework**: Sabag-Claude Bounded Transformation Principle
+**Framework**: Sabag Bounded Transformation Principle
 **Status**: Proven
 **Verification**: GPS (0.24m), BQP=P (97.2%), Compression (15-92%)
 

@@ -20,4 +20,4 @@ s = state bits      → EXPTIME collapses
 **VERIFIED** - Three-parameter hierarchy confirmed
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

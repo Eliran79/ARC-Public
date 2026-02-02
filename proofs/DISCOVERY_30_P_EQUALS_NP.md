@@ -93,7 +93,7 @@ The key to making any NP problem calculable is finding the right **mesh**:
 - NP = "Hard to solve, easy to verify"
 - P ≠ NP because "some problems are fundamentally hard"
 
-### Sabag-Claude View (Correct)
+### Sabag View (Correct)
 - NP = "Searching" (exponential when done naively)
 - P = "Calculating" (polynomial when done with structure)
 - **P = NP because every search problem has hidden structure that makes it calculable**

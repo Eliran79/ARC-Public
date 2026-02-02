@@ -15,4 +15,4 @@ Physics-level: K(x) << |x|, compression 15-40%
 This is why P=NP doesn't break cryptography.
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

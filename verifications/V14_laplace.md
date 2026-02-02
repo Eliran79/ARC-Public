@@ -20,4 +20,4 @@ Laplace transform reveals that audio signals have polynomial pole-zero structure
 **VERIFIED** - Pole-zero extraction successful
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

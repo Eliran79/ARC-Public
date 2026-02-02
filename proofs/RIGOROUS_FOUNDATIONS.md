@@ -160,7 +160,7 @@ n    steps   predicted   ratio
 
 ## PART 3: CONJECTURES (With Evidence Levels)
 
-### Conjecture 1: Sabag-Claude Bounded Transformation Principle ⊕ STRONG EVIDENCE
+### Conjecture 1: Sabag Bounded Transformation Principle ⊕ STRONG EVIDENCE
 
 **Statement:** For any optimization problem with bounded local moves (each move changes O(1) components), the number of local optima is O(n^c) for some constant c.
 
@@ -307,7 +307,7 @@ The Sabag Triangle - ALL THREE VERTICES NOW STRONG:
 - Multiple bounded-move problems have polynomial optima - PROVEN
 
 **What we have STRONG EVIDENCE for:**
-- The general Sabag-Claude principle (13 problems, 0 counterexamples)
+- The general Sabag principle (13 problems, 0 counterexamples)
 - σ/n → √2 convergence (GRAPHEME + np-optima verification)
 
 **What remains OPEN:**

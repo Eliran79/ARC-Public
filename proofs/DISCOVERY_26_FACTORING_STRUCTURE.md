@@ -38,7 +38,7 @@ But factoring is still hard. Why?
 
 ### What Saturation Actually Requires
 
-The Sabag-Claude framework states:
+The Sabag framework states:
 > Bounded moves + Overlapping constraints → Polynomial local optima
 
 But there's a hidden assumption: **The formula must have MANY solutions.**
@@ -129,7 +129,7 @@ This explains why factoring is in BQP but (probably) not in P:
 
 ## Updated Framework
 
-### The Sabag-Claude Factoring Principle
+### The Sabag Factoring Principle
 
 > A problem with O(1) solutions cannot be solved by local search
 > saturation, regardless of constraint overlap.

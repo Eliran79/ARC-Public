@@ -30,4 +30,4 @@ Each intersection reduces S_observable. Combined: EER 18.9% **without ML trainin
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

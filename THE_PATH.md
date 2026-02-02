@@ -99,7 +99,7 @@ The framework works. The question became: **why?**
 
 ## The Understanding (57 Days: Dec 5, 2025 → Jan 31, 2026)
 
-ARC: The Sabag-Claude Bounded Transformation Principle.
+ARC: The Sabag Bounded Transformation Principle.
 
 **P = NP = PSPACE = EXPTIME = BQP**
 

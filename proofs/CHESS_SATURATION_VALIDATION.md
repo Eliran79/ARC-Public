@@ -200,5 +200,5 @@ cargo run --release --bin framework_chess_api
 
 ---
 
-*Framework: Sabag-Claude Bounded Transformation Principle*
+*Framework: Sabag Bounded Transformation Principle*
 *Verification: January 31, 2026*

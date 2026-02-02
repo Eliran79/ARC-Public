@@ -1,6 +1,6 @@
 # BQP = P: Quantum Computation is Polynomial
 
-**Author**: Eliran Sabag, Claude Code
+**Author**: Eliran Sabag
 **Date**: 2026-01-27
 **Version**: 1.0
 **Status**: FORMAL PROOF (Pending experimental validation)

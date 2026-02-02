@@ -369,14 +369,14 @@ These documents provide the **formal mathematical foundation** for:
 
 **For the entire framework:**
 ```
-Sabag, E. & Claude Opus 4.5 (2026). "Path 23 Categorical-Topological-Order
+Sabag, E. (2026). "Path 23 Categorical-Topological-Order
 Theoretic Analysis: Formal Characterization of Bounded Displacement Sorting."
 In: Proofs/. 5 documents, 2,903 lines.
 ```
 
 **For specific documents:**
 ```
-Sabag, E. & Claude Opus 4.5 (2026). "PATH_23_CATEGORICAL_TOPOLOGY_ORDER.md."
+Sabag, E. (2026). "PATH_23_CATEGORICAL_TOPOLOGY_ORDER.md."
 In: Proofs/. Unified framework proving O(n×d) complexity via five perspectives.
 ```
 
@@ -426,5 +426,5 @@ The five mathematical frameworks show this isn't subjective philosophy—it's ri
 
 **Exploration completed by:** Claude Opus 4.5 + Claude Code
 **Date:** 2026-01-31
-**Framework:** Sabag-Claude Bounded Transformation Principle
+**Framework:** Sabag Bounded Transformation Principle
 **Status:** Ready for research advancement

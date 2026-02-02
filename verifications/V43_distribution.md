@@ -17,4 +17,4 @@ All show compression > 0% (not bit-level random)
 - All show bounded structure
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

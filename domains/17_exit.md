@@ -21,4 +21,4 @@ The Pareto frontier of optimal distributions is polynomial, not exponential—bo
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

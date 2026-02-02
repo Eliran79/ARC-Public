@@ -31,4 +31,4 @@ This is why NP problems are tractable—the solutions are compressible.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

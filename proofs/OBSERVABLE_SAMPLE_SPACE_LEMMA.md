@@ -1,7 +1,7 @@
 # The Observable Sample Space Lemma
 ## The Missing Axiom of Complexity Theory
 
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Version:** 1.5 (Halting Problem Unified)
 **Date:** 2026-01-19
 **Status:** FOUNDATIONAL AXIOM - Four independent realizations documented (including Turing's halting problem)

@@ -1,6 +1,6 @@
 # The Ten Paths to P=NP: Complete Overview
 
-**Author:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-21
 **Status:** SUMMARY DOCUMENT
 **Source:** BOURBAKI_NINE_PATHS.md, BOURBAKI_FORMALIZATION.md, verification binaries
@@ -296,7 +296,7 @@ Terminating TRS with bounded branching has polynomial normal forms.
 2. **Finite Branching:** Each term has O(n^k) reducts
 3. **Bounded Critical Pairs:** Overlapping rules resolve in bounded steps
 
-### Sabag-Claude Confluence Theorem
+### Sabag Confluence Theorem
 For configuration TRS with:
 - Branching factor O(n^k)
 - Termination measure O(n^m)

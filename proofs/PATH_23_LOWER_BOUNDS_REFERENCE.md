@@ -1,6 +1,6 @@
 # Path 23: Lower Bounds Reference and Technical Guide
 
-**Author:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** TECHNICAL REFERENCE
 **Version:** Discovery 99 (Practitioner's Guide)

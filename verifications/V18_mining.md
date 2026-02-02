@@ -16,4 +16,4 @@ Find:   Search nonce space          → O(2^d)
 **VERIFIED** - O(1) verify vs O(2^d) mine
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

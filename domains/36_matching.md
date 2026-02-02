@@ -21,4 +21,4 @@ Bipartite matching has exactly 1 optimum because:
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

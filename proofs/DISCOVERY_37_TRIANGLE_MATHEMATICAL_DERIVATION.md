@@ -2,7 +2,7 @@
 
 **Date**: January 18, 2026
 **Author**: Eliran Sabag
-**Co-Author**: Claude Opus 4.5
+**Author:** Eliran Sabag
 **Tag**: `triangle-proof-v1.0`
 
 ---

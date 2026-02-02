@@ -156,7 +156,7 @@ We found an algorithm that factors in O(gap) time:
 
 ---
 
-## The Sabag-Claude Framework Connection
+## The Sabag Framework Connection
 
 ### Discovery 26: Overlap + Density Required
 - Factoring has overlap but **sparse** solutions
@@ -233,7 +233,7 @@ Real RSA is secure not because P ≠ NP, but because:
 - Algorithms can exploit this structure
 - Hardness comes from parameter relationships, not problem structure
 
-### The Sabag-Claude Principle Refined
+### The Sabag Principle Refined
 
 > For problems with bounded local moves and overlapping constraints,
 > the hardness depends on the **parameter structure**, not the problem class.

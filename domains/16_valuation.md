@@ -21,4 +21,4 @@ These methods **converge** via bounded constraint satisfaction—not exponential
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

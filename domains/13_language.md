@@ -32,4 +32,4 @@ Python → Rust translation:
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

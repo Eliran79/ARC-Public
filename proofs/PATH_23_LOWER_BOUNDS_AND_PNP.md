@@ -1,6 +1,6 @@
 # Path 23: Lower Bounds and the P=NP Connection
 
-**Author:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** FRAMEWORK SYNTHESIS
 **Version:** Discovery 99 (Integration)

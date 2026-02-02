@@ -22,4 +22,4 @@ Independence (c=1) yields O(n) complexity for n beats.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

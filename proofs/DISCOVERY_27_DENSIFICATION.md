@@ -239,4 +239,4 @@ Discovery 27 reinforces the core insight:
 
 > **Discovery 27:** Hybrid densification provides practical factoring speedup but cannot achieve polynomial complexity. The fundamental barrier is that solution density scales as O(√N), not O(2^εn), confirming that factoring's hardness lies in its sparse solution structure.
 
-*This is an honest negative result that strengthens our understanding of which problems the Sabag-Claude framework can and cannot solve polynomially.*
+*This is an honest negative result that strengthens our understanding of which problems the Sabag framework can and cannot solve polynomially.*

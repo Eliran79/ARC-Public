@@ -354,7 +354,7 @@ Classical NP (S_complete - all assignments):
 Bounded transformation (S_observable - reachable via local moves):
   Solvable: Polynomial time
 
-This is the core of the Sabag-Claude P=NP proof:
+This is the core of the Sabag P=NP proof:
 Bounded structure → Polynomial complexity
 ```
 
@@ -485,7 +485,7 @@ A: Yes! E.g., bounded heap + bounded merge = fast priority queue with streaming.
 
 ---
 
-*Framework: Sabag-Claude P=NP via Bounded Transformation*
+*Framework: Sabag P=NP via Bounded Transformation*
 *Path 23: Bounded Displacement Sort*
 *Discovery 98: Data Structure Implications*
 

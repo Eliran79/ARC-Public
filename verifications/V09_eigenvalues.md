@@ -21,4 +21,4 @@ Random matrices with bounded entries follow Wigner's semicircle law. This connec
 **VERIFIED** - σ/n → √2 as n → ∞
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

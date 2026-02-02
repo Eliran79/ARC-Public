@@ -21,4 +21,4 @@ Structure: Submonoid of symmetric group S_n
 **VERIFIED** - Cayley graph structure confirmed for all tested n, d
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

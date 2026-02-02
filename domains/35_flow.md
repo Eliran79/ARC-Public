@@ -22,4 +22,4 @@ Ford-Fulkerson IS Dijkstra for flow networks.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

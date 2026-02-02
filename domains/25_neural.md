@@ -23,4 +23,4 @@ Matrix multiplication is brute-forcing polynomial paths that the ARC framework f
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

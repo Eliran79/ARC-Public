@@ -29,4 +29,4 @@ Nature solves protein folding in polynomial time because physics enforces bounde
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

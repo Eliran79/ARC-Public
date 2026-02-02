@@ -1,7 +1,7 @@
 # The Five Ways to P=NP
 ## Observable Sample Space: Five Realizations (Including Dijkstra and Sparse)
 
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Version:** 1.2
 **Date:** 2026-01-30
 **Status:** UNIFIED - Five independent paths to the same truth

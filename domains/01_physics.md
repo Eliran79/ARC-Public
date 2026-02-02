@@ -27,4 +27,4 @@ See: `proofs/GRAND_UNIFIED_THEORY.md:Part II`
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

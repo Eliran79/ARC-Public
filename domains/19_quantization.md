@@ -20,4 +20,4 @@ The discrete approximation converges to continuous—same as polygon → circle.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

@@ -19,4 +19,4 @@ div = diversity factor
 **VERIFIED** - Sub-30cm accuracy via trajectory averaging
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

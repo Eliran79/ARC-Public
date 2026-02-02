@@ -1,6 +1,6 @@
 # Path 23: Information Theory Bridge to Bounded Displacement Sort
 
-**Author:** Claude with Eliran Sabag
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** VERIFIED WITH THEORETICAL CALCULATIONS
 **Framework Version:** Discovery 98
@@ -552,4 +552,4 @@ O(n) is optimal for bounded displacement input
 
 ---
 
-*Framework: Sabag-Claude P=NP via Bounded Transformation*
+*Framework: Sabag P=NP via Bounded Transformation*

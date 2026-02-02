@@ -1,7 +1,7 @@
 # Bounded Displacement Sorting: Complete Reference & Index
 
 **Framework**: Path 23 - Group Theory Bounded Displacement Sorting
-**Author**: Claude Code + Eliran Sabag
+**Author**: Eliran Sabag
 **Date**: 2026-01-31
 **Status**: COMPLETE ANALYSIS PACKAGE (82 KB, 4 Documents)
 
@@ -470,7 +470,7 @@ The opportunity is now. Start by measuring your data.
 **Package**: BOUNDED_DISPLACEMENT_COMPLETE_REFERENCE
 **Status**: COMPLETE & ACTIONABLE
 **Framework**: Path 23 - Group Theory Bounded Displacement Sorting
-**Author**: Claude Code + Eliran Sabag
+**Author**: Eliran Sabag
 **Date**: 2026-01-31
 
 ---

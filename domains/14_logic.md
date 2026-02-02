@@ -31,4 +31,4 @@ But for **bounded** programs (S_observable):
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

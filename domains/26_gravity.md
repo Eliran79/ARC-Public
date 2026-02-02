@@ -20,4 +20,4 @@ Same principle as Nittay Limit: discrete → continuous loses information.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

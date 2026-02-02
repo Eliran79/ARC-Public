@@ -27,4 +27,4 @@ Open research direction. See: `proofs/DISCOVERY_90_SPARSE_DIRECTION.md`
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

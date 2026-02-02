@@ -235,4 +235,4 @@ The framework shows that structured input admits better complexity.
 
 ---
 
-*Framework: Sabag-Claude P=NP via Bounded Transformation*
+*Framework: Sabag P=NP via Bounded Transformation*

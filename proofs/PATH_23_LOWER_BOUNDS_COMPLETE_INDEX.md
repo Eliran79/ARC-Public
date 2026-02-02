@@ -1,6 +1,6 @@
 # Path 23: Lower Bound Theory - Complete Index
 
-**Author:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** COMPLETE COLLECTION
 **Framework:** Discovery 99 - Lower Bound Hierarchy

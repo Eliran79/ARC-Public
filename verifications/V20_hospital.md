@@ -17,4 +17,4 @@ Method: Iterative constraint satisfaction (saturation)
 **VERIFIED** - 50 nurses, 0 violations
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

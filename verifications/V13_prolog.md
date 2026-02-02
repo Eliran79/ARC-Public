@@ -16,4 +16,4 @@ S_observable = states reachable via bounded unification depth
 **VERIFIED** - History equivalence demonstrated
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

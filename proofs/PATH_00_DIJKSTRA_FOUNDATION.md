@@ -2,7 +2,7 @@
 
 ## The Degenerate Case Everyone Already Accepted
 
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-30
 **Status:** PROVEN (implicitly accepted since 1959)
 
@@ -10,7 +10,7 @@
 
 ## Abstract
 
-Dijkstra's algorithm (1959) is the **degenerate case of P=NP** where curvature κ=0, yielding exactly one local optimum. The algorithm's correctness proves that local moves reaching equilibrium find global optima — the same principle underlying the Sabag-Claude framework for TSP, SAT, and all NP problems with bounded curvature.
+Dijkstra's algorithm (1959) is the **degenerate case of P=NP** where curvature κ=0, yielding exactly one local optimum. The algorithm's correctness proves that local moves reaching equilibrium find global optima — the same principle underlying the Sabag framework for TSP, SAT, and all NP problems with bounded curvature.
 
 The 50-year P vs NP debate was a category error: theorists studied **unbounded curvature** problems (General TSP) while practitioners solved **bounded curvature** problems (Euclidean TSP, real-world SAT) in polynomial time.
 
@@ -37,9 +37,9 @@ Dijkstra(G, source):
   Return d[]                              ← EQUILIBRIUM
 ```
 
-### 1.2 Mapping to Sabag-Claude Framework
+### 1.2 Mapping to Sabag Framework
 
-| Dijkstra Concept | Sabag-Claude Principle |
+| Dijkstra Concept | Sabag Principle |
 |------------------|------------------------|
 | Relaxation step | Bounded local move (c=1) |
 | Priority queue | Polynomial state enumeration |
@@ -280,8 +280,8 @@ We just didn't generalize it for 67 years.
 
 1. Dijkstra, E.W. (1959). "A note on two problems in connexion with graphs"
 2. Karp, R.M. (1972). "Reducibility among combinatorial problems"
-3. Sabag, E. & Claude (2026). "The Observable Sample Space Lemma"
-4. Sabag, E. & Claude (2026). "Path 19: Curvature Geodesics"
+3. Sabag, E. (2026). "The Observable Sample Space Lemma"
+4. Sabag, E. (2026). "Path 19: Curvature Geodesics"
 
 ---
 

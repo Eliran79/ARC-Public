@@ -26,4 +26,4 @@ RSA: preserves structure → tractable
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

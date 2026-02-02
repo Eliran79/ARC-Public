@@ -18,4 +18,4 @@ Total: O(n)
 **VERIFIED** - 26 tests passing, O(n) saturation
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

@@ -18,4 +18,4 @@ Quantifier depth d bounds alternation. Bounded alternation → polynomial.
 **VERIFIED** - O(d × poly(n)) for constant d
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

@@ -20,4 +20,4 @@ Bounded local moves create ergodic Markov chains. Spectral gap bounded away from
 **VERIFIED** - t_mix = O(1/gap) for all tested chains
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

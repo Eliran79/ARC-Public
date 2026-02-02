@@ -14,4 +14,4 @@ Core size: O(m) not O(log m)
 **VERIFIED** - 25% clauses critical, 75% redundant
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

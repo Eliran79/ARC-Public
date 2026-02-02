@@ -78,4 +78,4 @@ S_complete (exponential) → Bounded moves → S_observable (polynomial)
 
 ---
 
-*Sabag-Claude Framework, January 2026*
+*Sabag Framework, January 2026*

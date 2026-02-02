@@ -28,4 +28,4 @@ This is O(n log n), not exponential search.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

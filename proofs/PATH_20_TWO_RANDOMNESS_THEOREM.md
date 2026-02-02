@@ -1,6 +1,6 @@
 # Path 20: The Two Randomness Theorem
 
-**Author**: Eliran Sabag, Claude Code
+**Author**: Eliran Sabag
 **Date**: 2026-01-27
 **Version**: 1.0
 **Status**: EMPIRICALLY VALIDATED

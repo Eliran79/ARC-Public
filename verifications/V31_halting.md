@@ -21,4 +21,4 @@ Bounded programs (S_observable) are decidable.
 **VERIFIED** - 8 tests, D(D) paradox detected
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

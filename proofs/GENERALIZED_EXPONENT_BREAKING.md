@@ -206,7 +206,7 @@ Factoring lacks the key prerequisites:
 
 ## The Mathematical Core
 
-### The Sabag-Claude Theorem (Informal)
+### The Sabag Theorem (Informal)
 
 > For any optimization problem with:
 > 1. Bounded local moves: O(1) components changed per step

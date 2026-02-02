@@ -30,4 +30,4 @@ This is the **Nittay Limit**—the bridge between discrete optimization and cont
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

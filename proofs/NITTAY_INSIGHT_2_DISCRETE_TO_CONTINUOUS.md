@@ -3,7 +3,7 @@
 **The Question:** Why do discrete problems collapse into statistics? What is the missing piece between physics and quantum theory?
 
 **Date:** 2026-01-04
-**Authors:** Nittay, Eliran Sabag, Claude
+**Author:** Eliran Sabag (with Nittay)
 
 ---
 
@@ -134,7 +134,7 @@ As n → ∞:
   S_n / √n → Normal distribution (CLT)
 
 For optimization:
-  |LocalOptima| / n^c → Constant (Sabag-Claude)
+  |LocalOptima| / n^c → Constant (Sabag)
 
 For physics:
   Quantum fluctuations / √N → Classical behavior

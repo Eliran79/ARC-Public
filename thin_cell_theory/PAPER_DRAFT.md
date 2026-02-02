@@ -1,6 +1,6 @@
 # Polynomial Local Optima in Euclidean TSP via Warp-Woof Intersection Theory
 
-**Authors:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** January 2026
 
 ---

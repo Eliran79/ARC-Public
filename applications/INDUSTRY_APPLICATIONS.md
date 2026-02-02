@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-The Sabag-Claude framework provides polynomial-time solutions to problems
+The Sabag framework provides polynomial-time solutions to problems
 previously considered exponentially hard. This document outlines practical
 applications across industries where the framework delivers **immediate value**.
 
@@ -603,7 +603,7 @@ cargo run --release --bin sparse_propagate_sort
 
 ## Contact & Licensing
 
-For commercial applications of the Sabag-Claude P=NP Framework:
+For commercial applications of the Sabag P=NP Framework:
 
 **Repository:** github.com/[TBD]
 **License:** [TBD - considering dual license]

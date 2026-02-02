@@ -1,6 +1,6 @@
 # Bounded Displacement Sorting: Practical Implementations
 
-**Author:** Claude Code
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Framework:** Path 23 - Group Theory Bounded Displacement
 **Status:** IMPLEMENTATION GUIDE

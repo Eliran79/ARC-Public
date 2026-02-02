@@ -32,4 +32,4 @@ phonemes = L⁻¹ × audio  ← ONE OPERATION
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

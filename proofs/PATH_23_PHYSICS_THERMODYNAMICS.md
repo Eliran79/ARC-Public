@@ -1,6 +1,6 @@
 # Path 23: Physics and Thermodynamics of Bounded Displacement Sorting
 
-**Author:** Eliran Sabag, Claude Opus 4.5
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** THEORETICAL FRAMEWORK
 **Framework Version:** Discovery 98
@@ -922,7 +922,7 @@ Path 23 (Bounded Displacement Sort) reveals that **polynomial-time computation e
 
 6. **Unified Picture:** Energy, entropy, diffusion, and algorithms all agree: **d-bounded problems are polynomial-time solvable**.
 
-This extends the Sabag-Claude Principle to physics:
+This extends the Sabag Principle to physics:
 
 > **Bounded structure → Polynomial complexity → Natural solutions**
 
@@ -936,5 +936,5 @@ The hardness of NP is not a fundamental physical law. It emerges from **unstruct
 
 ---
 
-*Framework: Sabag-Claude P=NP via Bounded Transformation & Physical Implementation*
+*Framework: Sabag P=NP via Bounded Transformation & Physical Implementation*
 

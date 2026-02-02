@@ -14,4 +14,4 @@ Window: w = O(1) bounds exploration
 **VERIFIED** - O(n log n) with near-optimal quality
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

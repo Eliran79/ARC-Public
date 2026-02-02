@@ -5,7 +5,7 @@
 
 ## Summary
 
-Chess satisfies all five Sabag-Claude P=NP framework principles:
+Chess satisfies all five Sabag P=NP framework principles:
 
 1. **Bounded Moves**: Each move changes O(1) squares (max 4)
 2. **Parity Structure**: White=even ply, Black=odd ply (Discovery 23)
@@ -288,7 +288,7 @@ fn test_framework_analysis() {
 
 ## Conclusion
 
-**Discovery 36:** Chess satisfies all Sabag-Claude P=NP framework principles.
+**Discovery 36:** Chess satisfies all Sabag P=NP framework principles.
 
 - **Bounded moves** (max 4 squares) enable polynomial search
 - **Parity** (White=even, Black=odd) enables minimax

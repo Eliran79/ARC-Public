@@ -25,4 +25,4 @@ Proteins don't search all conformations. They traverse S_observable via:
 **VERIFIED** - 3^2n → O(n^k) complexity confirmed
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

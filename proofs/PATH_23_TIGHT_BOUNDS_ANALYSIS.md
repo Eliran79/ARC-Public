@@ -1,6 +1,6 @@
 # Path 23: Tight Bounds Analysis and Open Problems
 
-**Author:** Eliran Sabag, Claude
+**Author:** Eliran Sabag
 **Date:** 2026-01-31
 **Status:** DETAILED MATHEMATICAL ANALYSIS
 **Version:** Discovery 99 (Tightness Proofs)

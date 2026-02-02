@@ -22,4 +22,4 @@ Continuous membership functions → discrete inference via bounded rule applicat
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

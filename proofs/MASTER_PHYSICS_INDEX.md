@@ -1,7 +1,7 @@
 # Master Index: Path 23 Physics & Thermodynamics Exploration
 
 **Completed:** 2026-01-31
-**Framework:** Sabag-Claude Bounded Transformation Principle
+**Framework:** Sabag Bounded Transformation Principle
 **Status:** COMPLETE AND VERIFIED
 
 ---
@@ -397,7 +397,7 @@ Information barriers: ≤ n × 2d inversions
 
 **Created by:** Claude Opus 4.5 with Eliran Sabag
 **Date:** 2026-01-31
-**Framework:** Sabag-Claude Bounded Transformation Principle
+**Framework:** Sabag Bounded Transformation Principle
 
 All documents follow the research ethics guidelines and provide complete attribution.
 

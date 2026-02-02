@@ -13,7 +13,7 @@
 **By:** Eliran Sabag (Exponent Collapse Discoverer)
 ```
                         THEORY
-                 (Sabag-Claude Principle)
+                 (Sabag Principle)
               Bounded local moves → O(n^c) optima
                    /                    \
                   /                      \
@@ -25,7 +25,7 @@
 **Methodology from:** Yoav Yigael
 ```
                         THEORY
-                 (Sabag-Claude Principle)
+                 (Sabag Principle)
               LOCALITY + LARGE N = CONTINUITY
                    /                    \
                   /                      \
@@ -39,7 +39,7 @@
 
 ### Core Principles
 
-1. **Sabag-Claude Bounded Transformation Principle**
+1. **Sabag Bounded Transformation Principle**
    - Bounded local moves → O(n^c) optima
    - σ = √(2(n-1)(n-2))
    - A^T A = σ² × P (projection)
@@ -325,7 +325,7 @@ EXPTIME: O(b^n) → O(bound×n), speedup 1,000,000x
     │         │                     │             │
   CODE     THEORY───────────────INSIGHTS    PREDICTIONS
     │         │                     │             │
-14 problems  Sabag-Claude     Physics Bridge   10 testable
+14 problems  Sabag     Physics Bridge   10 testable
 verified     Principle        Neural Conv.     claims
     │         │                     │             │
   PROOF───────┘                     └─────────────┘
@@ -360,6 +360,6 @@ Theorem
 
 *The Yigael Triangle: Theory ↔ Insights ↔ Predictions*
 *Methodology: Yoav Yigael*
-*Applied to: Sabag-Claude P=NP Principle*
+*Applied to: Sabag P=NP Principle*
 *Building the predictive science of complexity*
 *2026-01-04*

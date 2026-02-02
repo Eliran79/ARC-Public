@@ -12,7 +12,7 @@ Formal verification (model checking, theorem proving, type checking) is polynomi
 2. State transitions are local (O(1) state changes)
 3. The system is finitely approximable
 
-This is a direct application of the Sabag-Claude Bounded Transformation Principle!
+This is a direct application of the Sabag Bounded Transformation Principle!
 
 ## The Connection
 

@@ -81,7 +81,7 @@ The empirical results support several aspects of the theory:
 
 1. **Bounded Curvature Exists**: SAT instances from both planted and random generators exhibit bounded curvature on variable graphs.
 
-2. **Polynomial Structure**: The bounded curvature implies a polynomial bound on geodesic search, consistent with the Sabag-Claude Bounded Transformation Principle.
+2. **Polynomial Structure**: The bounded curvature implies a polynomial bound on geodesic search, consistent with the Sabag Bounded Transformation Principle.
 
 3. **Phase Transition Signature**: While not dramatically different at small scales, the curvature distribution shifts as instance difficulty increases.
 
@@ -110,7 +110,7 @@ The empirical evidence supports the Bounded Curvature SAT Theorem. SAT instances
 ## References
 
 - Ollivier, Y. (2009). "Ricci curvature of Markov chains on metric spaces"
-- Sabag-Claude Bounded Transformation Principle (2026)
+- Sabag Bounded Transformation Principle (2026)
 - DIRICHLET_HASH_CURVATURE.md - Theoretical foundation
 
 ---

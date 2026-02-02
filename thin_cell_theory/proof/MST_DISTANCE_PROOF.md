@@ -2,7 +2,7 @@
 
 **Status:** WORK IN PROGRESS
 **Date:** 2026-01-02
-**Authors:** Eliran Sabag, Claude (with GRAPHEME collaboration)
+**Author:** Eliran Sabag
 
 ---
 

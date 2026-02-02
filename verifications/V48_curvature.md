@@ -15,4 +15,4 @@ Low κ region: Sparse sampling sufficient
 **VERIFIED** - Curvature guides sampling strategy effectively
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

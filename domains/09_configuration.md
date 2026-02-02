@@ -33,4 +33,4 @@ NP-hard problems are only hard when searching S_complete. Constrained to S_obser
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

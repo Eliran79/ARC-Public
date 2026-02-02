@@ -1,5 +1,5 @@
 Principle#,Name,Statement,Domain,Discoverer,Connection_to_P_equals_NP,File_Reference
-1,Sabag-Claude Bounded Transformation,Bounded local moves (O(1) changes) -> O(n^c) local optima,Universal,Eliran Sabag,Core theorem - WHY NP problems are tractable,proofs/GRAND_UNIFIED_THEORY.md
+1,Sabag Bounded Transformation,Bounded local moves (O(1) changes) -> O(n^c) local optima,Universal,Eliran Sabag,Core theorem - WHY NP problems are tractable,proofs/GRAND_UNIFIED_THEORY.md
 2,Observable Sample Space Axiom,S_observable << S_complete: exponential space reduces to polynomial via local moves,Universal,Eliran Sabag,Foundation axiom - missing piece of complexity theory,proofs/OBSERVABLE_SAMPLE_SPACE_LEMMA.md
 3,Saturation Principle (3 Laws),Bounded Production + Finite Space + Monotonic Progress = Polynomial termination,Universal,Eliran Sabag,WHY bounded moves give polynomial complexity,proofs/DISCOVERY_14_SATURATION_PRINCIPLE.md
 4,Complete Picture Principle,Complete observability of constraint interactions enables polynomial solving,Architecture,Eliran Sabag,GRAPHEME sees entire structure vs LLM token-by-token,proofs/DISCOVERY_15_COMPLETE_PICTURE.md
@@ -36,7 +36,7 @@ Principle#,Name,Statement,Domain,Discoverer,Connection_to_P_equals_NP,File_Refer
 35,P-Exponential Boundary Principle,c = O(1) → P; c = O(n) → Exponential. The boundary is NOT a fixed c but scaling behavior,Complexity,Eliran Sabag,Definitive boundary between tractable and intractable,proofs/THE_BOUNDARY.md
 36,Nittay Bridge Principle,Forward (σ/n→√2): Discrete→Continuous; Inverse (n=2.12/ε): Continuous→Discrete. Both polynomial,Geometry/Physics,Eliran Sabag,Two-way bridge between discrete and continuous,proofs/NITTAY_BRIDGE_COMPLETE.md
 37,Rules-to-Lambda Principle,Given well-defined problem rules count changes per move → c → λ=√c → design algorithm,Universal,Eliran Sabag,Systematic derivation of complexity from rules,proofs/CALCULATING_LAMBDA.md
-38,TaskGuard Workflow Principle,AI coding with bounded moves: status(c=2) + DAG deps + fixed areas reduces N! to O(N²),Project Management,Eliran Sabag,Applies Sabag-Claude to software development workflow,TASKGUARD.md
+38,TaskGuard Workflow Principle,AI coding with bounded moves: status(c=2) + DAG deps + fixed areas reduces N! to O(N²),Project Management,Eliran Sabag,Applies Sabag to software development workflow,TASKGUARD.md
 39,Veil Principle,API returns result without methodology - position+accuracy not formula. TEE protects computation,Security,Eliran Sabag,Commercialization of P=NP: sell results not algorithms,Guard8.ai/AdvisorGuard/
 40,Fixed Depth Collapse Principle,Bounded quantifier depth d collapses PSPACE(d) → NP → P. QBF with d alternations solvable in O(d × poly(n)),Complexity,Eliran Sabag,Extends P=NP to P=NP=PSPACE(d) for constant d,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
 41,Fog Horizon Principle,Computational horizon is design choice not barrier. Fix depth d where stability emerges then compute within polynomially,Complexity/Philosophy,Eliran Sabag,Asimov's End of Eternity metaphor - Hidden Centuries are CHOSEN,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md

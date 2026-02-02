@@ -21,4 +21,4 @@ This domain documents the game-theoretic reasoning behind public release.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

@@ -33,4 +33,4 @@ Quantum gates ARE physical operations → bounded → BQP = P.
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

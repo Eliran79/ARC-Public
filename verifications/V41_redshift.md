@@ -15,4 +15,4 @@ No Hubble expansion required
 **VERIFIED** - Boundary effect explains redshift
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

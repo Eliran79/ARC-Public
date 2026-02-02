@@ -33,4 +33,4 @@ S_hash = O(2^256)       preimage space
 
 ---
 
-*Sabag-Claude Framework*
+*Sabag Framework*

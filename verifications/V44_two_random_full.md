@@ -20,4 +20,4 @@ Bit-level sources:
 **VERIFIED** - Physics 15-92% vs Bit ~0%
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

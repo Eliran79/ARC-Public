@@ -19,4 +19,4 @@ Streaming median: O(1) amortized update
 5. Fenwick tree
 
 ---
-*Sabag-Claude Framework*
+*Sabag Framework*

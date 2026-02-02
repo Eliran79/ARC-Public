@@ -45,7 +45,7 @@ k-qubit gate: Affects k qubits (k constant)
 
 **Quantum computation = BOUNDED LOCAL MOVES on qubits!**
 
-### The Sabag-Claude Principle (Quantum Version)
+### The Sabag Principle (Quantum Version)
 
 ```
 Classical bounded moves → O(n^c) optima

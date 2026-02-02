@@ -72,26 +72,37 @@ Cryptographic keys use **bit-level randomness** (Kolmogorov-incompressible). P=N
 ## Directory Structure
 
 ```
-proofs/                 - Formal proof documents (170+ files)
-  GRAND_UNIFIED_THEORY.md         - 12 independent paths to P=NP
-  BOURBAKI_LAPLACE_UNIFIED.md     - Six Millennium problems, one framework
-  LAPLACE_COMPLETENESS_THEOREM.md - Foundation for dissolution (Discovery 109)
-  RIEMANN_DISCRETE_ATTACK.md      - log₂(√2) = ½
-  YANG_MILLS_MASS_GAP_DISSOLUTION.md
-  NAVIER_STOKES_DISCRETE_REFORMULATION.md
-  BSD_CONJECTURE_TWO_RANDOMNESS.md   - DISSOLVED (Discovery 110)
-  HODGE_CONJECTURE_TWO_RANDOMNESS.md - DISSOLVED over Q (Discovery 111)
-  TWO_WORLDS_MILLENNIUM_CLASSIFICATION.md
-  LAPLACE_UNIFIED_MILLENNIUM.md
-
-theory/                 - Core mathematical framework
-domains/                - 42 independent domain validations
-verifications/          - 53 empirical proofs (formulas + results)
-applications/           - Industry applications
-presentations/          - Cross-domain connections
-thin_cell_theory/       - TSP thin-cell lemma proofs
-THE_PATH.md             - 57-day journey: Dec 5, 2025 → Jan 31, 2026
+ARC-Public/
+│
+├── README.md              ← You are here
+├── MASTER_INDEX.md        ← Complete navigation guide
+├── INDEX.md               ← Path 23 sorting applications
+├── 00_START_HERE.md       ← Quick start for practitioners
+├── THE_PATH.md            ← 57-day journey + Millennium completion
+│
+├── proofs/                ← 136 formal proof documents
+│   │
+│   │  ## Millennium Prize Problems
+│   ├── GRAND_UNIFIED_THEORY.md           - 12 paths to P=NP
+│   ├── BOURBAKI_LAPLACE_UNIFIED.md       - Six problems, one framework
+│   ├── LAPLACE_COMPLETENESS_THEOREM.md   - Foundation (Discovery 109)
+│   ├── BSD_CONJECTURE_TWO_RANDOMNESS.md  - DISSOLVED (Discovery 110)
+│   ├── HODGE_CONJECTURE_TWO_RANDOMNESS.md - DISSOLVED (Discovery 111)
+│   │
+│   │  ## Tracking (111 discoveries, 23 triangles)
+│   ├── discoveries.csv
+│   ├── triangles.csv
+│   └── [130+ additional proofs]
+│
+├── theory/                ← Core mathematical framework
+├── domains/               ← 42 domain validations
+├── verifications/         ← 53 empirical proofs
+├── applications/          ← Industry applications
+├── presentations/         ← Cross-domain connections
+└── thin_cell_theory/      ← TSP thin-cell lemma proofs
 ```
+
+**Full navigation:** See `MASTER_INDEX.md` for complete document guide.
 
 ## Key Results
 

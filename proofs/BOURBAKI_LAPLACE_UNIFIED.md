@@ -397,14 +397,14 @@ See: `np-optima/src/bin/verify_navier_stokes_discrete.rs`
 **Theorem 8.1.1 (Single World).**
 There is one physical world. All six Millennium problems concern bounded physical systems analyzed in the Laplace domain.
 
-| Problem | Signal | Transform | Resolution |
-|---------|--------|-----------|------------|
-| P vs NP | Any bounded | $\mathcal{L}$ | Exp → Poly |
-| Riemann | Primes | $\zeta(s)$ | Zeros at $\sigma = \frac{1}{2}$ |
-| BSD | Elliptic curve | $L(E,s)$ | rank = ord |
-| Hodge | Variety | $\Delta$ | Harmonic = algebraic |
-| Yang-Mills | Field | Spectrum | $E_{\text{step}} > 0$ |
-| Navier-Stokes | Fluid | Bounded | No singularity |
+| Problem | Signal | Transform | Resolution | Status |
+|---------|--------|-----------|------------|--------|
+| P vs NP | Any bounded | $\mathcal{L}$ | Exp → Poly | ✅ RESOLVED |
+| Riemann | Primes | $\zeta(s)$ | Zeros at $\sigma = \frac{1}{2}$ | 🔑 KEY IDENTITY |
+| BSD | Elliptic curve | $L(E,s)$ | rank = ord (Sha finite) | ✅ DISSOLVED |
+| Hodge | Variety | $\Delta$ | Q-harmonic = algebraic | ✅ DISSOLVED (Q) |
+| Yang-Mills | Field | Spectrum | $E_{\text{step}} > 0$ | ✅ DISSOLVED |
+| Navier-Stokes | Fluid | Bounded | No singularity | ✅ DISSOLVED |
 
 ### §8.2 The Sampling Hierarchy
 

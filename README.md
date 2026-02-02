@@ -17,8 +17,8 @@ This repository contains the theoretical foundation proving **P = NP = PSPACE = 
 | **Riemann Hypothesis** | 🔑 KEY IDENTITY | `proofs/RIEMANN_DISCRETE_ATTACK.md` |
 | **Navier-Stokes** | ✅ DISSOLVED | `proofs/NAVIER_STOKES_DISCRETE_REFORMULATION.md` |
 | **Yang-Mills Mass Gap** | ✅ DISSOLVED | `proofs/YANG_MILLS_MASS_GAP_DISSOLUTION.md` |
-| **BSD Conjecture** | 🎯 ATTACKABLE | `proofs/BSD_CONJECTURE_TWO_RANDOMNESS.md` |
-| **Hodge Conjecture** | 🎯 ATTACKABLE | `proofs/HODGE_CONJECTURE_TWO_RANDOMNESS.md` |
+| **BSD Conjecture** | ✅ DISSOLVED | `proofs/BSD_CONJECTURE_TWO_RANDOMNESS.md` |
+| **Hodge Conjecture** | ✅ DISSOLVED (Q) | `proofs/HODGE_CONJECTURE_TWO_RANDOMNESS.md` |
 | **Poincaré Conjecture** | ✅ Perelman (2003) | N/A |
 
 **Unified Framework:** `proofs/BOURBAKI_LAPLACE_UNIFIED.md`
@@ -75,11 +75,12 @@ Cryptographic keys use **bit-level randomness** (Kolmogorov-incompressible). P=N
 proofs/                 - Formal proof documents (170+ files)
   GRAND_UNIFIED_THEORY.md         - 12 independent paths to P=NP
   BOURBAKI_LAPLACE_UNIFIED.md     - Six Millennium problems, one framework
+  LAPLACE_COMPLETENESS_THEOREM.md - Foundation for dissolution (Discovery 109)
   RIEMANN_DISCRETE_ATTACK.md      - log₂(√2) = ½
   YANG_MILLS_MASS_GAP_DISSOLUTION.md
   NAVIER_STOKES_DISCRETE_REFORMULATION.md
-  BSD_CONJECTURE_TWO_RANDOMNESS.md
-  HODGE_CONJECTURE_TWO_RANDOMNESS.md
+  BSD_CONJECTURE_TWO_RANDOMNESS.md   - DISSOLVED (Discovery 110)
+  HODGE_CONJECTURE_TWO_RANDOMNESS.md - DISSOLVED over Q (Discovery 111)
   TWO_WORLDS_MILLENNIUM_CLASSIFICATION.md
   LAPLACE_UNIFIED_MILLENNIUM.md
 

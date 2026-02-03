@@ -110,3 +110,4 @@ E7,Thermodynamic Computation,Physics,Energy bounds,DOCUMENTED,proofs/DISCOVERY_T
 109,Laplace Completeness Theorem,Foundational,Bounded systems cannot contain Kolmogorov-incompressible substructure - foundation for BSD/Hodge dissolution,PROVEN,proofs/LAPLACE_COMPLETENESS_THEOREM.md
 110,BSD Dissolution,Number Theory/Millennium,Sha MUST be finite by Laplace Completeness - BSD becomes tautology,DISSOLVED,proofs/BSD_CONJECTURE_TWO_RANDOMNESS.md
 111,Hodge Dissolution over Q,Algebraic Geometry/Millennium,Finite Q-space + bounded ops = complete span - all harmonic Q-classes ARE algebraic,DISSOLVED,proofs/HODGE_CONJECTURE_TWO_RANDOMNESS.md
+112,Three Constants of Bounded Transformation,Combinatorics/Foundational,B_1(n) = F(n+1) = Fibonacci. Three constants: √2 (Nittay) φ (Fibonacci growth) e (exponential). √2 < φ < e governs bounded transformation,VERIFIED,proofs/DISCOVERY_112_THREE_CONSTANTS.md

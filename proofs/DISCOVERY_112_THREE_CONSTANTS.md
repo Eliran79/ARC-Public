@@ -142,14 +142,14 @@ The bounded transformation principle states that problems with bounded local mov
 
 ### For the Millennium Problems
 
-| Problem | Relevant Constant |
-|---------|-------------------|
-| P vs NP | All three |
-| Riemann | √2 (via log₂(√2) = 1/2) |
-| Yang-Mills | e (discrete spectrum) |
-| Navier-Stokes | √2 (bounded gradients) |
-| BSD | φ? (rank = resonances) |
-| Hodge | √2 (sampling/aliasing) |
+| Problem | Relevant Constant | Connection |
+|---------|-------------------|------------|
+| P vs NP | All three | √2 geometry, φ combinatorics, e complexity |
+| Riemann | √2 | log₂(√2) = 1/2 = critical line |
+| Yang-Mills | e | Discrete spectrum via Laplace (mass gap = E_step > 0) |
+| Navier-Stokes | √2 | Bounded gradients (polygon → circle limit) |
+| BSD | e | L(E,s) is Laplace-type transform; Completeness → Sha finite |
+| Hodge | √2 | Nyquist sampling (2× frequency = √2² resolves aliasing) |
 
 ### For Fibonacci and Nature
 

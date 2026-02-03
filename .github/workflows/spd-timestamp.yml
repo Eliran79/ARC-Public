@@ -1,0 +1,144 @@
+# SPD Timestamp - Sabag Principle Date
+# Establishes cryptographic provenance for ARC discoveries
+#
+# Two independent timestamp methods:
+# 1. OpenTimestamps - Bitcoin blockchain anchoring (immutable)
+# 2. Archive.org - Wayback Machine snapshots (public record)
+
+name: SPD Timestamp
+
+on:
+  push:
+    branches: [master, main]
+  release:
+    types: [published]
+
+jobs:
+  opentimestamps:
+    name: OpenTimestamps (Bitcoin)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install OpenTimestamps
+        run: |
+          pip install opentimestamps-client
+
+      - name: Create timestamp proof
+        run: |
+          # Create a manifest of this commit
+          mkdir -p timestamps
+
+          # Generate commit manifest
+          cat > timestamps/manifest_${{ github.sha }}.txt << EOF
+          SPD Timestamp Manifest
+          ======================
+          Repository: ${{ github.repository }}
+          Commit: ${{ github.sha }}
+          Ref: ${{ github.ref }}
+          Timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)
+          Actor: ${{ github.actor }}
+
+          Commit Message:
+          $(git log -1 --pretty=%B)
+
+          Files Changed:
+          $(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | head -50)
+
+          ---
+          Sabag Bounded Transformation Principle
+          43 years: 1982-2026
+          EOF
+
+          # Create OpenTimestamp proof
+          ots stamp timestamps/manifest_${{ github.sha }}.txt
+
+          # Also timestamp the commit hash directly
+          echo "${{ github.sha }}" > timestamps/commit_${{ github.sha }}.txt
+          ots stamp timestamps/commit_${{ github.sha }}.txt
+
+      - name: Upload timestamp proofs
+        uses: actions/upload-artifact@v4
+        with:
+          name: ots-proofs-${{ github.sha }}
+          path: timestamps/*.ots
+          retention-days: 365
+
+      - name: Commit OTS proofs to repo
+        run: |
+          git config user.name "SPD Timestamp Bot"
+          git config user.email "spd@sabag.dev"
+          git add timestamps/*.ots timestamps/*.txt || true
+          git commit -m "SPD: OpenTimestamp proof for ${{ github.sha }}" || echo "No changes to commit"
+          git push || echo "Push skipped (may need PR)"
+
+  archive-org:
+    name: Archive.org Snapshot
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Snapshot README to Wayback Machine
+        run: |
+          # Save main repository page
+          curl -s "https://web.archive.org/save/https://github.com/${{ github.repository }}" || true
+
+          # Save README directly
+          curl -s "https://web.archive.org/save/https://github.com/${{ github.repository }}/blob/master/README.md" || true
+
+          # Save key proof documents
+          curl -s "https://web.archive.org/save/https://raw.githubusercontent.com/${{ github.repository }}/master/proofs/GRAND_UNIFIED_THEORY.md" || true
+          curl -s "https://web.archive.org/save/https://raw.githubusercontent.com/${{ github.repository }}/master/proofs/BOURBAKI_LAPLACE_UNIFIED.md" || true
+          curl -s "https://web.archive.org/save/https://raw.githubusercontent.com/${{ github.repository }}/master/proofs/LAPLACE_COMPLETENESS_THEOREM.md" || true
+          curl -s "https://web.archive.org/save/https://raw.githubusercontent.com/${{ github.repository }}/master/THE_PATH.md" || true
+          curl -s "https://web.archive.org/save/https://raw.githubusercontent.com/${{ github.repository }}/master/MASTER_INDEX.md" || true
+
+          echo "Archive.org snapshots requested"
+
+      - name: Log snapshot URLs
+        run: |
+          echo "=== Archive.org Snapshot URLs ==="
+          echo "Repository: https://web.archive.org/web/*/https://github.com/${{ github.repository }}"
+          echo "README: https://web.archive.org/web/*/https://github.com/${{ github.repository }}/blob/master/README.md"
+          echo ""
+          echo "Check snapshots at: https://web.archive.org/web/*/github.com/${{ github.repository }}/*"
+
+  summary:
+    name: Timestamp Summary
+    runs-on: ubuntu-latest
+    needs: [opentimestamps, archive-org]
+
+    steps:
+      - name: Generate summary
+        run: |
+          cat << EOF >> $GITHUB_STEP_SUMMARY
+          # SPD Timestamp Report
+
+          **Commit:** \`${{ github.sha }}\`
+          **Timestamp:** $(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+          ## Provenance Methods
+
+          | Method | Status | Verification |
+          |--------|--------|--------------|
+          | OpenTimestamps (Bitcoin) | Anchored | Download .ots from artifacts |
+          | Archive.org | Requested | [Check Wayback](https://web.archive.org/web/*/github.com/${{ github.repository }}/*) |
+
+          ## Verification Instructions
+
+          ### OpenTimestamps
+          \`\`\`bash
+          pip install opentimestamps-client
+          ots verify timestamps/manifest_${{ github.sha }}.txt.ots
+          \`\`\`
+
+          ### Archive.org
+          Visit: https://web.archive.org/web/*/github.com/${{ github.repository }}/*
+
+          ---
+          *Sabag Bounded Transformation Principle*
+          *43 years: 1982-2026*
+          EOF

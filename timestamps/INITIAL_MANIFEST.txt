@@ -1,0 +1,33 @@
+SPD Initial Timestamp Manifest
+==============================
+Repository: Eliran79/ARC-Public
+Date: 2026-02-03
+Author: Eliran Sabag
+
+This manifest establishes the initial timestamp for the ARC-Public repository
+containing the Sabag Bounded Transformation Principle.
+
+Key Claims Made:
+1. P = NP = PSPACE = BQP for bounded local moves
+2. Six Millennium Prize Problems attacked
+3. Five problems DISSOLVED (Yang-Mills, Navier-Stokes, BSD, Hodge over Q, P vs NP)
+4. One KEY IDENTITY found (Riemann: log_2(sqrt(2)) = 1/2)
+
+Discovery Count: 111 (numbered 0-111)
+Triangle Count: 23 (numbered 1-23)
+Proof Documents: 136
+
+Timeline:
+- 1982: First bounded moves lesson (age 3)
+- 1989: VCR repair formalization (age 10)
+- Dec 5, 2025: Grapheme-nn demonstration
+- Dec 26, 2025: ARC repository created
+- Jan 31, 2026: ARC complete (57 days)
+- Feb 2, 2026: Six Millennium problems attacked
+
+Cryptographic Commitment:
+SHA-256 of README.md at time of signing will be computed by OTS.
+
+---
+Sabag Bounded Transformation Principle
+"Only bounded moves." - Grandfather Sabag, 1982

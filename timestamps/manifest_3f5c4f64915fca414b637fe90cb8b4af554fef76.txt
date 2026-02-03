@@ -1,0 +1,29 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 3f5c4f64915fca414b637fe90cb8b4af554fef76
+Ref: refs/heads/master
+Timestamp: 2026-02-03T15:13:31Z
+Actor: Eliran79
+
+Commit Message:
+feat(discovery-113): Code-Theory-Proof verification complete
+
+Sabag Triangle verified:
+- CODE: verify_particle_ethers.rs - 3 tests PASS
+- THEORY: S_observable, resonances, bounded principle
+- PROOF: Stability ∧ Decay ∧ Ratio → verified
+
+67% ETHERs (8/12 fermions) - matches statistics 65%
+Classification: "candidate" → "verified"
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+
+Files Changed:
+proofs/STANDARD_MODEL_ETHERS.md
+proofs/csv/discoveries.csv
+proofs/csv/particle_ethers.csv
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

@@ -1,0 +1,28 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: d8d908ba5d286a34b2f95e4849e6123bb4967cb0
+Ref: refs/heads/master
+Timestamp: 2026-02-04T08:29:46Z
+Actor: Eliran79
+
+Commit Message:
+feat(millennium): Add Navier-Stokes, Yang-Mills, Riemann reformulations
+
+- Navier-Stokes: Discrete reformulation avoids singularities
+- Yang-Mills: Mass gap as consequence of discreteness
+- Riemann: Discrete attack and compression test approaches
+
+These complete the Two Randomness framework for Millennium problems.
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+
+Files Changed:
+proofs/NAVIER_STOKES_DISCRETE_REFORMULATION.md
+proofs/RIEMANN_COMPRESSION_TEST.md
+proofs/RIEMANN_DISCRETE_ATTACK.md
+proofs/YANG_MILLS_MASS_GAP_DISSOLUTION.md
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

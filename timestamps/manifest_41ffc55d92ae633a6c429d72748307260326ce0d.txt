@@ -1,0 +1,37 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 41ffc55d92ae633a6c429d72748307260326ce0d
+Ref: refs/heads/master
+Timestamp: 2026-02-04T15:07:39Z
+Actor: Eliran79
+
+Commit Message:
+feat(drug-discovery): Add ARC Drug Discovery Framework (Discoveries 124-126)
+
+Prior Art Establishment for:
+- Discovery 124: Pharmacology Boundedness Principle
+- Discovery 125: Cancer Drug Prediction (SHMT2 validation)
+- Discovery 126: Novel Cancer Target (DHPS via boundedness score)
+
+NOVEL METHODOLOGY:
+- Boundedness score: B = substrates + products + backup_pathways
+- Target ranking: Lower B → Higher therapeutic potential
+- Selectivity prediction: S = f(B, cancer_dependency, tolerance)
+
+Proofs included for methodology description.
+Implementation (MOAT) kept private.
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+
+Files Changed:
+proofs/DISCOVERY_124_PHARMACOLOGY_BOUNDEDNESS.md
+proofs/DISCOVERY_125_CANCER_DRUG_PREDICTION.md
+proofs/DISCOVERY_126_NOVEL_CANCER_TARGET.md
+proofs/csv/discoveries.csv
+proofs/csv/triangles.csv
+proofs/csv/verifications.csv
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

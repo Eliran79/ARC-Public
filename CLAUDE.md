@@ -11,7 +11,8 @@ This is a **pure documentation repository** — there is no compiled source code
 ## Repository Structure
 
 - `proofs/` — 136+ formal proof documents including the core `GRAND_UNIFIED_THEORY.md` (P=NP via 12 paths) and `BOURBAKI_LAPLACE_UNIFIED.md` (six Millennium problems unified framework)
-- `proofs/csv/` — Tracking CSVs: `discoveries.csv` (111+ discoveries), `triangles.csv` (23), `paths.csv` (23+ paths), `verifications.csv` (53), `domains.csv` (42), `constants.csv`, `ethers.csv`
+- `proofs/*.csv` — Primary tracking CSVs at the proofs root: `discoveries.csv`, `paths.csv`, `triangles.csv`, `verifications.csv`, `domains.csv`, `constants.csv`, `ethers.csv`, plus supplementary CSVs (`theorems.csv`, `lemmas.csv`, `equations.csv`, `citations.csv`, etc.)
+- `proofs/csv/` — Additional CSV copies/subsets: `discoveries.csv`, `triangles.csv`, `verifications.csv`, `domains.csv`, `constants.csv`, `ethers.csv`, `particle_ethers.csv`
 - `theory/` — Core mathematical framework (`BOUNDED_TRANSFORMATION_PRINCIPLE.md`, `CRYPTOGRAPHY_SAFETY.md`)
 - `domains/` — 42 independent domain validations (physics, information, quantum, biology, etc.)
 - `verifications/` — 53 empirical proofs (V01 through V53)

@@ -168,9 +168,14 @@ MIT License - Use freely. Advance humanity.
 **Eliran Sabag**
 Rishon LeZion, Israel
 eliran.sbg@gmail.com
+[LinkedIn](https://www.linkedin.com/in/eliran-sabag-51832651/)
 
 **Guard8.ai**
 dev@guard8.ai
+
+---
+
+*Don't want to dive into the math but want to add the **"Powered by ARC"** badge to your company? Contact us at Guard8.ai*
 
 ---
 

@@ -3,7 +3,7 @@
 **Complete Navigation Guide to the Sabag Bounded Transformation Principle**
 
 **Author:** Eliran Sabag
-**Date:** February 2, 2026
+**Date:** February 6, 2026
 **Status:** Active Research
 
 ---
@@ -158,11 +158,11 @@ ARC-Public/
 ├── 00_START_HERE.md          ← Quick start for practitioners
 ├── THE_PATH.md               ← 57-day journey narrative
 │
-├── proofs/                   ← 136 formal proof documents
+├── proofs/                   ← 159 formal proof documents
 │   ├── GRAND_UNIFIED_THEORY.md       ← P=NP master proof
 │   ├── BOURBAKI_LAPLACE_UNIFIED.md   ← Millennium unified
 │   ├── LAPLACE_COMPLETENESS_THEOREM.md
-│   ├── discoveries.csv               ← 111 discoveries tracked
+│   ├── discoveries.csv               ← 130 discoveries tracked
 │   ├── triangles.csv                 ← 23 triangles documented
 │   └── [130+ additional proofs]
 │
@@ -182,7 +182,7 @@ Located in `proofs/`:
 
 | File | Contents |
 |------|----------|
-| `discoveries.csv` | 111 discoveries (0-111) |
+| `discoveries.csv` | 130 discoveries (0-130) |
 | `triangles.csv` | 23 triangles (1-23) |
 | `theorems.csv` | Named theorems |
 | `verifications.csv` | Empirical results |

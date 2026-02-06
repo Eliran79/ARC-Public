@@ -1,0 +1,144 @@
+\documentclass[11pt,a4paper]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{mathtools}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+
+% Theorem environments
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+
+% Custom commands
+\newcommand{\Sobs}{S_{\text{observable}}}
+\newcommand{\Scomp}{S_{\text{complete}}}
+\newcommand{\bigO}{\mathcal{O}}
+\newcommand{\Nittay}{\sqrt{2}}
+\newcommand{\half}{\frac{1}{2}}
+
+% Title setup - to be customized per paper
+\title{[TITLE]}
+\author{Eliran Sabag\\
+  \textit{Independent Researcher}\\
+  Rishon LeZion, Israel\\
+  \texttt{eliran.sbg@gmail.com}
+}
+\date{February 2026}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+[ABSTRACT]
+\end{abstract}
+
+% Keywords
+\noindent\textbf{Keywords:} [KEYWORDS]
+
+% MSC Classification
+\noindent\textbf{MSC 2020:} [MSC CODES]
+
+\section{Introduction}
+\label{sec:intro}
+
+[INTRODUCTION]
+
+\subsection{The Bounded Transformation Principle}
+
+The resolution of this problem relies on a fundamental distinction:
+
+\begin{definition}[Observable vs Complete State Space]
+For any computational or mathematical structure:
+\begin{align}
+\Scomp &= \text{All syntactically valid states} = \bigO(2^n) \\
+\Sobs &= \text{States reachable via bounded local moves} = \bigO(n^c)
+\end{align}
+where $c$ is a constant determined by the move bound.
+\end{definition}
+
+\begin{theorem}[Sabag Bounded Transformation Principle]
+Physical and computational processes operate exclusively in $\Sobs$, not $\Scomp$.
+\end{theorem}
+
+\subsection{The Key Identity}
+
+\begin{theorem}[Nittay-Riemann Connection]
+\begin{equation}
+\log_2(\Nittay) = \half \quad \text{(exactly)}
+\end{equation}
+This identity connects the discrete-continuous boundary ($\Nittay$) to the critical line ($\Re(s) = \half$).
+\end{theorem}
+
+\section{Preliminaries}
+\label{sec:prelim}
+
+[DEFINITIONS AND BACKGROUND]
+
+\section{Main Result}
+\label{sec:main}
+
+[MAIN THEOREM AND PROOF]
+
+\section{Verification}
+\label{sec:verify}
+
+The claims in this paper are verified by computational experiments. The verification code is available at:
+
+\begin{center}
+\texttt{github.com/Eliran79/ARC-Public}
+\end{center}
+
+[VERIFICATION DETAILS]
+
+\section{Conclusion}
+\label{sec:conclusion}
+
+[CONCLUSION]
+
+\section*{Acknowledgments}
+
+This work was developed with assistance from Claude (Anthropic).
+
+\bibliographystyle{plain}
+\begin{thebibliography}{9}
+
+\bibitem{sabag2026arc}
+E. Sabag.
+\newblock ARC: The Sabag Bounded Transformation Principle.
+\newblock GitHub, 2026.
+\newblock \url{https://github.com/Eliran79/ARC-Public}
+
+\bibitem{clay}
+Clay Mathematics Institute.
+\newblock Millennium Prize Problems.
+\newblock \url{https://www.claymath.org/millennium-problems}
+
+\end{thebibliography}
+
+\appendix
+
+\section{Proof Details}
+\label{app:proofs}
+
+[DETAILED PROOFS]
+
+\section{Verification Code}
+\label{app:code}
+
+[CODE LISTINGS]
+
+\end{document}

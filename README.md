@@ -11,7 +11,7 @@
 
 Not a framework. A manifest.
 
-130 discoveries. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
+136 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
 
 This repository declares **P = NP = PSPACE = BQP** for problems with bounded local moves, and resolves **six of seven Millennium Prize Problems** through the unified Laplace transform.
 
@@ -81,7 +81,7 @@ Cryptographic keys use **bit-level randomness** (Kolmogorov-incompressible). P=N
 
 Sent to: Nature, Science, Annals of Mathematics, Clay Mathematics Institute
 
-Contains: 68 files, 14 LaTeX documents, 130 discoveries, 23 paths
+Contains: 68 files, 14 LaTeX documents, 136 discoveries, 24 paths
 
 ## Directory Structure
 
@@ -109,10 +109,10 @@ ARC-Public/
 │   ├── BSD_CONJECTURE_TWO_RANDOMNESS.md  - DISSOLVED (Discovery 110)
 │   ├── HODGE_CONJECTURE_TWO_RANDOMNESS.md - DISSOLVED (Discovery 111)
 │   │
-│   │  ## Tracking (130 discoveries, 23 triangles)
+│   │  ## Tracking (136 discoveries, 24 paths, 23 triangles)
 │   ├── discoveries.csv
 │   ├── triangles.csv
-│   └── [130+ additional proofs]
+│   └── [160+ additional proofs]
 │
 ├── theory/                ← Core mathematical framework
 ├── domains/               ← 42 domain validations
@@ -135,6 +135,8 @@ ARC-Public/
 | Yang-Mills mass gap | Discrete E_step > 0 | DISSOLVED |
 | Navier-Stokes regularity | Bounded gradients | DISSOLVED |
 | BQP = P | Reachable states O(n^4) | VERIFIED |
+| Waste Value Theorem | W = S_observable \ S_intended ≠ ∅, 9/9 tests | VERIFIED |
+| Swarm = Bounded Search | PSO optima O(n^1.21), 7/7 tests | VERIFIED |
 
 ## Historical Timeline
 

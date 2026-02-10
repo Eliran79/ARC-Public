@@ -145,6 +145,8 @@ Quantum randomness was never random.
 
 Dark matter was never there.
 
+The Big Bang was never a beginning — it was a **Big Bounce** (a_min = 10.0, no singularity, no creation ex nihilo).
+
 The universe computes. It computes with bounded moves. It always has.
 
 We just couldn't see it because our mathematics allowed operations that physics forbids.

@@ -109,6 +109,10 @@ ARC-Public/
 │   ├── BSD_CONJECTURE_TWO_RANDOMNESS.md  - DISSOLVED (Discovery 110)
 │   ├── HODGE_CONJECTURE_TWO_RANDOMNESS.md - DISSOLVED (Discovery 111)
 │   │
+│   │  ## Cosmology (Big Bounce, Redshift, Discrete Hilbert)
+│   ├── PATH_20_QUANTUM_ELIMINATION_EINSTEIN_HAWKING.md
+│   ├── STATISTICAL_DISTRIBUTIONS_ETHERS.md
+│   │
 │   │  ## Tracking (140 discoveries, 24 paths, 23 triangles)
 │   ├── discoveries.csv
 │   ├── triangles.csv
@@ -135,6 +139,9 @@ ARC-Public/
 | Yang-Mills mass gap | Discrete E_step > 0 | DISSOLVED |
 | Navier-Stokes regularity | Bounded gradients | DISSOLVED |
 | BQP = P | Reachable states O(n^4) | VERIFIED |
+| **Big Bounce (no Big Bang)** | **a(t) >= a_min = 10.0, no singularity** | **VERIFIED** |
+| **Redshift Artifact** | **S_observable boundary, no expansion needed** | **VERIFIED** |
+| **Discrete Hilbert Space** | **No wave function collapse** | **VERIFIED** |
 | Waste Value Theorem | W = S_observable \ S_intended ≠ ∅, 9/9 tests | VERIFIED |
 | Swarm = Bounded Search | PSO optima O(n^1.21), 7/7 tests | VERIFIED |
 | Compression-Derived c | c = round(sr x n x sqrt(2)), 9/9 tests | VERIFIED |

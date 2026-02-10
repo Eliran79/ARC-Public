@@ -11,7 +11,7 @@
 
 Not a framework. A manifest.
 
-136 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
+140 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
 
 This repository declares **P = NP = PSPACE = BQP** for problems with bounded local moves, and resolves **six of seven Millennium Prize Problems** through the unified Laplace transform.
 
@@ -109,7 +109,7 @@ ARC-Public/
 │   ├── BSD_CONJECTURE_TWO_RANDOMNESS.md  - DISSOLVED (Discovery 110)
 │   ├── HODGE_CONJECTURE_TWO_RANDOMNESS.md - DISSOLVED (Discovery 111)
 │   │
-│   │  ## Tracking (136 discoveries, 24 paths, 23 triangles)
+│   │  ## Tracking (140 discoveries, 24 paths, 23 triangles)
 │   ├── discoveries.csv
 │   ├── triangles.csv
 │   └── [160+ additional proofs]
@@ -137,6 +137,9 @@ ARC-Public/
 | BQP = P | Reachable states O(n^4) | VERIFIED |
 | Waste Value Theorem | W = S_observable \ S_intended ≠ ∅, 9/9 tests | VERIFIED |
 | Swarm = Bounded Search | PSO optima O(n^1.21), 7/7 tests | VERIFIED |
+| Compression-Derived c | c = round(sr x n x sqrt(2)), 9/9 tests | VERIFIED |
+| Zero-Hyperparameter ML | FitGuard beats Lasso+GridCV gap 2/4 datasets | VERIFIED |
+| Bounded Causal Inference | CausaDB: DO/WHY/COUNTERFACTUAL in O(n^2), 9/9 tests | VERIFIED |
 
 ## Historical Timeline
 

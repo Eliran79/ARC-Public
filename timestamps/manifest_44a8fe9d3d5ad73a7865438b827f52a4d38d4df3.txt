@@ -1,0 +1,31 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 44a8fe9d3d5ad73a7865438b827f52a4d38d4df3
+Ref: refs/heads/master
+Timestamp: 2026-02-10T22:07:17Z
+Actor: Eliran79
+
+Commit Message:
+docs: Add Big Bounce cosmology to top-level index documents
+
+Big Bounce, Redshift Artifact, and Discrete Hilbert Space were
+documented in proofs/ and verifications/ but never referenced from
+README.md, MASTER_INDEX.md, or THE_PATH.md — making them invisible
+to tools like NotebookLM that index from entry-point documents.
+
+- README.md: Add 3 cosmology rows to Key Results table + directory listing
+- MASTER_INDEX.md: Add Cosmology section with discovery table, document
+  links, Theorem T51, Quick Start entry, and Search by Topic entries
+- THE_PATH.md: Add Big Bounce to "The Point" section
+
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+
+Files Changed:
+MASTER_INDEX.md
+README.md
+THE_PATH.md
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

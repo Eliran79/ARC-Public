@@ -16,6 +16,7 @@
 | **P = NP Proof** | `proofs/GRAND_UNIFIED_THEORY.md` |
 | **Practical Sorting (O(n))** | `INDEX.md` (Path 23 Applications) |
 | **Cryptography Safety** | `proofs/PATH_20_TWO_RANDOMNESS_THEOREM.md` |
+| **Cosmology (Big Bounce)** | [Cosmology Section](#cosmology) |
 | **Physics Applications** | `proofs/MASTER_PHYSICS_INDEX.md` |
 | **Mathematical Framework** | `proofs/BOURBAKI_LAPLACE_UNIFIED.md` |
 
@@ -140,10 +141,45 @@ See `proofs/MASTER_PHYSICS_INDEX.md` for complete coverage.
 
 | Area | Finding | Document |
 |------|---------|----------|
-| **Cosmology** | Dark matter dissolved | `COMPLETE_RELATIVITY_THEORY.md` |
+| **Cosmology** | Big Bounce (no Big Bang) | [Cosmology Section](#cosmology) |
+| **Cosmology** | Dark matter/energy dissolved | `COMPLETE_RELATIVITY_THEORY.md` |
 | **Quantum** | Einstein was right | `EINSTEIN_WAS_RIGHT.md` |
 | **Thermodynamics** | Entropy bounded | `PATH_23_PHYSICS_THERMODYNAMICS.md` |
 | **Black Holes** | Singularity eliminated | `ELINOR_BLACK_HOLE_CORRECTION.md` |
+
+---
+
+## Cosmology
+
+### Big Bounce, Redshift Artifact, Discrete Hilbert Space
+
+The bounded transformation principle eliminates three cosmological singularities:
+
+| Discovery | Claim | Verification | Key Result |
+|-----------|-------|--------------|------------|
+| **#91 Big Bounce** | Big Bang singularity eliminated | `verifications/V40_bounce.md` | a(t) >= a_min = 10.0 (Planck scale) |
+| **#99 Big Bounce v2** | No creation ex nihilo | `verifications/V40_bounce.md` | Time-reversal symmetry, 3.3% error |
+| **Redshift Artifact** | Expansion is S_observable boundary effect | `verifications/V41_redshift.md` | No dark energy needed |
+| **Discrete Hilbert** | No wave function collapse | `verifications/V42_hilbert.md` | Measurements deterministic (15-92% compressible) |
+
+**Core argument**: If event horizons preserve information (future), then the Big Bang cannot create from nothing (past). Therefore: Big **Bounce**, not Big Bang.
+
+**Eliminates**: Dark energy, cosmic inflation, horizon problem, singularity at t=0.
+
+### Documents
+
+| Document | Content |
+|----------|---------|
+| `proofs/GRAND_UNIFIED_THEORY.md` (Section 9A) | Big Bounce theory + verification |
+| `proofs/PATH_20_QUANTUM_ELIMINATION_EINSTEIN_HAWKING.md` | Einstein vs Hawking: bounded cosmology |
+| `proofs/STATISTICAL_DISTRIBUTIONS_ETHERS.md` | Big Bang as statistical "ether" |
+| `millennium_submission/latex/12_NO_BIG_BANG.tex` | Formal LaTeX paper |
+| `millennium_submission/bonus/verify_big_bounce.rs` | Rust verification (296 lines) |
+| `verifications/V40_bounce.md` | Empirical verification record |
+
+### Theorem T51: Big Bounce Theorem
+
+> No true singularity possible in bounded curvature space-time. Scale factor a(t) >= a_min > 0; universe transitions from prior state via quantum gravity repulsion at Planck scale.
 
 ---
 
@@ -221,7 +257,10 @@ Located in `proofs/`:
 ### Physics
 - Fluid Dynamics → `NAVIER_STOKES_DISCRETE_REFORMULATION.md`
 - Quantum Field Theory → `YANG_MILLS_MASS_GAP_DISSOLUTION.md`
-- Cosmology → `COMPLETE_RELATIVITY_THEORY.md`
+- Cosmology: Big Bounce → `verifications/V40_bounce.md`, `GRAND_UNIFIED_THEORY.md` (Section 9A)
+- Cosmology: Redshift Artifact → `verifications/V41_redshift.md`
+- Cosmology: Discrete Hilbert → `verifications/V42_hilbert.md`
+- Cosmology: No Big Bang (LaTeX) → `millennium_submission/latex/12_NO_BIG_BANG.tex`
 - Thermodynamics → `PATH_23_PHYSICS_THERMODYNAMICS.md`
 
 ---

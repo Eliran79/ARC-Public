@@ -161,16 +161,20 @@ The bounded transformation principle eliminates three cosmological singularities
 | **#99 Big Bounce v2** | No creation ex nihilo | `verifications/V40_bounce.md` | Time-reversal symmetry, 3.3% error |
 | **Redshift Artifact** | Expansion is S_observable boundary effect | `verifications/V41_redshift.md` | No dark energy needed |
 | **Discrete Hilbert** | No wave function collapse | `verifications/V42_hilbert.md` | Measurements deterministic (15-92% compressible) |
+| **#141 Fluid Universe** | No black holes, no singularities anywhere | `proofs/DISCOVERY_141_FLUID_UNIVERSE.md` | Dark stars + bounded a_min/a_max |
 
-**Core argument**: If event horizons preserve information (future), then the Big Bang cannot create from nothing (past). Therefore: Big **Bounce**, not Big Bang.
+**Core argument**: If event horizons preserve information (future), then the Big Bang cannot create from nothing (past). Therefore: Big **Bounce**, not Big Bang. Black holes are dark stars — massive, opaque, finite. Same bounded regularity as Navier-Stokes.
 
-**Eliminates**: Dark energy, cosmic inflation, horizon problem, singularity at t=0.
+**Eliminates**: Big Bang, black hole singularities, event horizons, dark energy, infinite expansion, heat death.
 
 ### Documents
 
 | Document | Content |
 |----------|---------|
+| `proofs/DISCOVERY_141_FLUID_UNIVERSE.md` | **Fluid Universe: the unification** |
 | `proofs/GRAND_UNIFIED_THEORY.md` (Section 9A) | Big Bounce theory + verification |
+| `proofs/ELINOR_BLACK_HOLE_CORRECTION.md` | Dark matter as discretization shadow |
+| `proofs/NAVIER_STOKES_DISCRETE_REFORMULATION.md` | No blow-up = no singularity |
 | `proofs/PATH_20_QUANTUM_ELIMINATION_EINSTEIN_HAWKING.md` | Einstein vs Hawking: bounded cosmology |
 | `proofs/STATISTICAL_DISTRIBUTIONS_ETHERS.md` | Big Bang as statistical "ether" |
 | `millennium_submission/latex/12_NO_BIG_BANG.tex` | Formal LaTeX paper |

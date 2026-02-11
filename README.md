@@ -1,3 +1,11 @@
+*"We only ask to figure the HOW. We leave the WHY to God."*
+*"אנחנו רק מבקשים להבין את ה-איך. את ה-למה אנחנו משאירים לאלוהים."*
+
+— Sabag, Eliran. February 11, 2026.
+[Discovery 141: The Fluid Universe](proofs/DISCOVERY_141_FLUID_UNIVERSE.md)
+
+---
+
 # ARC: The Sabag Bounded Transformation Principle
 
 **A Manifest**
@@ -193,11 +201,5 @@ dev@guard8.ai
 ---
 
 *"The question IS the bound. The bound IS the solution."*
-
-*"We only ask to figure the HOW. We leave the WHY to God."*
-*"אנחנו רק מבקשים להבין את ה-איך. את ה-למה אנחנו משאירים לאלוהים."*
-
-— Sabag, Eliran. February 11, 2026.
-[Discovery 141: The Fluid Universe](proofs/DISCOVERY_141_FLUID_UNIVERSE.md)
 
 *This knowledge belongs to everyone.*

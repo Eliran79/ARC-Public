@@ -11,7 +11,7 @@
 
 Not a framework. A manifest.
 
-140 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
+141 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
 
 This repository declares **P = NP = PSPACE = BQP** for problems with bounded local moves, and resolves **six of seven Millennium Prize Problems** through the unified Laplace transform.
 
@@ -142,6 +142,7 @@ ARC-Public/
 | **Big Bounce (no Big Bang)** | **a(t) >= a_min = 10.0, no singularity** | **VERIFIED** |
 | **Redshift Artifact** | **S_observable boundary, no expansion needed** | **VERIFIED** |
 | **Discrete Hilbert Space** | **No wave function collapse** | **VERIFIED** |
+| **Fluid Universe (no black holes)** | **Dark stars + bounded a_min/a_max + Navier-Stokes** | **PROPOSED** |
 | Waste Value Theorem | W = S_observable \ S_intended ≠ ∅, 9/9 tests | VERIFIED |
 | Swarm = Bounded Search | PSO optima O(n^1.21), 7/7 tests | VERIFIED |
 | Compression-Derived c | c = round(sr x n x sqrt(2)), 9/9 tests | VERIFIED |

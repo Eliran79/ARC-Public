@@ -1,0 +1,28 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 08c33dbaf2905ba07adb6308f0013f256f211aad
+Ref: refs/heads/master
+Timestamp: 2026-02-11T06:49:01Z
+Actor: Eliran79
+
+Commit Message:
+feat(discovery-127): ARC Memory Chip + updated proof tracking CSVs
+
+New discovery:
+- 127: ARC Memory Chip — bounded-move architecture for hardware
+
+Updated CSVs: discoveries, ethers, triangles, verifications
+
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+
+Files Changed:
+proofs/DISCOVERY_127_ARC_MEMORY_CHIP.md
+proofs/csv/discoveries.csv
+proofs/csv/ethers.csv
+proofs/csv/triangles.csv
+proofs/csv/verifications.csv
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

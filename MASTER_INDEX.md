@@ -19,6 +19,7 @@
 | **Cosmology (Big Bounce)** | [Cosmology Section](#cosmology) |
 | **Physics Applications** | `proofs/MASTER_PHYSICS_INDEX.md` |
 | **Mathematical Framework** | `proofs/BOURBAKI_LAPLACE_UNIFIED.md` |
+| **Guard8.ai Products** | [`products/`](products/) (CausaDB, FitGuard, TranslatorGuard, DLM, Grapheme) |
 
 ---
 
@@ -209,6 +210,7 @@ ARC-Public/
 ├── theory/                   ← Core mathematical framework
 ├── domains/                  ← 42 independent domain validations
 ├── verifications/            ← 53 empirical proofs
+├── products/                 ← Guard8.ai product overviews (docx/pdf)
 ├── applications/             ← Industry applications
 ├── presentations/            ← Cross-domain connections
 └── thin_cell_theory/         ← TSP thin-cell lemma proofs

@@ -129,6 +129,7 @@ ARC-Public/
 ├── theory/                ← Core mathematical framework
 ├── domains/               ← 42 domain validations
 ├── verifications/         ← 53 empirical proofs
+├── products/              ← Guard8.ai product overviews (docx/pdf)
 ├── applications/          ← Industry applications
 ├── presentations/         ← Cross-domain connections
 └── thin_cell_theory/      ← TSP thin-cell lemma proofs
@@ -156,6 +157,18 @@ ARC-Public/
 | Compression-Derived c | c = round(sr x n x sqrt(2)), 9/9 tests | VERIFIED |
 | Zero-Hyperparameter ML | FitGuard beats Lasso+GridCV gap 2/4 datasets | VERIFIED |
 | Bounded Causal Inference | CausaDB: DO/WHY/COUNTERFACTUAL in O(n^2), 9/9 tests | VERIFIED |
+
+## Guard8.ai Products
+
+Products built on the Sabag Bounded Transformation Principle. Full overviews in [`products/`](products/).
+
+| Product | What It Does |
+|---------|-------------|
+| **CausaDB** | Causal SQL database — DO/WHY/COUNTERFACTUAL as native operators, zero-config ML, semantic W* extraction |
+| **FitGuard** | Zero-hyperparameter ML — Diagnose → Bound → Saturate, complexity certificates |
+| **TranslatorGuard** | Polynomial universal translator — deterministic O(n) Hebrew → English/Spanish/Chinese |
+| **DLM** | Deterministic Language Model — structure over statistics |
+| **Grapheme** | The Calculation Revolution — Grapheme-based computation |
 
 ## Historical Timeline
 

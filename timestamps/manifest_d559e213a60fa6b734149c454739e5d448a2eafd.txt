@@ -1,0 +1,22 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: d559e213a60fa6b734149c454739e5d448a2eafd
+Ref: refs/heads/master
+Timestamp: 2026-02-16T06:55:48Z
+Actor: Eliran79
+
+Commit Message:
+feat: Add Summary of Findings documentation (PDF + markdown)
+
+Documents project timeline, fork activity, and prior art search results. Includes first commit date (Dec 26, 2025) and comprehensive project overview.
+
+Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
+
+Files Changed:
+ARC_Summary_of_Findings.md
+ARC_Summary_of_Findings.pdf
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

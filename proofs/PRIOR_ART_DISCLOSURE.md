@@ -28,7 +28,7 @@ The method applies to: traveling salesman problem (15 solver variants implemente
 
 ### Implementation Evidence
 - Repository: ARC/np-optima (Rust)
-- 90+ verification binaries confirming polynomial convergence
+- 297 verification binaries confirming polynomial convergence
 - Tests: 500+ passing across all domains
 - Key binary: `verify_saturation` — empirically confirms |S_observable| = O(n^c)
 - Nittay limit convergence verified: `verify_eigenvalues` shows σ(n)/n → √2
@@ -37,7 +37,9 @@ The method applies to: traveling salesman problem (15 solver variants implemente
 - `PATENT_INVARIANT_CORE.md` — algorithmic pseudocode (published in ARC-Public)
 - `GRAND_UNIFIED_THEORY.md` — 10 independent mathematical paths (published in ARC-Public)
 - `OBSERVABLE_SAMPLE_SPACE_LEMMA.md` — formal lemma statement (published in ARC-Public)
-- Discoveries 00-144 documenting cross-domain applications (published in ARC-Public)
+- Discoveries 00-147 documenting cross-domain applications (published in ARC-Public)
+- `DISCOVERY_145_RONS_WONDER.md` — ρ = log₂(√2) = ½ universal sparsity constant (published in ARC-Public)
+- `DISCOVERY_146_INVERSE_LANDAUER.md` — thermodynamic creation via chain trigger (published in ARC-Public)
 
 ---
 
@@ -69,8 +71,8 @@ A method for translating between Hebrew and target languages (English, Spanish, 
 - Memory: O(n) per sentence, ~300KB static data
 
 ### Implementation Evidence
-- Repository: TranslatorGuard (Rust, 6,539 lines)
-- Tests: 289 passing (262 SAT-specific + 27 morphological)
+- Repository: TranslatorGuard (Rust, 6,601 lines)
+- Tests: 332 passing (230 lib + 94 integration + 8 doc)
 - Zero external ML dependencies (serde, flate2, serde_json only)
 - Hebrew↔English, Hebrew↔Spanish, Hebrew↔Chinese verified
 - Bidirectional: English→Hebrew reverse path implemented

@@ -1,0 +1,54 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: b78a427079feff782f8f343c7af89926e658477e
+Ref: refs/heads/master
+Timestamp: 2026-02-21T19:43:05Z
+Actor: Eliran79
+
+Commit Message:
+chore: Remove patent docs from public repo — keep in ARC only
+
+Removed:
+- PRIOR_ART_DISCLOSURE.md
+- PATENT_INVARIANT_CORE.md
+- RESPONSIBLE_DISCLOSURE_PLAN.md
+- patent_modules.csv
+- patent_figures/ (12 SVG + 12 PNG + README)
+
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+
+Files Changed:
+proofs/PATENT_INVARIANT_CORE.md
+proofs/PRIOR_ART_DISCLOSURE.md
+proofs/RESPONSIBLE_DISCLOSURE_PLAN.md
+proofs/patent_figures/README.md
+proofs/patent_figures/fig01.png
+proofs/patent_figures/fig01.svg
+proofs/patent_figures/fig02.png
+proofs/patent_figures/fig02.svg
+proofs/patent_figures/fig03.png
+proofs/patent_figures/fig03.svg
+proofs/patent_figures/fig04.png
+proofs/patent_figures/fig04.svg
+proofs/patent_figures/fig05.png
+proofs/patent_figures/fig05.svg
+proofs/patent_figures/fig06.png
+proofs/patent_figures/fig06.svg
+proofs/patent_figures/fig07.png
+proofs/patent_figures/fig07.svg
+proofs/patent_figures/fig08.png
+proofs/patent_figures/fig08.svg
+proofs/patent_figures/fig09.png
+proofs/patent_figures/fig09.svg
+proofs/patent_figures/fig10.png
+proofs/patent_figures/fig10.svg
+proofs/patent_figures/fig11.png
+proofs/patent_figures/fig11.svg
+proofs/patent_figures/fig12.png
+proofs/patent_figures/fig12.svg
+proofs/patent_modules.csv
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

@@ -1,14 +1,14 @@
-# Master Discovery Index: All 130 Discoveries
+# Master Discovery Index: All 147 Discoveries
 
 **Author:** Eliran Sabag
-**Date:** February 5, 2026
-**Total Discoveries:** 130
+**Date:** February 21, 2026
+**Total Discoveries:** 147
 
 ---
 
 ## Overview
 
-The Sabag Bounded Transformation Principle is supported by **130 documented discoveries** spanning theoretical foundations to real-world applications. This index provides a complete overview.
+The Sabag Bounded Transformation Principle is supported by **147 documented discoveries** spanning theoretical foundations to real-world applications. This index provides a complete overview.
 
 ---
 
@@ -22,6 +22,8 @@ The Sabag Bounded Transformation Principle is supported by **130 documented disc
 | **Physics Cascade** | 62-92 | Dark Matter, Big Bounce, Redshift |
 | **Millennium Problems** | 100-111 | Navier-Stokes, Yang-Mills, BSD, Hodge |
 | **Real-World** | 112-130 | Chemistry, Biology, Electronics |
+| **NLP/Language** | 131-144 | TranslatorGuard, CausaDB, Hebrew SAT |
+| **Unification** | 145-147 | Ron's Wonder, Inverse Landauer, Tiny Spark |
 
 ---
 
@@ -106,6 +108,51 @@ The Sabag Bounded Transformation Principle is supported by **130 documented disc
 
 ---
 
+## Drug Discovery & Medicine (131-135)
+
+| # | Title | Application |
+|---|-------|-------------|
+| 131 | Type 2 Diabetes | G6Pase-α target, B=2 |
+| 132 | Obesity | MGAT2 target, B=2 |
+| 133 | NAFLD/NASH | SCD1 target, B=2 |
+| 134 | Cardiovascular | Lp(a)/LPA target, B=2 |
+| 135 | Isoform Selectivity | Bounded chemistry for drug design |
+
+---
+
+## Thermodynamics & Engineering (136-139)
+
+| # | Title | Key Insight |
+|---|-------|-------------|
+| 136 | **Waste Value Theorem** | Inverse Maxwell Demon — structured waste is exploitable |
+| 137 | Compression-Derived Move Bound | c = round(sr × n × √2) from DEFLATE |
+| 138 | Zero-Hyperparameter ML | FitGuard beats GridSearchCV, 0 hyperparameters |
+| 139 | Pole Count as Move Bound | Laplace poles = c for time series |
+
+---
+
+## Causal AI & NLP (140-144)
+
+| # | Title | Key Insight |
+|---|-------|-------------|
+| 140 | **Bounded Causal Inference** | CausaDB: first causal SQL database |
+| 141 | **The Fluid Universe** | Bounded regularity dissolves 7 singularities |
+| 142 | Hebrew Compressed Computation | 113 roots × 450 templates = O(1) per word |
+| 143 | Sentence Agreement as SAT | Hebrew agreement → bounded SAT |
+| 144 | Layer 3 Argument Structure | Verb subcategorization as SAT |
+
+---
+
+## Unification (145-147)
+
+| # | Title | Key Insight |
+|---|-------|-------------|
+| 145 | **Ron's Wonder** | ρ = log₂(√2) = ½ — universal sparsity constant across 4 pillars |
+| 146 | **Inverse Landauer** | bits = E/(kT·ln(2)) — creation via chain trigger |
+| 147 | **The Tiny Spark Theory** | Genesis 1 = Inverse Landauer chain — יְהִי אוֹר = one trigger bit |
+
+---
+
 ## Practical Implementations
 
 | Application | Status | Lines of Code |
@@ -132,9 +179,9 @@ This exact algebraic identity connects ALL discoveries:
 
 ## Files
 
-- `discoveries.csv` - Complete machine-readable index
-- 63 DISCOVERY_*.md files in `/data/git/ARC/proofs/`
-- 288 verification binaries in `/data/git/ARC/np-optima/src/bin/`
+- `discoveries.csv` - Complete machine-readable index (147 entries)
+- 80+ DISCOVERY_*.md files in `/data/git/ARC/proofs/`
+- 290+ verification binaries in `/data/git/ARC/np-optima/src/bin/`
 
 ---
 

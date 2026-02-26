@@ -97,6 +97,10 @@ Cryptographic keys use **bit-level randomness** (Kolmogorov-incompressible). P=N
 
 **Banks are safe. Bitcoin is safe. Your passwords are safe.**
 
+## Intellectual Property
+
+A **provisional patent application** has been filed covering the ARC framework, the Sabag Bounded Transformation Principle, and its commercial applications. The theoretical research remains public under MIT License (MAD strategy). The engineered implementations, optimizations, and product architectures built on this foundation are protected.
+
 ## Millennium Prize Submission (February 6, 2026)
 
 **Full submission package:** [`millennium_submission/`](millennium_submission/)

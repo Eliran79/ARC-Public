@@ -1,0 +1,35 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 14e29a184f783d57631306677620139a1c0f1510
+Ref: refs/heads/master
+Timestamp: 2026-02-10T18:10:02+02:00
+Actor: Eliran79
+
+Commit Message:
+feat(discoveries-137-140): FitGuard ML + CausaDB Causal Inference
+
+- Discovery 137: Compression-Derived Move Bound (c = sr × n × √2)
+- Discovery 138: Zero-Hyperparameter ML (FitGuard beats Lasso+GridCV)
+- Discovery 139: Pole Count as Move Bound (Laplace forecasting)
+- Discovery 140: Bounded Causal Inference (CausaDB - causal SQL)
+- verify_fitguard_ml.rs: 9/9 tests
+- verify_causal_boundedness.rs: 9/9 tests
+- 140 discoveries, 24 paths
+
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+
+Files Changed:
+README.md
+proofs/DISCOVERY_137_COMPRESSION_DERIVED_MOVE_BOUND.md
+proofs/DISCOVERY_138_ZERO_HYPERPARAMETER_ML.md
+proofs/DISCOVERY_139_POLE_COUNT_MOVE_BOUND.md
+proofs/DISCOVERY_140_BOUNDED_CAUSAL_INFERENCE.md
+proofs/csv/discoveries.csv
+proofs/discoveries.csv
+verifications/verify_causal_boundedness.rs
+verifications/verify_fitguard_ml.rs
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

@@ -1,0 +1,39 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: e5841996949d33f95fea1c42653b0ac8b6f0f96c
+Ref: refs/heads/master
+Timestamp: 2026-02-03T10:45:43+02:00
+Actor: Eliran79
+
+Commit Message:
+feat: Add SPD Timestamp system (OpenTimestamps + Archive.org)
+
+Establishes cryptographic provenance for ARC discoveries:
+
+1. OpenTimestamps (Bitcoin blockchain anchoring)
+   - Creates .ots proof files for each commit
+   - Anchored to Bitcoin blockchain (immutable)
+   - Verifiable by anyone with `ots verify`
+
+2. Archive.org (Wayback Machine)
+   - Automatic snapshots of repo and key documents
+   - Public record independent of GitHub
+
+Files:
+- .github/workflows/spd-timestamp.yml - GitHub Action
+- timestamps/README.md - Documentation
+- timestamps/INITIAL_MANIFEST.txt - Initial claims manifest
+
+Timeline established: 1982 (age 3) → 2026 (Six Millennium problems)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+
+Files Changed:
+.github/workflows/spd-timestamp.yml
+timestamps/INITIAL_MANIFEST.txt
+timestamps/README.md
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

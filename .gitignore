@@ -1,0 +1,197 @@
+# =============================================================================
+# Code files — prevent source code from leaking into this documentation repo
+# =============================================================================
+
+# Rust
+*.rs
+Cargo.toml
+Cargo.lock
+
+# Python
+*.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+*.egg
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+setup.cfg
+pyproject.toml
+requirements*.txt
+.python-version
+*.ipynb
+
+# JavaScript / TypeScript
+*.js
+*.jsx
+*.ts
+*.tsx
+*.mjs
+*.cjs
+node_modules/
+package.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+.npmrc
+
+# Go
+*.go
+go.mod
+go.sum
+
+# C / C++
+*.c
+*.h
+*.cpp
+*.cxx
+*.cc
+*.hpp
+*.hxx
+*.hh
+CMakeLists.txt
+Makefile
+*.mk
+
+# Java / Kotlin / Scala
+*.java
+*.kt
+*.kts
+*.scala
+*.class
+*.jar
+*.war
+*.ear
+pom.xml
+build.gradle
+build.gradle.kts
+settings.gradle
+*.gradle
+
+# C# / .NET
+*.cs
+*.csproj
+*.sln
+*.fsproj
+*.vbproj
+
+# Swift / Objective-C
+*.swift
+*.m
+*.mm
+
+# Ruby
+*.rb
+Gemfile
+Gemfile.lock
+*.gemspec
+
+# PHP
+*.php
+composer.json
+composer.lock
+
+# Shell scripts
+*.sh
+*.bash
+*.zsh
+*.fish
+
+# Haskell / OCaml / Elixir / Erlang
+*.hs
+*.ml
+*.mli
+*.ex
+*.exs
+*.erl
+*.hrl
+
+# Zig / Nim / V / D
+*.zig
+*.nim
+*.v
+*.d
+
+# Lua / Perl / R
+*.lua
+*.pl
+*.pm
+*.r
+*.R
+
+# WebAssembly
+*.wasm
+*.wat
+
+# =============================================================================
+# Compiled binaries and objects
+# =============================================================================
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.out
+*.bin
+*.elf
+
+# =============================================================================
+# Build directories
+# =============================================================================
+build/
+dist/
+target/
+out/
+bin/
+.build/
+
+# =============================================================================
+# IDE and editor files
+# =============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =============================================================================
+# Environment and secrets
+# =============================================================================
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# =============================================================================
+# Virtual environments
+# =============================================================================
+venv/
+.venv/
+env/
+.conda/
+
+# =============================================================================
+# Misc
+# =============================================================================
+*.log
+*.tmp
+*.bak
+*.cache
+.terraform/
+*.tfstate*
+docker-compose*.yml
+Dockerfile*

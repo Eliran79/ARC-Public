@@ -1,0 +1,38 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 7f18a6c3b79052b8eb87c9f552b6ad0db5686b0b
+Ref: refs/heads/master
+Timestamp: 2026-03-06T07:05:42Z
+Actor: Eliran79
+
+Commit Message:
+SPD: Recover missing OpenTimestamp proofs from CI artifacts
+
+Recovered OTS proofs for 4 commits that were stamped by CI but couldn't
+be pushed due to branch protection: 9b3cacf, 33b071b, 04aa3e4, e584199.
+
+All proofs were submitted to Bitcoin calendar servers during their
+original workflow runs and uploaded as GitHub Actions artifacts.
+
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+
+Files Changed:
+timestamps/commit_0c47517a1a96e3e64f396c1819329b151436a29e.txt
+timestamps/commit_0c47517a1a96e3e64f396c1819329b151436a29e.txt.ots
+timestamps/commit_14e29a184f783d57631306677620139a1c0f1510.txt
+timestamps/commit_14e29a184f783d57631306677620139a1c0f1510.txt.ots
+timestamps/commit_aa2bac0cc31e82e7fa744cf88eec526dc143af00.txt
+timestamps/commit_aa2bac0cc31e82e7fa744cf88eec526dc143af00.txt.ots
+timestamps/commit_e5841996949d33f95fea1c42653b0ac8b6f0f96c.txt
+timestamps/commit_e5841996949d33f95fea1c42653b0ac8b6f0f96c.txt.ots
+timestamps/manifest_0c47517a1a96e3e64f396c1819329b151436a29e.txt
+timestamps/manifest_14e29a184f783d57631306677620139a1c0f1510.txt
+timestamps/manifest_aa2bac0cc31e82e7fa744cf88eec526dc143af00.txt
+timestamps/manifest_aa2bac0cc31e82e7fa744cf88eec526dc143af00.txt.ots
+timestamps/manifest_e5841996949d33f95fea1c42653b0ac8b6f0f96c.txt
+timestamps/manifest_e5841996949d33f95fea1c42653b0ac8b6f0f96c.txt.ots
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

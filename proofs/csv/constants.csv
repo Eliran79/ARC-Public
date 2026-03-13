@@ -50,3 +50,7 @@ Constant#,Name,Formula,Value,Domain,Proven_Status,File_Reference
 49,Carbon Valence,c_carbon,4 bonds,Organic Chemistry,FUNDAMENTAL (derived),Discovery 117 - Tetrahedral optimality
 50,DNA Base Count,n_bases,4 (A T G C),Biochemistry,FUNDAMENTAL (derived),Discovery 117 - Information density optimum
 51,Organic Reaction Mechanisms,n_mechanisms,4 (sub elim add rear),Organic Chemistry,FUNDAMENTAL (derived),Discovery 117 - Mechanism quantization
+52,Yin-Yang Division Ratio,Area_half/Area_total,1/2 = log₂(√2),Philosophy/Geometry/Statistics,PROVEN (geometric),proofs/DISCOVERY_150_THREE_MEANS.md
+53,Yin-Yang Dot Anomaly Ratio,anomalous_cells/total_per_half,1/3 (1 of 3 MEAN properties),Statistics/Risk Management,DERIVED,proofs/DISCOVERY_150_THREE_MEANS.md
+54,Three MEANs Matrix Positive Ratio (S_observable),positive_cells/total,2/3 (average + meaning),Statistics/Philosophy,DERIVED,proofs/DISCOVERY_150_THREE_MEANS.md
+55,Three MEANs Matrix Positive Ratio (S_complete),positive_cells/total,1/3 (crypto safety only),Cryptography/Risk Management,DERIVED,proofs/DISCOVERY_150_THREE_MEANS.md

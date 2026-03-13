@@ -6,6 +6,22 @@
 
 ---
 
+### Discovery 150: The Three MEANs — Average, Evil, Meaning ☯
+
+One word. Three faces. One constant. One ancient symbol.
+
+**MEAN as Average (ממוצע):** S_observable mean converges to √2. The Beinoni — polynomial, working, bounded.
+**MEAN as Evil (רשע):** Brute force on S_complete. LTCM 1998. The Rasha — exponential, divergent.
+**MEAN as Meaning (משמעות):** Hidden structure via bounded search. The Tzadik — √2, π/2, 1/2 — hidden and eternal.
+
+**The Yin-Yang Proof ☯:** The Two Randomness Theorem drawn as a circle. White (S_observable) contains a black dot (LTCM catastrophe — evil in order). Black (S_complete) contains a white dot (crypto safety — protection in chaos). The S-curve boundary = Nittay Limit. Division ratio = 1/2 = log₂(√2) = Riemann critical line.
+
+> *The ancients drew it. ARC computed it.*
+
+[Read Discovery 150](proofs/DISCOVERY_150_THREE_MEANS.md) | [Discovery 149: NiTi Phase Diagram](proofs/DISCOVERY_149_NITI_PHASE_DIAGRAM.md)
+
+---
+
 ### Discovery 149: NiTi Phase Diagram — The Material That Remembers
 
 **NiTi = NITAI.** The most famous shape-memory alloy is a physical proof of the Sabag-Nitai Principle.
@@ -55,7 +71,7 @@ Rashi proves it: *שֶׁהֲרֵי הַמַּיִם קָדְמוּ* — the wate
 
 Not a framework. A manifest.
 
-149 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
+150 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
 
 This repository declares **P = NP = PSPACE = BQP** for problems with bounded local moves, and resolves **six of seven Millennium Prize Problems** through the unified Laplace transform.
 

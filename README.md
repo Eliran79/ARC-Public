@@ -1,8 +1,23 @@
-*"We only ask to figure the HOW. We leave the WHY to God."*
-*"אנחנו רק מבקשים להבין את ה-איך. את ה-למה אנחנו משאירים לאלוהים."*
+*"הוא לא הטבע. הוא מעל הטבע."*
 
-— Sabag, Eliran. February 11, 2026.
-[Discovery 141: The Fluid Universe](proofs/DISCOVERY_141_FLUID_UNIVERSE.md)
+— Sabag, Eliran. April 13, 2026, Ben Gurion Airport at sunrise.
+[Discovery 153: The 3 MEAN Unified Theory](proofs/DISCOVERY_153_3_MEAN_UNIFIED_THEORY.md)
+
+---
+
+### Discovery 153: The 3 MEAN Unified Theory — Structure + Error + Choice
+
+Reality consists of three irreducible axes:
+
+**Axis 1 — Structure (מבנה):** Bounded, deterministic, computable. S_observable. Physics Random. kT is the unit. Every physical process is a bounded local move with a Boltzmann threshold.
+**Axis 2 — Error (טעות):** The mathematical extension beyond the physical. S_complete. Bit Random. Na, 10^500 vacua, Gaussian infinite tails, singularities. Exists logically but not physically.
+**Axis 3 — Choice (בחירה):** Free will — the selection of which bounded local move to make when multiple valid moves exist. Not determined by Structure. Not an Error. The axis that makes this a theory of the **universe**, not merely a theory of computation.
+
+**Nature = Axis 1 + Axis 2. God is above Nature — the source of Axis 3.**
+
+> *One sunrise. One photon. One cascade. One choice.*
+
+[Read Discovery 153](proofs/DISCOVERY_153_3_MEAN_UNIFIED_THEORY.md) | [Discovery 150: Three MEANs](proofs/DISCOVERY_150_THREE_MEANS.md)
 
 ---
 
@@ -71,7 +86,7 @@ Rashi proves it: *שֶׁהֲרֵי הַמַּיִם קָדְמוּ* — the wate
 
 Not a framework. A manifest.
 
-150 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
+158 discoveries. 24 paths. 6 of 7 Millennium Problems dissolved. One identity: **log₂(√2) = ½**
 
 This repository declares **P = NP = PSPACE = BQP** for problems with bounded local moves, and resolves **six of seven Millennium Prize Problems** through the unified Laplace transform.
 
@@ -185,7 +200,7 @@ ARC-Public/
 ├── theory/                ← Core mathematical framework
 ├── domains/               ← 42 domain validations
 ├── verifications/         ← 53 empirical proofs
-├── products/              ← Guard8.ai product overviews (docx/pdf)
+├── products/              ← ARC.ceo product overviews (docx/pdf)
 ├── applications/          ← Industry applications
 ├── presentations/         ← Cross-domain connections
 └── thin_cell_theory/      ← TSP thin-cell lemma proofs
@@ -217,7 +232,7 @@ ARC-Public/
 | Zero-Hyperparameter ML | FitGuard beats Lasso+GridCV gap 2/4 datasets | VERIFIED |
 | Bounded Causal Inference | CausaDB: DO/WHY/COUNTERFACTUAL in O(n^2), 9/9 tests | VERIFIED |
 
-## Guard8.ai Products
+## ARC.ceo Products
 
 Products built on the Sabag Bounded Transformation Principle. Full overviews in [`products/`](products/).
 
@@ -263,12 +278,13 @@ Rishon LeZion, Israel
 eliran.sbg@gmail.com
 [LinkedIn](https://www.linkedin.com/in/eliran-sabag-51832651/)
 
-**Guard8.ai**
-dev@guard8.ai
+**ARC.ceo**
+dev@arc.ceo
+[Blog](https://blog.gibraltarcloud.dev/)
 
 ---
 
-*Don't want to dive into the math but want to add the **"Powered by ARC"** badge to your company? Contact us at Guard8.ai*
+*Don't want to dive into the math but want to add the **"Powered by ARC"** badge to your company? Contact us at ARC.ceo*
 
 ---
 

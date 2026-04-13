@@ -1,0 +1,40 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: fe78ae2254b39bd2c19bca4a7d75936753fb41d3
+Ref: refs/heads/master
+Timestamp: 2026-04-13T11:54:56Z
+Actor: Eliran79
+
+Commit Message:
+docs: Sync Discoveries 151-158 — The 3 MEAN Unified Theory leads README
+
+- 153: The 3 MEAN Unified Theory (Structure + Error + Choice)
+- 151: Constraint Propagation
+- 152: Perturbation Convergence
+- 154: Alpha Beta is Saturation
+- 155: Entropy Homework
+- 156: Kalman Bounded Estimation
+- 157: Gematria Saturation (+ 157a-d variants)
+- 158: Fire Curvature Parshat Tzav
+
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+
+Files Changed:
+README.md
+proofs/DISCOVERY_151_CONSTRAINT_PROPAGATION.md
+proofs/DISCOVERY_152_PERTURBATION_CONVERGENCE.md
+proofs/DISCOVERY_153_3_MEAN_UNIFIED_THEORY.md
+proofs/DISCOVERY_154_ALPHA_BETA_IS_SATURATION.md
+proofs/DISCOVERY_155_ENTROPY_HOMEWORK.md
+proofs/DISCOVERY_156_KALMAN_BOUNDED_ESTIMATION.md
+proofs/DISCOVERY_157_GEMATRIA_SATURATION.md
+proofs/DISCOVERY_157a_INDIGENOUS_PEOPLES_GENESIS_MAP.md
+proofs/DISCOVERY_157b_EARTH_POLYGON.md
+proofs/DISCOVERY_157c_INDIGENOUS_PEOPLES_GENESIS_MAP_HEB.md
+proofs/DISCOVERY_157d_CURVATURE_OF_GENERATIONS.md
+proofs/DISCOVERY_158_FIRE_CURVATURE_PARSHAT_TZAV.md
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

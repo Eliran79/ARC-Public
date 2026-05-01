@@ -1,4 +1,4 @@
-# Guard8.ai Solutions Overview
+# ARC.ceo Solutions Overview
 
 **Solving Problems Others Can't**
 
@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-Guard8.ai delivers breakthrough optimization solutions across industries. Our proprietary algorithms achieve results that conventional approaches cannot match—faster, more accurate, and without the massive training data requirements of traditional AI.
+ARC.ceo delivers breakthrough optimization solutions across industries. Our proprietary algorithms achieve results that conventional approaches cannot match—faster, more accurate, and without the massive training data requirements of traditional AI.
 
 **What makes us different:** We don't approximate. We solve.
 
@@ -105,16 +105,16 @@ Signatures:  Lamport (quantum-safe, one-time signatures)
 | Platform | Package | Status |
 |----------|---------|--------|
 | Python | `pip install shield-crypto` | Production |
-| JavaScript | `npm install @guard8/shield` | Production |
-| Go | `go get github.com/Guard8-ai/shield` | Production |
+| JavaScript | `npm install @arc-ceo/shield` | Production |
+| Go | `go get github.com/ARC-ceo/shield` | Production |
 | Rust | `cargo add shield-core` | Production |
 | C | `libshield.a` | Production |
-| Java | `ai.guard8:shield` | Production |
-| C# | `Guard8.Shield` (NuGet) | Production |
+| Java | `ceo.arc:shield` | Production |
+| C# | `ARC.Shield` (NuGet) | Production |
 | Swift | Swift Package | Production |
-| Kotlin | `ai.guard8:shield` | Production |
+| Kotlin | `ceo.arc:shield` | Production |
 | WebAssembly | `wasm-pack` | Production |
-| Browser | `@guard8/shield-browser` | Production |
+| Browser | `@arc-ceo/shield-browser` | Production |
 | Android | Hardware-backed keystore | Production |
 | iOS | Keychain + Face ID/Touch ID | Production |
 
@@ -169,7 +169,7 @@ decrypted = s.decrypt(encrypted)
 
 **JavaScript:**
 ```javascript
-const { Shield } = require('@guard8/shield');
+const { Shield } = require('@arc-ceo/shield');
 
 const s = new Shield('password', 'myapp.com');
 const encrypted = s.encrypt(Buffer.from('secret data'));
@@ -178,7 +178,7 @@ const decrypted = s.decrypt(encrypted);
 
 **Go:**
 ```go
-import "github.com/Guard8-ai/shield/shield"
+import "github.com/ARC-ceo/shield/shield"
 
 s := shield.New("password", "myapp.com")
 encrypted, _ := s.Encrypt([]byte("secret data"))
@@ -218,8 +218,8 @@ Additional benefit: Unconditional security (no future migration needed)
 ### Repository
 
 Shield is open source and available at:
-- **GitHub:** [github.com/Guard8-ai/Shield](https://github.com/Guard8-ai/Shield)
-- **Local path:** `/data/git/Guard8.ai/Shield/`
+- **GitHub:** [github.com/ARC-ceo/Shield](https://github.com/ARC-ceo/Shield)
+- **Local path:** `/data/git/ARC.ceo/Shield/`
 - **Documentation:** See `README.md`, `SECURITY.md`, `CHEATSHEET.md`
 
 ---
@@ -1373,7 +1373,7 @@ Traditional optimization:
 3. Hope for "good enough"
 4. Accept approximation
 
-Guard8.ai approach:
+ARC.ceo approach:
 1. Analyze problem requirements
 2. Apply proprietary algorithms
 3. Guarantee optimality
@@ -1441,9 +1441,9 @@ Response:
 
 ### Contact
 
-- **Sales**: [sales@guard8.ai]
-- **Technical**: [engineering@guard8.ai]
-- **Partnerships**: [partners@guard8.ai]
+- **Sales**: [sales@arc.ceo]
+- **Technical**: [engineering@arc.ceo]
+- **Partnerships**: [partners@arc.ceo]
 
 ---
 
@@ -1466,4 +1466,4 @@ A: We provide verification certificates with solutions. You can verify independe
 
 ---
 
-*Guard8.ai - Optimization Without Compromise*
+*ARC.ceo - Optimization Without Compromise*

@@ -75,8 +75,8 @@ Eliran Sabag is an independent researcher based in Rishon LeZion, Israel. He has
 Email: eliran.sbg@gmail.com
 GitHub: github.com/Eliran79
 
-**Guard8.ai**
-Email: dev@guard8.ai
+**ARC.ceo**
+Email: dev@arc.ceo
 
 ---
 

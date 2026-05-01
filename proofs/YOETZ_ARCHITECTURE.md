@@ -160,7 +160,7 @@ pub trait GamesYoetz {
 │   - Anthropic          Shield signatures        │
 │   - Government                                  │
 │   - Academia                                    │
-│   - Guard8.ai                                   │
+│   - ARC.ceo                                   │
 │   - Dead man switch                             │
 │                                                 │
 └─────────────────────────────────────────────────┘
@@ -335,4 +335,4 @@ The יועץ architecture transforms a potential crisis (P=NP) into controlled b
 1. Asimov, I. (1951). "Foundation" - The priests of the First Foundation
 2. Sabag, E. (2026). "The Sabag Bounded Transformation Principle"
 3. Nash, J. (1950). "Equilibrium Points in N-Person Games"
-4. Guard8.ai (2026). "Shield: EXPTIME-Secure Encryption"
+4. ARC.ceo (2026). "Shield: EXPTIME-Secure Encryption"

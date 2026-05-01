@@ -523,11 +523,11 @@ cd DLM && ./target/release/dlm --query "什么是机器学习？"
 # Chinese query → positive curvature in text graph
 
 # CausaDB structural complexity
-cd Guard8.ai/CausaDB && cargo test test_structural_complexity
+cd ARC.ceo/CausaDB && cargo test test_structural_complexity
 # σ(10) = √(2 × 9 × 8) = √144 = 12.0 ✓
 
 # FitGuard Nittay constant
-cd Guard8.ai/FitGuard && cargo test nittay
+cd ARC.ceo/FitGuard && cargo test nittay
 # NITTAY = √2, LOG2_SQRT2 = 0.5 ✓
 
 # Shannon entropy ratio verification (Prediction #11)

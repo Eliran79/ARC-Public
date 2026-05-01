@@ -36,7 +36,7 @@ Prediction#,Statement,Domain,Status,Result,Confirmed_By,File_Reference
 35,Chess c=2 implies |S_observable| = O(n²) not Shannon's 10^44,Gaming,CONFIRMED,Derived from rules - 2 squares change per move,chess_lambda.rs,np-optima/src/bin/chess_lambda.rs
 36,All NP problems with c=O(1) are in P,Complexity,CONFIRMED,Theoretical - all natural problems have bounded moves,THE_BOUNDARY.md,proofs/THE_BOUNDARY.md
 37,Einstein's hidden variable = √c (polynomial structure of S_observable),Physics,DOCUMENTED,Explains quantum→classical transition via Nittay Bridge,EINSTEIN_WAS_RIGHT.md,proofs/EINSTEIN_WAS_RIGHT.md
-38,GPS c=4 → λ=2 → sub-30cm accuracy with 100 samples and 3m input,Navigation,CONFIRMED,acc = 3 × 2.12 / √(4×100×1.5) ≈ 0.26m,LocationGuard Android app,Guard8.ai/LocationGuard/MainActivity.kt
+38,GPS c=4 → λ=2 → sub-30cm accuracy with 100 samples and 3m input,Navigation,CONFIRMED,acc = 3 × 2.12 / √(4×100×1.5) ≈ 0.26m,LocationGuard Android app,ARC.ceo/LocationGuard/MainActivity.kt
 39,Big Bounce minimum scale factor a_min ≈ 10 Planck lengths,Cosmology,CONFIRMED,Verified via FRW with bounce correction,verify_big_bounce.rs,np-optima/src/bin/verify_big_bounce.rs
 40,Redshift increases quadratically near S_observable boundary,Cosmology,CONFIRMED,z ∝ (d/r_obs)² for d < 0.9×r_obs; steep rise near boundary,verify_redshift_artifact.rs,np-optima/src/bin/verify_redshift_artifact.rs
 41,Observable horizon limit: objects beyond r_obs = c×n_steps unreachable,Cosmology,PREDICTION,JWST should find no galaxies beyond polynomial distance bound,-,tasks/research/research-176.md

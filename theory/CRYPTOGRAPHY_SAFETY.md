@@ -107,7 +107,7 @@ For any cryptographic system:
 3. P=NP provides no advantage over brute force
 4. Brute force remains 2^n
 
-**Implementation**: See Guard8.ai/Shield for Kolmogorov-resistant key generation.
+**Implementation**: See ARC.ceo/Shield for Kolmogorov-resistant key generation.
 
 ## Conclusion
 

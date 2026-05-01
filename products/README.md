@@ -1,6 +1,6 @@
-# Guard8.ai Product Overviews
+# ARC.ceo Product Overviews
 
-Product overview documents for the Guard8.ai product family — all built on the Sabag Bounded Transformation Principle.
+Product overview documents for the ARC.ceo product family — all built on the Sabag Bounded Transformation Principle.
 
 ## Products
 
@@ -23,7 +23,7 @@ All products share the same theoretical foundation:
 
 ## Contact
 
-dev@guard8.ai | [Guard8.ai](https://guard8.ai)
+dev@arc.ceo | [ARC.ceo](https://arc.ceo)
 
 ---
 

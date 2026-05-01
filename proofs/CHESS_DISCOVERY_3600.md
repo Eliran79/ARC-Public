@@ -283,7 +283,7 @@ ChessGuard achieves **validated victories** against Stockfish at 2200-3600 Elo u
 
 **Status**: ✅ **VALIDATED** - Ready for extended testing and academic review.
 
-**Full report**: `/data/git/Guard8.ai/ChessGuard/BATTLE_REPORT_3600.md`
+**Full report**: `/data/git/ARC.ceo/ChessGuard/BATTLE_REPORT_3600.md`
 
 **Framework documentation**: `/data/git/ARC/proofs/SABAG_UNIFIED_THEORY.md`
 

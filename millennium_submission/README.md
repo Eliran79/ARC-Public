@@ -260,8 +260,8 @@ This work is published under MIT License at:
 Rishon LeZion, Israel
 eliran.sbg@gmail.com
 
-**Guard8.ai**
-dev@guard8.ai
+**ARC.ceo**
+dev@arc.ceo
 
 ---
 

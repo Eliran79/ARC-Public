@@ -72,7 +72,7 @@ See `proofs/COMPLETE_RELATIVITY_THEORY.md`.
 
 | Directory | Contains |
 |-----------|----------|
-| `/products/` | Guard8.ai product overviews (CausaDB, FitGuard, TranslatorGuard, DLM, Grapheme) |
+| `/products/` | ARC.ceo product overviews (CausaDB, FitGuard, TranslatorGuard, DLM, Grapheme) |
 | `/applications/` | WHAT & WHY (this directory) |
 | `/proofs/` | HOW (implementation details) |
 | `/np-optima/src/` | CODE (algorithms) |

@@ -30,7 +30,7 @@ V28,dtw_rsa_chain,Factoring,DTW inversion bounds for factoring,O(m/α) inversion
 V29,framework_chess_saturation,Gaming,Discovery 53 - Saturation beats Stockfish 17 + NNUE,Checkmate in 11 moves,VERIFIED,np-optima/src/games/chess/uci.rs
 V30,py2rs,Domain 13,Python→Rust Turing-complete translation,26 tests passing O(n) saturation,VERIFIED,np-optima/src/py2rs/
 V31,halting_paradox,Domain 14,Turing's diagonal argument demonstration,8 tests D(D) paradox detected,VERIFIED,np-optima/src/logic/halting.rs
-V32,locationguard_gps,Domain 20,GPS c=4 trajectory-based accuracy,acc = base × κ / √(c×N×div) sub-30cm,VERIFIED,Guard8.ai/LocationGuard/MainActivity.kt
+V32,locationguard_gps,Domain 20,GPS c=4 trajectory-based accuracy,acc = base × κ / √(c×N×div) sub-30cm,VERIFIED,ARC.ceo/LocationGuard/MainActivity.kt
 V33,qbf_fixed_depth,Path 14,Fixed depth d collapses PSPACE(d) → P,O(d × poly(n)) for constant d,VERIFIED,np-optima/src/bin/qbf_fixed_depth.rs
 V34,pspace_alternation,Path 15,∃ separable vs ∃∀ coupled structure,Code-Theory-Proof triangle aligned,VERIFIED,np-optima/src/bin/pspace_alternation.rs
 V35,exptime_state_bound,Path 16,State bits s determines EXPTIME vs PSPACE,P = NP(c) = PSPACE(d) = EXPTIME(s),VERIFIED,np-optima/src/bin/exptime_state_bound.rs

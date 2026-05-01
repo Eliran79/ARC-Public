@@ -18,13 +18,13 @@ Domain#,Name,Physical_Principle,Key_Formula,Connection,File_Reference
 17,Exit Analysis,PSPACE Optimization,Waterfall(exit) = distribute(prefs),Pareto frontier in polynomial states,np-optima/src/waterfall/
 18,Approximate Reasoning,Zadeh Extension Principle,μ_B(y) = sup{μ_A(x) : y=f(x)},Continuous membership → discrete inference in O(r×s),np-optima/src/fuzzy/
 19,Optimal Quantization,Inverse Nittay Principle,n(ε) = 3/(√2 ε) ≈ 2.12/ε,Continuous→discrete with O(1/ε) samples,np-optima/src/quantize/
-20,Navigation,GPS c=4 Principle,acc = base × κ / √(c×N×div),4 unknowns (x y z clock) → polynomial averaging,Guard8.ai/LocationGuard/
+20,Navigation,GPS c=4 Principle,acc = base × κ / √(c×N×div),4 unknowns (x y z clock) → polynomial averaging,ARC.ceo/LocationGuard/
 21,Project Management,TaskGuard Bounded Workflow,States(5) × Priority(4) × DAG(N),Vibe coding N! → TaskGuard O(N²) via bounded status transitions,TASKGUARD.md
-22,API Security,Veil Principle,Response = {position + accuracy},Hide methodology - return result only. TEE + rate limit + pattern detect,Guard8.ai/AdvisorGuard/
+22,API Security,Veil Principle,Response = {position + accuracy},Hide methodology - return result only. TEE + rate limit + pattern detect,ARC.ceo/AdvisorGuard/
 23,Medical Diagnostics,ECG c=1 Principle,class = argmax log P(features|class) + log P(class),Each beat independent (c=1 λ=1) → O(n) classification. d'^2 feature weights. 93% V-recall (≥90% clinical),np-optima/src/ecg/
 24,Computational Boundary,Structure vs Anti-Structure,SHA: avalanche destroys locality; RSA: preserves structure,SHA intractable (anti-locality) vs RSA tractable (bounded). Banks are safe.,tasks/docs/docs-016.md
 25,Neural Networks,Accidental Geometry Exploitation,NN receptive fields ≈ bounded locality,NNs accidentally use ARC principles. Matrix multiplication is brute-forcing polynomial paths.,tasks/docs/docs-016.md
-26,Discrete Gravity,Einstein Correction (Galaxies),g_μν + Nitay_tensor = discrete sources,Continuous GR averages away structure → 2.9cm GPS correction via discrete galaxy modeling,Guard8.ai/LocationGuard/
+26,Discrete Gravity,Einstein Correction (Galaxies),g_μν + Nitay_tensor = discrete sources,Continuous GR averages away structure → 2.9cm GPS correction via discrete galaxy modeling,ARC.ceo/LocationGuard/
 27,Game Theory Strategy,D with C in Reserve,Misdirection + Escalation Path,p(independent discovery) ≈ 5% at 18mo. Matrix multiplication industrial complex = moat,tasks/docs/docs-016.md
 28,Cosmology - Dark Matter Dissolution,Nitai Gravity Correction,M_actual = Σmᵢ×Nitai ≠ ∫ρdV,Dark Matter = Ether 2.0. Miscalculation from continuous vs discrete. 85% missing mass was never there,proofs/DISCOVERY_83_FULL_HIERARCHY.md
 29,White Noise Information Theory,Bounded Sampling Principle,Noise(bounded) = P,א^א = incomputable. Bounded space-time → structured signal → computable universe,proofs/DISCOVERY_83_FULL_HIERARCHY.md

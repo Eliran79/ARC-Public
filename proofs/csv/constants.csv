@@ -34,8 +34,8 @@ Constant#,Name,Formula,Value,Domain,Proven_Status,File_Reference
 33,Chess Bounded Move Count,c_chess = squares changed per move,2 (typical),Gaming,DERIVED,np-optima/src/bin/chess_lambda.rs
 34,P-Exponential Boundary,c = O(1) vs c = O(n),O(1)=P; O(n)=Exp,Complexity,PROVEN,proofs/THE_BOUNDARY.md
 35,Generalized Nittay Formula,σ_c(n) = √(c(n-1)(n-c)),Exact for any c,TSP Generalization,PROVEN,np-optima/src/bin/calculate_lambda.rs
-36,GPS Bounded Move Count,c_gps = unknowns per solution,4 (x y z clock),Navigation,DERIVED,Guard8.ai/LocationGuard/MainActivity.kt
-37,GPS Lambda,λ_gps = √c_gps,2.0 (√4),Navigation,DERIVED,Guard8.ai/LocationGuard/MainActivity.kt
+36,GPS Bounded Move Count,c_gps = unknowns per solution,4 (x y z clock),Navigation,DERIVED,ARC.ceo/LocationGuard/MainActivity.kt
+37,GPS Lambda,λ_gps = √c_gps,2.0 (√4),Navigation,DERIVED,ARC.ceo/LocationGuard/MainActivity.kt
 38,Continuum Cardinality,א₀^א₀ = 2^א₀,|ℝ| (uncountable),Mathematics,PROVEN (Cantor),proofs/DISCOVERY_83_FULL_HIERARCHY.md
 39,White Noise Compression,Real noise compressed by,91.6% (Kaggle sample),Information,VERIFIED,np-optima/src/bin/prove_white_noise.rs
 40,Dark Matter Percentage,Missing mass (standard model),~85%,Cosmology,EMPIRICAL (disputed),proofs/COMPLETE_RELATIVITY_THEORY.md

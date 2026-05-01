@@ -39,7 +39,7 @@ The ARC-Public project presents the **Sabag Bounded Transformation Principle**, 
 - Rust verification binaries
 - 42 domain validations
 - Practical applications (sorting, drug targets, ML)
-- Guard8.ai products built on the framework
+- ARC.ceo products built on the framework
 
 ### Millennium Prize Problems Addressed
 
@@ -75,7 +75,7 @@ ARC-Public/
 ├── theory/                          # Core mathematical framework
 ├── domains/                         # 42 domain validations
 ├── verifications/                   # 53 empirical proofs
-└── products/                        # Guard8.ai product overviews
+└── products/                        # ARC.ceo product overviews
 ```
 
 ### Key Theoretical Frameworks

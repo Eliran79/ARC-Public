@@ -164,7 +164,7 @@ This means:
 
 ### Shield Location
 
-Repository: `/data/git/Guard8.ai/Shield/`
+Repository: `/data/git/ARC.ceo/Shield/`
 
 **Technical specs:**
 - Key derivation: PBKDF2-SHA256 (100,000 rounds)

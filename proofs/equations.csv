@@ -51,9 +51,9 @@ Equation#,Name,Formula,Meaning,Domain,File_Reference
 50,P-Exponential Boundary,|S_obs| = O(n^c); P iff c=O(1); Exp iff c=O(n),The complexity class boundary condition,Complexity,proofs/THE_BOUNDARY.md
 51,Chess Lambda,λ_chess = √2 (from c=2 squares changed),Chess move locality determines statistics,Gaming,np-optima/src/bin/chess_lambda.rs
 52,AutoEncoder Bins,n_bins = ceil(2.12/ε),Nittay-derived optimal quantization levels,AI/ML,proofs/PREDICTION_NITTAY_AUTOENCODER.md
-53,GPS Accuracy Formula,acc = base × κ / √(c×N×div),c=4 GPS accuracy with trajectory diversity,Navigation,Guard8.ai/LocationGuard/MainActivity.kt
-54,GPS Lambda,λ_gps = √4 = 2,GPS hidden variable from 4 unknowns,Navigation,Guard8.ai/LocationGuard/MainActivity.kt
-55,Geometry Diversity,div = 1 + avgArc,Satellite trajectory improves effective N,Navigation,Guard8.ai/LocationGuard/MainActivity.kt
+53,GPS Accuracy Formula,acc = base × κ / √(c×N×div),c=4 GPS accuracy with trajectory diversity,Navigation,ARC.ceo/LocationGuard/MainActivity.kt
+54,GPS Lambda,λ_gps = √4 = 2,GPS hidden variable from 4 unknowns,Navigation,ARC.ceo/LocationGuard/MainActivity.kt
+55,Geometry Diversity,div = 1 + avgArc,Satellite trajectory improves effective N,Navigation,ARC.ceo/LocationGuard/MainActivity.kt
 56,PSPACE Depth Collapse,PSPACE(d) = O(d × n^c) for fixed d,Bounded alternation depth converts PSPACE to polynomial NP chain,Complexity,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
 57,Alternation Cost,Total = alternation_depth × single_query_cost = d × O(n^c),Each quantifier level adds one polynomial factor,Complexity,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md
 58,Fog Horizon Formula,d_sufficient = min{d : eval(state d) saturates},Fix depth where evaluation stabilizes - design choice,Complexity,proofs/DISCOVERY_80_QUANTIFIER_BOUNDARY.md

@@ -172,7 +172,7 @@ Forward secrecy: RatchetSession with ephemeral keys
 
 ### Location
 
-Shield is available at: `/data/git/Guard8.ai/Shield/`
+Shield is available at: `/data/git/ARC.ceo/Shield/`
 
 For technical details: See Shield's `SECURITY.md` and `README.md`
 

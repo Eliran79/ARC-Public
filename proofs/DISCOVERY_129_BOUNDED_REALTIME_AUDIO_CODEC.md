@@ -1,7 +1,7 @@
 # Discovery 129: Bounded Real-Time Audio Codec
 
 **Target Customer:** NimbusIP (HOT Telecom Israel) - National-scale Cloud PBX
-**Repository:** /data/git/Guard8.ai/AudioBenchmark
+**Repository:** /data/git/ARC.ceo/AudioBenchmark
 
 ## Executive Summary
 

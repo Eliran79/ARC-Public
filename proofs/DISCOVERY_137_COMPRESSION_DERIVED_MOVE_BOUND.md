@@ -87,7 +87,7 @@ This IS the move bound c: the number of parameters that should change per gradie
 
 ## Empirical Verification
 
-### FitGuard Benchmark (guard8.ai)
+### FitGuard Benchmark (arc.ceo)
 
 FitGuard uses this formula to derive c with zero hyperparameters. Benchmark against sklearn with 5-fold GridSearchCV:
 

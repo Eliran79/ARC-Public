@@ -5,7 +5,7 @@
 **Status:** VERIFIED
 **Framework Version:** Discovery 140 / CausaDB
 **Verification Binary:** `verify_causal_boundedness`
-**Implementation:** CausaDB (Guard8.ai) — world's first causal database
+**Implementation:** CausaDB (ARC.ceo) — world's first causal database
 
 ---
 
@@ -174,7 +174,7 @@ CausaDB computes this in O(n^2) with a certificate proving polynomial time.
 
 ---
 
-## Implementation: CausaDB (Guard8.ai)
+## Implementation: CausaDB (ARC.ceo)
 
 ### Architecture
 

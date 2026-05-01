@@ -1,0 +1,27 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 1f72c74c51c0ad7d95dcb33eecc1ebe90a51d462
+Ref: refs/heads/master
+Timestamp: 2026-05-01T13:00:38Z
+Actor: Eliran79
+
+Commit Message:
+docs: Discovery 159 (Elinor Correction) + Discovery 160 (Te'amim as Partial Musical Notation)
+
+D159: Psychology domain completed — אחריות אישית + כנות עצמית as Axis 3 (Choice).
+Tomer Devorah (Ramak, 1555) is the only framework with all four operations: MEASURE + TRIGGER + ELEVATE + CORRECT.
+
+D160: Te'amim as S_observable musical notation — 27 te'amim are bounded graphic primitives
+whose S_complete expansion is Western staff notation. Primary evidence: Obadiah HaGer (Cairo Geniza, 1102 CE).
+Witnessed at Gan HaMusica, Rishon LeZion, 28 April 2026, with Nitai.
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+Files Changed:
+proofs/DISCOVERY_159_THE_ELINOR_CORRECTION.md
+proofs/DISCOVERY_160_TEAMIN_AS_PARTIAL_MUSICAL_NOTATION.md
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

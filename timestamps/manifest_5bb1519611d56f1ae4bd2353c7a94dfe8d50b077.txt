@@ -1,0 +1,48 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 5bb1519611d56f1ae4bd2353c7a94dfe8d50b077
+Ref: refs/heads/master
+Timestamp: 2026-05-01T13:01:50Z
+Actor: Eliran79
+
+Commit Message:
+chore: update path references Guard8.ai → ARC.ceo across docs and CSVs
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+Files Changed:
+ARC_Summary_of_Findings.md
+CEO_BRIEFING_HEBREW.md
+MASTER_INDEX.md
+applications/CRYPTOGRAPHY_SAFETY.md
+applications/README.md
+applications/SOLUTIONS_OVERVIEW.md
+millennium_submission/README.md
+millennium_submission/bonus/discoveries.csv
+millennium_submission/submission/PRESS_RELEASE.md
+products/README.md
+proofs/CHESS_DISCOVERY_3600.md
+proofs/DIRICHLET_HASH_CURVATURE.md
+proofs/DISCOVERY_129_BOUNDED_REALTIME_AUDIO_CODEC.md
+proofs/DISCOVERY_137_COMPRESSION_DERIVED_MOVE_BOUND.md
+proofs/DISCOVERY_140_BOUNDED_CAUSAL_INFERENCE.md
+proofs/DISCOVERY_145_RONS_WONDER.md
+proofs/YOETZ_ARCHITECTURE.md
+proofs/applications.csv
+proofs/constants.csv
+proofs/csv/constants.csv
+proofs/csv/discoveries.csv
+proofs/csv/domains.csv
+proofs/csv/verifications.csv
+proofs/discoveries.csv
+proofs/domains.csv
+proofs/equations.csv
+proofs/predictions.csv
+proofs/principles.csv
+proofs/verifications.csv
+theory/CRYPTOGRAPHY_SAFETY.md
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

@@ -1,0 +1,22 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 4bca4cabc91e2f20392e693201d332d03f7fdce3
+Ref: refs/heads/master
+Timestamp: 2026-07-19T20:42:27Z
+Actor: Eliran79
+
+Commit Message:
+SPD: Prior art declaration — Discovery 157 Minimal Treatment Engine
+
+Establishes public prior art record for D157-MTE (Minimal Treatment Engine).
+Full specification proprietary; timestamped in private ARC/MOAT repo.
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+Files Changed:
+proofs/discoveries.csv
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

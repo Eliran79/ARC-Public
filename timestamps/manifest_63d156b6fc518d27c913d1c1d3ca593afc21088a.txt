@@ -1,0 +1,31 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 63d156b6fc518d27c913d1c1d3ca593afc21088a
+Ref: refs/heads/master
+Timestamp: 2026-11-23T01:31:13Z
+Actor: Eliran79
+
+Commit Message:
+docs: sync D126 erratum (DHPS re-scored from curated Reactome; DepMap and TCGA/GTEx tests)
+
+DHPS boundedness is 4 (not 2), tied with SHMT2; 10.5x selectivity is not
+supported by tumor expression; absence of a backup pathway and broad DepMap
+dependency are supported. Updates D126 doc, CSV rows, README, index and LaTeX.
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+
+Files Changed:
+millennium_submission/README.md
+millennium_submission/bonus/DISCOVERY_126_NOVEL_CANCER_TARGET.md
+millennium_submission/bonus/MASTER_DISCOVERY_INDEX.md
+millennium_submission/bonus/discoveries.csv
+millennium_submission/latex/10_DRUG_TARGET.tex
+proofs/DISCOVERY_126_NOVEL_CANCER_TARGET.md
+proofs/csv/discoveries.csv
+proofs/csv/triangles.csv
+proofs/csv/verifications.csv
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

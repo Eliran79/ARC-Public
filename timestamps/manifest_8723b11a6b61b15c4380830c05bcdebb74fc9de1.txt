@@ -1,0 +1,19 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 8723b11a6b61b15c4380830c05bcdebb74fc9de1
+Ref: refs/heads/master
+Timestamp: 2026-11-23T01:41:05Z
+Actor: Eliran79
+
+Commit Message:
+docs: D161 add source details and regulatory-modulation lab controls
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+
+Files Changed:
+proofs/DISCOVERY_161_NATURAL_DHPS_MODULATOR_HYPOTHESIS.md
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

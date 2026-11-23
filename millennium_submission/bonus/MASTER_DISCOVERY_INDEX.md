@@ -100,7 +100,7 @@ The Sabag Bounded Transformation Principle is supported by **147 documented disc
 | 113 | Standard Model Ethers | 8/12 fermions are artifacts |
 | 116-120 | Nature Boundedness | Chemistry, Geology, Weather |
 | 121-124 | Biology Boundedness | Cells, Body, Pharmacology |
-| 125-126 | Cancer Drug Discovery | SHMT2, DHPS predictions |
+| 125-126 | Cancer Drug Discovery | SHMT2, DHPS hypotheses (126 revised Nov 2026: see Erratum) |
 | 127 | ARC Memory Chip | Two Randomness storage |
 | 128 | **Moore's Law Ended** | 16nm = Nittay boundary |
 | 129 | Audio Codec | 30x faster than Opus |

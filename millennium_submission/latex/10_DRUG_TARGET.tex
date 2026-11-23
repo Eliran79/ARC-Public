@@ -16,7 +16,7 @@
 \maketitle
 
 \begin{abstract}
-We apply the Sabag Bounded Transformation Principle to drug target discovery, predicting DHPS (Deoxyhypusine Synthase) as a novel cancer drug target. Unlike existing targets, DHPS has maximum boundedness (score = 2) with zero backup pathways. As of February 2026, no clinical trials exist for DHPS inhibitors, making this a falsifiable prediction.
+We apply the Sabag Bounded Transformation Principle to drug target discovery, predicting DHPS (Deoxyhypusine Synthase) as a novel cancer drug target. Original analysis scored DHPS as maximally bounded ($B = 2$). \textbf{Erratum (November 2026):} re-scoring from curated Reactome reactions gives $B = 4$ for DHPS (tied with SHMT2), so boundedness does not single out DHPS. What the public data do support is the absence of a backup pathway (linear hypusine pathway, no paralog), broad CRISPR dependency (89\% of 1,258 DepMap lines), and zero clinical candidates. The predicted $10.5\times$ tumor selectivity is not supported: DHPS is not upregulated in TCGA lung tumors relative to normal tissue.
 \end{abstract}
 
 \section{Bounded Drug Discovery}
@@ -28,7 +28,7 @@ Lower scores indicate more constrained (bounded) targets.
 \end{definition}
 
 \begin{theorem}[Optimal Target Selection]
-Targets with $B = 2$ (one substrate, one product, zero backups) provide maximum therapeutic selectivity.
+\emph{Original statement:} targets with $B = 2$ (one substrate, one product, zero backups) provide maximum therapeutic selectivity. \emph{Status:} not supported; across 126 diseases, targets with $B=2$ had existing drugs in 27\% of cases versus 56\% at $B=3$, so $B$ does not rank targets. The decisive variable in the data is the absence of a redundant route.
 \end{theorem}
 
 \section{DHPS Analysis}
@@ -42,10 +42,10 @@ $$\text{eIF5A-Lys} + \text{spermidine} \xrightarrow{\text{DHPS}} \text{deoxyhypu
 \toprule
 \textbf{Property} & \textbf{Value} \\
 \midrule
-Substrates & 1 (eIF5A) \\
-Products & 1 (deoxyhypusine-eIF5A) \\
+Substrates & 2 (eIF5A, spermidine) \\
+Products & 2 (deoxyhypusyl-eIF5A, 1,3-diaminopropane) \\
 Backup pathways & 0 \\
-\textbf{Boundedness Score} & \textbf{2} \\
+\textbf{Boundedness Score} & \textbf{4} (originally 2; Reactome R-HSA-204647) \\
 \bottomrule
 \end{tabular}
 \caption{DHPS boundedness analysis}
@@ -55,13 +55,15 @@ Backup pathways & 0 \\
 
 \begin{enumerate}
 \item \textbf{Unique substrate}: eIF5A is the ONLY protein that undergoes hypusination
-\item \textbf{No backup}: Unlike SHMT2 (which has SHMT1 backup), DHPS has no alternative enzyme
+\item \textbf{No backup}: Unlike SHMT2 (which has SHMT1 backup), DHPS has no alternative enzyme (supported: DepMap essential in 89\% of lines versus 2\% for SHMT2)
 \item \textbf{MYC dependency}: MYC-driven cancers require hypusinated eIF5A for translation of polyproline-containing proteins
 \end{enumerate}
 
 \section{Selectivity Analysis}
 
-\begin{theorem}[Therapeutic Window]
+\textbf{Erratum:} the figures below are model predictions. TCGA/GTEx expression does not support them (median z-score vs. normal lung: DHPS $-0.25$ LUAD, $+0.14$ LUSC; SHMT2 $+3.54$, $+5.11$). Broad essentiality suggests a narrow window.
+
+\begin{theorem}[Therapeutic Window (model prediction)]
 DHPS inhibition selectivity:
 $$\text{Selectivity} = \frac{\text{Cancer cell DHPS activity}}{\text{Normal cell DHPS activity}} \approx 10.5\times$$
 \end{theorem}
@@ -74,7 +76,7 @@ Comparison with SHMT2 (Discovery 125):
 
 \section{The Prediction}
 
-\begin{prediction}[Falsifiable]
+\begin{prediction}[Hypothesis, untested]
 DHPS inhibitors will show:
 \begin{enumerate}
 \item Selective toxicity to MYC-amplified cancers
@@ -83,7 +85,7 @@ DHPS inhibitors will show:
 \end{enumerate}
 \end{prediction}
 
-\textbf{Status as of February 2026}: Zero clinical trials registered for DHPS inhibitors on ClinicalTrials.gov.
+\textbf{Status}: Zero clinical trials registered for DHPS inhibitors on ClinicalTrials.gov (February 2026); zero clinical candidates in Open Targets (November 2026).
 
 \section{Connection to Bounded Transformation}
 
@@ -103,10 +105,10 @@ This prediction demonstrates:
 \begin{enumerate}
 \item The Bounded Transformation Principle applies to biology
 \item Mathematical analysis can predict novel drug targets
-\item Boundedness score provides quantitative target ranking
+\item (Revised) Boundedness score alone does not rank targets; absence of a backup pathway is the variable that carries predictive content
 \item Framework produces falsifiable, testable predictions
 \end{enumerate}
 
-If DHPS inhibitors succeed in clinical trials, this validates the framework's predictive power beyond mathematics into medicine.
+No experimental validation exists. A DHPS inhibitor result would test the backup-free dependency hypothesis, not the boundedness score.
 
 \end{document}

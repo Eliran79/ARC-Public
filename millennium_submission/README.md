@@ -154,10 +154,11 @@ Practical validation of the Nittay boundary:
 - Explains industry struggles with quantum leakage
 
 ### Discovery 126: Novel Cancer Drug Target (DHPS)
-**A falsifiable prediction** - zero clinical trials exist:
-- Boundedness score = 2 (optimal)
-- 10.5× therapeutic selectivity
-- No backup pathway (unlike SHMT2)
+**A hypothesis** (revised Nov 2026 after testing against public data; see the Erratum in `proofs/DISCOVERY_126_NOVEL_CANCER_TARGET.md`):
+- Boundedness re-scored from curated Reactome reactions: DHPS = 4 (not 2), tied with SHMT2 - not uniquely most bounded
+- No backup pathway (unlike SHMT2) and broadly essential in DepMap (89% of 1,258 lines) - supported
+- 10.5× selectivity - **not supported**: DHPS is not upregulated in TCGA lung tumors
+- Zero clinical candidates in Open Targets
 
 ### How to Fix Statistics (40 Distributions)
 The Two Randomness Theorem provides empirical test:

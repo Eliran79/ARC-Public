@@ -6,6 +6,31 @@ Discovery 126 demonstrates that the **Sabag Bounded Transformation Principle** c
 
 **Prediction: DHPS** as a novel cancer drug target (no clinical trials exist).
 
+---
+
+## ERRATUM (November 2026): Independent Evaluation Against Public Data
+
+> **Status change:** The DHPS prediction below stands as a *hypothesis*. Several quantitative claims in this document were tested against Reactome, Open Targets, DepMap, TCGA and GTEx and are **not supported as stated**. The original text is kept for the record; where it conflicts with this erratum, the erratum governs. Full analysis: *The Bounded Enzyme Target Hypothesis* (paper, Nov 2026) and the D157 data package.
+
+| # | Original claim | Finding | Evidence |
+|---|----------------|---------|----------|
+| 1 | DHPS boundedness = 2 (1 substrate + 1 product) | **4** under a standard cofactor convention (spermidine + eIF5A -> deoxyhypusyl-eIF5A + 1,3-diaminopropane). Gives 2 only if spermidine is treated as a cofactor, which also gives 2 to PHGDH, PSPH, DOHH, MTHFD2 and others. | Reactome R-HSA-204647; 16 SGOC/hypusine genes scored |
+| 2 | SHMT2 score = 8 (D125: 7) | **4** from its curated catalytic reaction (R-HSA-5694137). DHPS vs SHMT2 is 4 vs 4: no boundedness gap. | Reactome |
+| 3 | Lowest score = best target | Not supported. Across 126 D157 diseases, targets with B=2 had drugs in 27% (9/33), B=3 in 56%, B=5 in 86%. Score does not rank targets. | D157 table |
+| 4 | Boundedness predicts optimal target (polynomial formula n^c) | The formula reduces every enzyme's space (10^4.5 to 10^11 vs 3^(2n) >= 10^178) but does **not** discriminate: PSPH/PHGDH have the smallest space and are essential in ~1% of cell lines. | Formula applied to 16 genes |
+| 5 | "Zero backup" is decisive | **Supported, and this is the predictive variable.** DHPS and DOHH are cut vertices of a linear pathway with no paralog; essential in 89% and 60% of 1,258 DepMap lines (EIF5A 92%). SHMT2 is essential in 2% (SHMT1 backup). | Reactome topology; DepMap |
+| 6 | 10.5x tumor selectivity | **Not supported.** DHPS is not upregulated in lung tumors (median z vs TCGA normal: LUAD -0.25, LUSC +0.14), and is broadly essential, implying a narrow window. SHMT2 (z +3.5/+5.1), PSAT1, MTHFD2, TYMS are strongly upregulated. The 10.5x figure is a model prediction, not a measurement. | TCGA/GTEx via cBioPortal/HPA |
+| 7 | No clinical trials | Consistent: 0 clinical candidates for DHPS in Open Targets. True for nearly all SGOC enzymes except TYMS (10) and DHFR (8). SHMT2 also shows 0 candidates there, not "Phase I/3 trials". | Open Targets |
+| 8 | GC7-like scaffold is a path to a drug-like inhibitor | GC7 is a synthetic spermidine analogue and not drug-like. The "Ki ~50 nM, MW ~420" profile is predicted, not measured. Spermidine is the DHPS *substrate*; no data here concern natural-product inhibitors. | Literature; this analysis |
+
+**Revised statement.** DHPS is a bounded, backup-free, broadly essential dependency with no clinical candidates. It is **not** shown to be the most bounded enzyme, nor tumor-selective by expression. Absence of a redundant route, not the substrate+product count, carries the predictive content in available data.
+
+**Not affected / still open:** MYC-dependence mechanism (eIF5A hypusination and polyproline translation); the claim that DHPS lacks a paralog (confirmed in Reactome); experimental validation (none).
+
+**Code-Theory-Proof status:** `verify_novel_cancer_target.rs` still encodes the original scores (DHPS=2, SHMT2=8) and its "CONFIRMED" output reflects those hardcoded inputs, not the data above. It has not been changed; it should be updated to read scores from curated reactions.
+
+---
+
 **Key Insight:** The most bounded enzyme (fewest substrates, fewest products, zero backup pathways) is the most predictable and potentially the best drug target. DHPS achieves maximum boundedness: 1 substrate + 1 product + 0 backup = 2.
 
 ---
@@ -39,6 +64,8 @@ Lower score = more bounded = better target.
 | DHODH | 2 | 2 | 1 | 5 | Approved | 0.20 |
 
 **DHPS has the lowest boundedness score (2) and highest novelty (1.00).**
+
+> *Erratum: see claims 1-3 above. With curated Reactome reactions DHPS = 4 and SHMT2 = 4.*
 
 ---
 
@@ -132,7 +159,7 @@ MYC not translated → MYC protein depleted → Cancer stops
 |-----------|-------|
 | Cancer eIF5A activity | 4.5× normal |
 | Normal cell tolerance | 70% inhibition |
-| **Predicted selectivity** | **10.5×** |
+| **Predicted selectivity** | **10.5×** (model prediction; not supported by TCGA/GTEx expression or DepMap, see Erratum claim 6) |
 
 ### Comparison
 | Target | Selectivity | Reason |
@@ -272,9 +299,9 @@ KEY INSIGHT: Maximum boundedness predicts optimal drug targets
 
 Discovery 126 demonstrates that the Sabag Bounded Transformation Principle can **PREDICT** novel cancer drug targets, not just validate known ones:
 
-1. **Maximum boundedness** (1+1+0=2) identifies DHPS as optimal target
+1. **Maximum boundedness** (1+1+0=2) identifies DHPS as optimal target *[superseded: score is 4; see Erratum]*
 2. **Zero backup pathways** means no escape route for cancer cells
-3. **10.5× selectivity** exceeds SHMT2's 3.5×
+3. **10.5× selectivity** exceeds SHMT2's 3.5× *[not supported by expression data; see Erratum]*
 4. **No clinical trials** confirms this is a novel prediction
 5. **Lipinski-compliant** inhibitor scaffold is achievable
 

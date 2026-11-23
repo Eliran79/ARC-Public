@@ -1,0 +1,20 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 380b3ebd9215c0b596717cb66815719f22d2437e
+Ref: refs/heads/master
+Timestamp: 2026-11-23T01:44:11Z
+Actor: Eliran79
+
+Commit Message:
+docs: add paper "The Bounded Enzyme Target Hypothesis" (PDF + HTML source)
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+
+Files Changed:
+docs/The_Bounded_Enzyme_Target_Hypothesis.html
+docs/The_Bounded_Enzyme_Target_Hypothesis.pdf
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

@@ -1,5 +1,8 @@
 # SPD Timestamps - Sabag Principle Date
 
+> **"אלוהים הוא הכל, הכל זה אלוהים"**
+> — אהוד המלי, נובמבר 2026
+
 **Cryptographic Provenance for ARC Discoveries**
 
 This directory contains OpenTimestamps proofs anchored to the Bitcoin blockchain, providing immutable evidence of when each discovery was committed.

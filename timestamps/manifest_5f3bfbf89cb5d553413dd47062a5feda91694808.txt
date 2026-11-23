@@ -1,0 +1,26 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 5f3bfbf89cb5d553413dd47062a5feda91694808
+Ref: refs/heads/master
+Timestamp: 2026-11-23T02:22:11Z
+Actor: Eliran79
+
+Commit Message:
+docs: update paper with epidemiological and tissue-level checks (Figures 1-3)
+
+Adds section 3.7: beer and women's smoking vs breast-cancer mortality with ARC
+bounded adjustment search, and NHS GSE93601 DHPS expression vs alcohol intake.
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+
+Files Changed:
+docs/The_Bounded_Enzyme_Target_Hypothesis.html
+docs/The_Bounded_Enzyme_Target_Hypothesis.pdf
+docs/fig1_countries.png
+docs/fig2_spec_curve.png
+docs/fig3_smoking_beer.png
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

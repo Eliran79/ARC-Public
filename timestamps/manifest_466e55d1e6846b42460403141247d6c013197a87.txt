@@ -1,0 +1,20 @@
+SPD Timestamp Manifest
+======================
+Repository: Eliran79/ARC-Public
+Commit: 466e55d1e6846b42460403141247d6c013197a87
+Ref: refs/heads/master
+Timestamp: 2026-11-23T01:49:36Z
+Actor: Eliran79
+
+Commit Message:
+SPD: OpenTimestamp proof for 380b3ebd9215c0b596717cb66815719f22d2437e
+
+Files Changed:
+timestamps/commit_380b3ebd9215c0b596717cb66815719f22d2437e.txt
+timestamps/commit_380b3ebd9215c0b596717cb66815719f22d2437e.txt.ots
+timestamps/manifest_380b3ebd9215c0b596717cb66815719f22d2437e.txt
+timestamps/manifest_380b3ebd9215c0b596717cb66815719f22d2437e.txt.ots
+
+---
+Sabag Bounded Transformation Principle
+43 years: 1982-2026

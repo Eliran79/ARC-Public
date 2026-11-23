@@ -24,10 +24,25 @@ Discovery 161 (this):           candidate natural DHPS-targeting agent -> TEST I
 
 | Element | Statement |
 |---------|-----------|
-| Source | Brewer's yeast and button mushroom (field observation, not yet characterised) |
+| Source | Brewer's yeast (commercial supplement, see Part 1a); button mushroom mentioned in the original observation but no source details yet |
 | Target | DHPS (hypusination of eIF5A) in lung cancer |
 | Proposed effect | Cancer cell cannot overcome free radicals -> cell death; radicals released into cell/body |
 | Supportive measure | Healthy diet to help the body cope with released radicals |
+
+## Part 1a: Source Material (as supplied by the author)
+
+| Field | Value |
+|-------|-------|
+| Material | Brewer's yeast (*S. cerevisiae*) |
+| Form | Dietary supplement |
+| Manufacturer | "Manufacturer X" — name, product, batch/lot and label composition to be recorded before testing |
+| Preparation | None (used as supplied; no extraction, heating or other processing) |
+| Intended mode of action | **Regulatory modulation**, in the way curcumin acts (a dietary compound that shifts the regulation of cellular pathways) rather than a classical single-target inhibitor |
+| Button mushroom | Mentioned in the original observation; source, form and preparation not yet provided (TBD) |
+| Location / observer / date of observation | Ness Ziona offices; observer and date TBD |
+| Measurements so far | None reported |
+
+**Implication of the regulatory framing.** If the effect is regulatory, the active agent need not bind DHPS. It could act upstream or around the hypusine axis: polyamine supply (spermidine/ODC1/SAT1), eIF5A expression, DHPS/DOHH expression, or redox and stress-response signalling. This widens the hypothesis and changes what must be measured (Part 3, steps 8–9). Curcumin-like compounds are also known to act on many targets and to interfere with assays, so assay artefacts must be excluded.
 
 ## Part 2: What Existing Data Say (from the D126 evaluation, Nov 2026)
 
@@ -52,6 +67,8 @@ Discovery 161 (this):           candidate natural DHPS-targeting agent -> TEST I
 | 5 | **ROS mechanism**: DCFDA / MitoSOX; rescue with N-acetylcysteine | — | ROS rise preceding death; rescue by antioxidant |
 | 6 | **Spermidine control**: add spermidine alone and with the fraction | — | Does substrate supply increase hypusination or block the effect? |
 | 7 | **Genetic specificity**: DHPS knockdown / rescue with resistant allele | — | Effect phenocopied by DHPS loss and rescued by DHPS |
+| 8 | **Regulatory readouts** (supplement used unprocessed, dissolved/suspended in medium; heat-inactivated and vehicle controls): mRNA/protein of DHPS, DOHH, EIF5A, ODC1, SAT1; intracellular polyamines (spermidine/spermine) by LC-MS | Curcumin as the comparator named by the author; GC7 | Direction and size of regulatory change; does it precede viability loss? |
+| 9 | **Assay-interference and composition controls**: yeast-only (no cells) in the DHPS assay; fluorescence/colour interference checks; label composition and contaminant screen of the supplement (lot-to-lot) | Curcumin (known pan-assay interferer) | Is activity reproducible across lots and not an artefact? |
 
 ## Part 4: Falsification Criteria
 
@@ -61,6 +78,7 @@ The hypothesis is rejected if any of the following holds:
 3. Selectivity index ≤ 1 (normal cells as sensitive as cancer cells) (step 4).
 4. Cell death is not preceded by, or not rescued against, ROS increase (step 5).
 5. Spermidine alone reproduces, or the active fraction is spermidine itself (step 6).
+6. No regulatory change in the hypusine/polyamine axis (step 8), or the effect is not reproducible across supplement lots or is explained by assay interference (step 9).
 
 ## Part 5: Why This Is a Bounded-Transformation Prediction
 
@@ -75,7 +93,7 @@ The hypusine pathway is a single linear chain (eIF5A -> deoxyhypusyl-eIF5A -> hy
 
 ## Part 7: Next Steps
 
-1. Characterise the candidate material (source, strain, preparation, composition).
+1. Record the exact product (manufacturer X, product name, lot, label composition) and keep retained samples from each lot.
 2. Run steps 1–7 in an accredited laboratory with appropriate controls and replicates.
 3. Pre-register the falsification criteria above before testing.
 4. Update this discovery with results, positive or negative.
